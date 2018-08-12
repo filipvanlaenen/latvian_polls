@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Saeima</title>
+    <link>https://filipvanlaenen.github.io/latvian_polls</link>
+    <description>All Registered Polls for the Saeima</description>
+    <pubDate>Sun, 12 Aug 2018 10:11:51 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-06-30-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 29.7–37.1%&lt;/li&gt;&lt;li&gt;Vienotība: 3.0–6.2%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 19.7–26.3%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 7.6–12.2%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 1.7–4.3%&lt;/li&gt;&lt;li&gt;No sirds Latvijai: 1.4–3.9%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 1.1–3.3%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 4.7–8.5%&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 5.2–9.2%&lt;/li&gt;&lt;li&gt;Kustība Par!: 5.6–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-06-30-SKDS.png"
+        length="277823"
+        type="image/png"/>
+      <pubDate>Sun, 12 Aug 2018 10:03:04 +0200</pubDate>
+      <dc:date>2018-08-12T10:03:04.404075+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-05-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 28.8–36.4%&lt;/li&gt;&lt;li&gt;Vienotība: 4.6–8.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 21.5–28.5%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 9.5–14.8%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 1.8–4.6%&lt;/li&gt;&lt;li&gt;No sirds Latvijai: 1.7–4.4%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 1.3–3.7%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 2.8–6.0%&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 3.6–7.2%&lt;/li&gt;&lt;li&gt;Kustība Par!: 3.6–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-05-31-SKDS.png"
+        length="280408"
+        type="image/png"/>
+      <pubDate>Sun, 12 Aug 2018 10:06:37 +0200</pubDate>
+      <dc:date>2018-08-12T10:06:37.048459+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for TV3 Latvija, 1–31 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-05-31-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 19.9–26.0%&lt;/li&gt;&lt;li&gt;Vienotība: 6.8–11.0%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 20.9–27.2%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.5–15.4%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 3.2–6.3%&lt;/li&gt;&lt;li&gt;No sirds Latvijai: 1.9–4.5%&lt;/li&gt;&lt;li&gt;Latvijas attīstībai: 1.6–3.9%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 6.7–10.8%&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 3.5–6.7%&lt;/li&gt;&lt;li&gt;Kustība Par!: 3.7–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-05-31-Norstat.png"
+        length="297854"
+        type="image/png"/>
+      <pubDate>Sun, 12 Aug 2018 10:11:51 +0200</pubDate>
+      <dc:date>2018-08-12T10:11:51.636463+02:00</dc:date>
+    </item>
+    <dc:date>2018-08-12T10:11:51.636463+02:00</dc:date>
+  </channel>
+</rss>
