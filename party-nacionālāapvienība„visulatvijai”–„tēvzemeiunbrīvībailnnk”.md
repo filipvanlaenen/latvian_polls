@@ -14,10 +14,10 @@ Last result: **16.6%** (General Election of 4 October 2014)
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.7% | 8.3–11.3% | 7.9–11.8% | 7.6–12.2% | 7.0–13.1% |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.9% | 10.3–13.8% | 9.9–14.3% | 9.5–14.8% | 8.8–15.7% |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 12.7% | 11.2–14.5% | 10.8–15.0% | 10.5–15.4% | 9.8–16.2% |
-| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.2% | N/A | N/A | N/A | N/A |
-| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.0% | N/A | N/A | N/A | N/A |
+| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.2% | 11.6–15.0% | 11.1–15.6% | 10.7–16.0% | 10.0–17.0% |
+| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.0% | 9.5–12.9% | 9.1–13.4% | 8.7–13.9% | 8.0–14.8% |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.6% | N/A | N/A | N/A | N/A |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.1% | N/A | N/A | N/A | N/A |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.1% | 8.6–11.9% | 8.2–12.4% | 7.9–12.8% | 7.2–13.7% |
 
 ### Probability Mass Function
 
@@ -48,14 +48,14 @@ Last result: **17** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–12 | 7–13 | 7–14 | 7–14 |
-| [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 7 | 7–12 | 7–13 | 7–14 | 7–14 |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 12 | 12–14 | 12–14 | 11–14 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 13 | 13 | 13 | 13 | 12–13 |
-| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–15 | 7–16 | 7–16 |
+| [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 8–11 | 7–12 | 7–13 | 7–13 |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 11–15 | 11–15 | 10–15 | 9–16 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 13 | 11–15 | 10–16 | 9–16 | 9–16 |
+| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–14 | 11–15 | 11–15 | 10–16 |
+| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 11–12 | 9–12 | 9–14 | 8–15 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 | 9–12 | 8–13 | 7–13 | 7–14 |
 
 ### Probability Mass Function
 
@@ -65,17 +65,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 65% | 99.9% | Median |
-| 8 | 2% | 35% |  |
-| 9 | 2% | 33% |  |
-| 10 | 0% | 31% |  |
-| 11 | 2% | 31% |  |
-| 12 | 24% | 29% |  |
-| 13 | 1.3% | 5% |  |
-| 14 | 4% | 4% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% | Last Result |
+| 6 | 0.2% | 100% |  |
+| 7 | 3% | 99.8% |  |
+| 8 | 5% | 97% |  |
+| 9 | 30% | 92% |  |
+| 10 | 4% | 62% |  |
+| 11 | 10% | 58% | Median |
+| 12 | 2% | 47% |  |
+| 13 | 32% | 45% |  |
+| 14 | 5% | 13% |  |
+| 15 | 5% | 8% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0.2% | 0.2% | Last Result |
+| 18 | 0% | 0% |  |
 
 
