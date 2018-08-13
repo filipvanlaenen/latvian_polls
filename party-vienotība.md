@@ -16,7 +16,7 @@ Last result: **21.9%** (General Election of 4 October 2014)
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 8.7% | 7.5–10.2% | 7.1–10.6% | 6.8–11.0% | 6.3–11.7% |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.8% | 6.6–9.3% | 6.2–9.7% | 5.9–10.1% | 5.4–10.9% |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.6% | 7.2–10.3% | 6.9–10.7% | 6.6–11.2% | 6.0–12.0% |
-| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.4% | N/A | N/A | N/A | N/A |
+| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.4% | 6.2–9.0% | 5.9–9.4% | 5.6–9.8% | 5.1–10.6% |
 | [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.0% | 4.0–6.4% | 3.8–6.8% | 3.5–7.2% | 3.1–7.9% |
 
 ### Probability Mass Function
@@ -59,11 +59,11 @@ Last result: **23** seats (General Election of 4 October 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 4–9 | 3–9 | 3–10 | 2–12 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 5 | 3–6 | 3–7 | 3–7 | 2–7 |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 7 | 7 | 5–8 | 5–8 | 4–9 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 9 | 7–9 | 7–10 | 7–11 | 7–13 |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 7 | 7–8 | 6–8 | 5–9 | 3–10 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 9 | 7–9 | 7–10 | 7–10 | 7–12 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 7 | 7–8 | 7–9 | 7–10 | 6–10 |
-| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 | 8–10 | 7–10 | 7–11 | 7–12 |
-| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 | 7–10 | 7–11 | 7–11 | 7–12 |
+| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 |  |  |  |  |
 | [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5 | 4–7 | 4–7 | 3–7 | 3–8 |
 
 ### Probability Mass Function
@@ -79,13 +79,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 6% | 92% |  |
 | 5 | 31% | 87% |  |
 | 6 | 2% | 55% |  |
-| 7 | 16% | 53% | Median |
-| 8 | 1.4% | 37% |  |
-| 9 | 31% | 36% |  |
-| 10 | 3% | 5% |  |
-| 11 | 0.4% | 1.5% |  |
-| 12 | 0.7% | 1.1% |  |
-| 13 | 0.4% | 0.4% |  |
+| 7 | 13% | 53% | Median |
+| 8 | 2% | 41% |  |
+| 9 | 34% | 38% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.4% | 1.0% |  |
+| 12 | 0.5% | 0.6% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
