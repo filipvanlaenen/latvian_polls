@@ -54,7 +54,7 @@ Last result: **17** seats (General Election of 4 October 2014)
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 13 | 13–14 | 11–15 | 10–16 | 9–16 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–14 | 11–15 | 11–15 | 10–16 |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 10–13 | 9–14 | 8–15 | 7–17 |
-| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–15 | 11–15 | 11–16 | 9–17 |
+| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 14–18 | 12–18 | 11–19 | 11–19 |
 | [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 | 9–13 | 8–13 | 7–13 | 7–14 |
 
 ### Probability Mass Function
