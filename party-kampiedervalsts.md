@@ -48,14 +48,14 @@ Last result: **0** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–9 | 3–9 | 2–9 | 2–9 |
-| [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6 | 3–7 | 2–7 | 2–8 | 2–9 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 6 | 3–7 | 2–7 | 2–8 | 2–8 |
-| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2 | 2–5 | 2–6 | 2–6 |
-| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2–5 | 2–6 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 0–10 |
+| [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 6 | 6–9 | 6–9 | 6–10 | 0–11 |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6 | 0–8 | 0–8 | 0–8 | 0–9 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 7 | 7 | 7 | 7 | 0–7 |
+| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
+| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–6 |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2 | 2–6 | 2–6 | 2–6 | 2–6 |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–7 |
 
 ### Probability Mass Function
 
@@ -65,18 +65,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 4% | 100% |  |
-| 3 | 3% | 96% |  |
-| 4 | 3% | 92% |  |
-| 5 | 11% | 89% |  |
-| 6 | 38% | 78% | Median |
-| 7 | 17% | 39% |  |
-| 8 | 9% | 23% |  |
-| 9 | 13% | 13% |  |
-| 10 | 0.2% | 0.3% |  |
-| 11 | 0.1% | 0.1% |  |
+| 0 | 1.3% | 100% | Last Result |
+| 1 | 0% | 98.7% |  |
+| 2 | 0% | 98.7% |  |
+| 3 | 0% | 98.7% |  |
+| 4 | 0% | 98.7% |  |
+| 5 | 0% | 98.7% |  |
+| 6 | 26% | 98.7% |  |
+| 7 | 53% | 73% | Median |
+| 8 | 2% | 19% |  |
+| 9 | 16% | 17% |  |
+| 10 | 1.0% | 1.3% |  |
+| 11 | 0.2% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 
