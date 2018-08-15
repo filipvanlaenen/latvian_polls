@@ -48,14 +48,14 @@ Last result: **17** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–14 | 9–14 | 9–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–18 | 9–19 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 9–13 | 9–14 | 9–15 | 8–15 |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 12–16 | 12–17 | 11–17 | 10–21 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 14 | 14 | 14 | 14 | 14 |
-| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 22 | 16–22 | 16–22 | 15–22 | 15–22 |
-| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–14 | 11–14 | 10–15 | 10–17 |
-| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 14–18 | 13–18 | 12–19 | 11–20 |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 10–14 | 9–14 | 9–15 | 7–17 |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 12–17 | 11–17 | 11–18 | 10–20 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 15 | 13–17 | 13–18 | 13–18 | 11–20 |
+| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 15–19 | 13–19 | 13–19 | 11–20 |
+| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–15 | 11–16 | 10–16 | 9–17 |
+| [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 14–18 | 12–19 | 11–19 | 11–20 |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 10–15 | 10–15 | 9–15 | 7–17 |
 
 ### Probability Mass Function
 
@@ -71,10 +71,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 6% | 94% |  |
 | 11 | 30% | 88% |  |
 | 12 | 2% | 58% |  |
-| 13 | 2% | 56% |  |
-| 14 | 51% | 54% | Median |
-| 15 | 2% | 2% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0% | 0% | Last Result |
+| 13 | 14% | 55% | Median |
+| 14 | 8% | 42% |  |
+| 15 | 17% | 34% |  |
+| 16 | 9% | 17% |  |
+| 17 | 5% | 8% | Last Result |
+| 18 | 2% | 3% |  |
+| 19 | 0.6% | 0.9% |  |
+| 20 | 0.2% | 0.3% |  |
+| 21 | 0% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 

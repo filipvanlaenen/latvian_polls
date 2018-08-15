@@ -48,14 +48,14 @@ Last result: **0** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 6 | 0–9 | 0–9 | 0–9 | 0–10 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 6 | 6–9 | 6–9 | 6–10 | 0–11 |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6 | 0–8 | 0–8 | 0–8 | 0–9 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 7 | 7 | 7 | 7 | 0–7 |
-| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
-| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–8 | 0–9 | 0–9 | 0–9 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 0 | 0–8 | 0–8 | 0–8 | 0–9 |
+| [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0–6 | 0–6 |
+| [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–6 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–6 |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–7 |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0–6 |
 
 ### Probability Mass Function
 
@@ -65,16 +65,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% | Last Result |
-| 1 | 0% | 98.7% |  |
-| 2 | 0% | 98.7% |  |
-| 3 | 0% | 98.7% |  |
-| 4 | 0% | 98.7% |  |
-| 5 | 0% | 98.7% |  |
-| 6 | 26% | 98.7% |  |
-| 7 | 53% | 73% | Median |
-| 8 | 2% | 19% |  |
-| 9 | 16% | 17% |  |
+| 0 | 29% | 100% | Last Result |
+| 1 | 0% | 71% |  |
+| 2 | 0% | 71% |  |
+| 3 | 0% | 71% |  |
+| 4 | 0% | 71% |  |
+| 5 | 0% | 71% |  |
+| 6 | 28% | 71% | Median |
+| 7 | 16% | 43% |  |
+| 8 | 9% | 27% |  |
+| 9 | 16% | 18% |  |
 | 10 | 1.0% | 1.3% |  |
 | 11 | 0.2% | 0.3% |  |
 | 12 | 0% | 0% |  |
