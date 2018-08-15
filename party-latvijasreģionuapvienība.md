@@ -51,7 +51,7 @@ Last result: **8** seats (General Election of 4 October 2014)
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0–6 | 0–6 | 0–7 |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0–6 | 0–6 |
-| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–6 | 0–6 | 0–7 | 0–9 |
+| [1–31 January 2018](2018-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–6 | 0–7 | 0–7 | 0–9 |
 
 ### Probability Mass Function
 
