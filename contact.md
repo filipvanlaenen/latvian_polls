@@ -12,9 +12,9 @@ If you
 
 you can contact me through any of the following channels:
 
-+ Create a [GitHub issue](https://github.com/filipvanlaenen/swedish_polls/issues)
++ Create a [GitHub issue](https://github.com/filipvanlaenen/latvian_polls/issues)
   on this site's GitHub project
-+ Send me a notification on Twitter at [@swepolls](https://twitter.com/swepolls)
++ Send me a notification on Twitter at [@lvapolls](https://twitter.com/lvapolls)
 + Send me an e-mail at [f.a.vanlaenen@ieee.org](mailto:f.a.vanlaenen@ieee.org)
 
 You can also check out my [backlog](backlog.html) to see whether your suggestion
