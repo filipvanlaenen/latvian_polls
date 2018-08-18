@@ -4,17 +4,16 @@
 
 The following resources have been consulted in order to create this site:
 
-+ Wikipedia page with opinion polls: "[Opinion polling for the Swedish general election, 2018](https://en.wikipedia.org/wiki/Opinion_polling_for_the_Swedish_general_election,_2018)"
++ Wikipedia page about the 2018 parliamentary election, with opinion polls: "[Latvian parliamentary election, 2018](https://en.wikipedia.org/wiki/Latvian_parliamentary_election,_2018)"
++ Detailed results from the 2014 parliamentary election: "[12. Saeimas vēlēšanas](http://sv2014.cvk.lv/index_rez.html)"
 
 ## Similar Websites
 
 The following websites provide similar information to this website:
 
-+ [Electograph – Sweden](http://www.electograph.com/search/label/Sweden)
-+ [Pollofpolls.se](http://pollofpolls.se/)
-+ [Poll of Polls – Sweden – Riksdag (Swedish Parliament)](https://pollofpolls.eu/SE)
-+ [Twitter Search: EuropeElects Sweden](https://twitter.com/search?f=tweets&vertical=default&q=europeelects%20sweden&src=typd)
-+ [val.digital](https://val.digital/)
++ [Electograph – Latvia](http://www.electograph.com/search/label/Latvia)
++ [Poll of Polls – Latvia – Saeima (Latvian Parliament)](https://pollofpolls.eu/LV)
++ [Twitter Search: EuropeElects Latvia](https://twitter.com/search?f=tweets&vertical=default&q=europeelects%20latvia&src=typd)
 
 ## Other Resources
 
@@ -31,8 +30,8 @@ The following websites provide similar information to this website:
 + [German EP Polls](https://filipvanlaenen.github.io/german_ep_polls/)
 + [Hungarian Polls](https://filipvanlaenen.github.io/hungarian_polls/) and [Hungarian EP Polls](https://filipvanlaenen.github.io/hungarian_ep_polls/)
 + [Icelandic Polls](https://filipvanlaenen.github.io/icelandic_polls/)
-+ [Latvian Polls](https://filipvanlaenen.github.io/latvian_polls/) and [Latvian EP Polls](https://filipvanlaenen.github.io/latvian_ep_polls/)
++ [Latvian EP Polls](https://filipvanlaenen.github.io/latvian_ep_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
 + [Slovenian Polls](https://filipvanlaenen.github.io/slovenian_polls/) and [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
-+ [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
++ [Swedish Polls](https://filipvanlaenen.github.io/swedish_polls/) and [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
