@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sat, 18 Aug 2018 19:51:32 +0200</pubDate>
+    <pubDate>Sat, 18 Aug 2018 22:00:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2018-06-30-SKDS.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-05-31-Norstat.png"
         length="298178"
         type="image/png"/>
-      <pubDate>Sat, 18 Aug 2018 10:00:45 +0200</pubDate>
-      <dc:date>2018-08-18T10:00:45.767386+02:00</dc:date>
+      <pubDate>Sat, 18 Aug 2018 22:00:41 +0200</pubDate>
+      <dc:date>2018-08-18T22:00:41.575041+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 April 2018 – Seat Projections for the Parties</title>
@@ -179,6 +179,6 @@
       <pubDate>Sat, 18 Aug 2018 19:51:32 +0200</pubDate>
       <dc:date>2018-08-18T19:51:32.691476+02:00</dc:date>
     </item>
-    <dc:date>2018-08-18T19:51:32.691476+02:00</dc:date>
+    <dc:date>2018-08-18T22:00:41.575041+02:00</dc:date>
   </channel>
 </rss>
