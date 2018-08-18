@@ -19,7 +19,7 @@ The following websites provide similar information to this website:
 
 + The RSS 2.0 feed for this site: [rss.xml](rss.xml)
 + The Atom feed for this site: [atom.xml](atom.xml)
-+ The GitHub project for this site: [filipvanlaenen/swedish_polls](https://github.com/filipvanlaenen/swedish_polls)
++ The GitHub project for this site: [filipvanlaenen/latvian_polls](https://github.com/filipvanlaenen/latvian_polls)
 
 ## Sister Websites
 
