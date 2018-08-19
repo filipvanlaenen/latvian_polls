@@ -48,10 +48,10 @@ Last result: **17** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–17 | 9–17 | 9–18 | 7–19 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–18 | 7–19 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 9–13 | 9–14 | 8–14 | 7–15 |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 12–17 | 11–17 | 11–18 | 10–20 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 15 | 13–17 | 13–18 | 12–18 | 11–20 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 15 | 13–17 | 13–18 | 13–18 | 11–20 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 14–19 | 13–19 | 12–19 | 11–20 |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–15 | 11–16 | 10–17 | 9–18 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 14–18 | 13–18 | 12–19 | 11–20 |
@@ -71,14 +71,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 13% | 91% |  |
 | 11 | 20% | 78% |  |
 | 12 | 3% | 58% |  |
-| 13 | 16% | 55% | Median |
-| 14 | 8% | 39% |  |
-| 15 | 17% | 31% |  |
-| 16 | 4% | 14% |  |
-| 17 | 6% | 10% | Last Result |
-| 18 | 3% | 4% |  |
-| 19 | 0.9% | 1.2% |  |
+| 13 | 13% | 56% | Median |
+| 14 | 10% | 43% |  |
+| 15 | 16% | 33% |  |
+| 16 | 9% | 17% |  |
+| 17 | 5% | 8% | Last Result |
+| 18 | 2% | 3% |  |
+| 19 | 0.6% | 0.9% |  |
 | 20 | 0.2% | 0.3% |  |
-| 21 | 0% | 0% |  |
+| 21 | 0% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 

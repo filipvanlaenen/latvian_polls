@@ -59,10 +59,10 @@ Last result: **24** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 26–39 | 24–41 | 24–41 | 22–43 |
+| N/A | [Poll Average](average.html) | 33 | 25–39 | 24–41 | 24–41 | 22–43 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 38 | 34–41 | 33–41 | 33–42 | 31–45 |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 40 | 35–42 | 33–42 | 32–42 | 31–45 |
-| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 27 | 24–29 | 24–30 | 23–32 | 22–33 |
+| [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 28 | 24–32 | 24–32 | 23–33 | 22–33 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 41 | 38–45 | 38–46 | 37–46 | 36–47 |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 41 | 37–43 | 37–43 | 36–46 | 34–47 |
 | [1–28 February 2018](2018-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 39 | 37–41 | 37–42 | 36–43 | 34–46 |
@@ -77,18 +77,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.4% | 99.9% |  |
-| 23 | 1.2% | 99.5% |  |
-| 24 | 4% | 98% | Last Result |
-| 25 | 2% | 94% |  |
-| 26 | 7% | 92% |  |
-| 27 | 12% | 85% |  |
-| 28 | 16% | 73% |  |
-| 29 | 3% | 57% |  |
-| 30 | 2% | 54% |  |
-| 31 | 0.9% | 52% |  |
-| 32 | 0.9% | 51% | Median |
-| 33 | 3% | 50% |  |
+| 22 | 0.6% | 99.9% |  |
+| 23 | 0.8% | 99.3% |  |
+| 24 | 8% | 98% | Last Result |
+| 25 | 2% | 91% |  |
+| 26 | 4% | 89% |  |
+| 27 | 8% | 84% |  |
+| 28 | 10% | 76% |  |
+| 29 | 6% | 66% |  |
+| 30 | 1.3% | 60% |  |
+| 31 | 2% | 59% |  |
+| 32 | 6% | 57% |  |
+| 33 | 3% | 51% | Median |
 | 34 | 4% | 47% |  |
 | 35 | 4% | 43% |  |
 | 36 | 5% | 39% |  |
