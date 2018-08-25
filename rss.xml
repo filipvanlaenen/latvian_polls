@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sat, 25 Aug 2018 10:20:41 +0200</pubDate>
+    <pubDate>Sat, 25 Aug 2018 10:46:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–23 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 32–42 seats&lt;/li&gt;&lt;li&gt;Vienotība: 7–12 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 17–26 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 7–15 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 0–7 seats&lt;/li&gt;&lt;li&gt;No sirds Latvijai: 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 0–7 seats&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 10–17 seats&lt;/li&gt;&lt;li&gt;Kustība Par!: 0–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS-seats.png"
+        length="270346"
+        type="image/png"/>
+      <pubDate>Sat, 25 Aug 2018 10:46:00 +0200</pubDate>
+      <dc:date>2018-08-25T10:46:00.487537+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–23 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS-coalitions-seats.png"
+        length="312430"
+        type="image/png"/>
+      <pubDate>Sat, 25 Aug 2018 10:46:00 +0200</pubDate>
+      <dc:date>2018-08-25T10:46:00.487537+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–23 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS.png"
         length="285565"
         type="image/png"/>
-      <pubDate>Sat, 25 Aug 2018 10:20:41 +0200</pubDate>
-      <dc:date>2018-08-25T10:20:41.645377+02:00</dc:date>
+      <pubDate>Sat, 25 Aug 2018 10:46:00 +0200</pubDate>
+      <dc:date>2018-08-25T10:46:00.487537+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2018 – Seat Projections for the Parties</title>
@@ -229,6 +249,6 @@
       <pubDate>Sat, 18 Aug 2018 19:51:32 +0200</pubDate>
       <dc:date>2018-08-18T19:51:32.691476+02:00</dc:date>
     </item>
-    <dc:date>2018-08-25T10:20:41.645377+02:00</dc:date>
+    <dc:date>2018-08-25T10:46:00.487537+02:00</dc:date>
   </channel>
 </rss>
