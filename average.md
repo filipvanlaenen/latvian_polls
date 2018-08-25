@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | SDPS | V | ZZS | NA | NSL | LRA | LKS | VL | LA | JKP | KPV | PAR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2014 | General Election | 23.0% <br> 24 | 21.9% <br> 23 | 19.5% <br> 21 | 16.6% <br> 17 | 6.8% <br> 7 | 6.7% <br> 8 | 1.6% <br> 0 | 1.2% <br> 0 | 0.9% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 20–36% <br> 24–40 | 6–11% <br> 7–12 | 15–27% <br> 19–33 | 8–15% <br> 8–18 | 2–4% <br> 0 | 3–6% <br> 0–8 | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 3–10% <br> 0–13 | 4–14% <br> 0–16 | 4–7% <br> 0–8 |
-| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 29–37% <br> 32–42 | 6–10% <br> 7–12 | 15–21% <br> 18–26 | 7–12% <br> 7–15 | 2–4% <br> 0 | 3–6% <br> 0–7 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–7 | 9–14% <br> 10–17 | 3–7% <br> 0–8 |
+| N/A | Poll Average | 20–36% <br> 24–41 | 6–11% <br> 7–12 | 15–27% <br> 17–33 | 8–15% <br> 8–18 | 2–4% <br> 0 | 3–6% <br> 0–8 | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 3–10% <br> 0–13 | 4–14% <br> 0–16 | 4–7% <br> 0–8 |
+| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 29–37% <br> 32–42 | 6–10% <br> 7–12 | 15–21% <br> 17–26 | 7–12% <br> 7–15 | 2–4% <br> 0 | 3–6% <br> 0–7 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–7 | 9–14% <br> 10–17 | 3–7% <br> 0–8 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 20–26% <br> 23–33 | 7–11% <br> 7–13 | 21–27% <br> 23–33 | 10–15% <br> 13–18 | 2–4% <br> 0 | 3–6% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 7–11% <br> 8–13 | 4–7% <br> 0–8 | 4–7% <br> 0–8 |
 | 4 October 2014 | General Election | 23.0% <br> 24 | 21.9% <br> 23 | 19.5% <br> 21 | 16.6% <br> 17 | 6.8% <br> 7 | 6.7% <br> 8 | 1.6% <br> 0 | 1.2% <br> 0 | 0.9% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -289,9 +289,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sociāldemokrātiskā-partija-“saskaņa”">Sociāldemokrātiskā Partija “Saskaņa”</a> | 24 | 32 | 25–39 |24–40 | 24–40 | 22–43 |
-| <a href="#vienotība">Vienotība</a> | 23 | 10 | 8–12 |7–12 | 7–12 | 7–13 |
-| <a href="#zaļo-un-zemnieku-savienība">Zaļo un Zemnieku savienība</a> | 21 | 24 | 20–30 |19–33 | 19–33 | 17–34 |
+| <a href="#sociāldemokrātiskā-partija-“saskaņa”">Sociāldemokrātiskā Partija “Saskaņa”</a> | 24 | 33 | 25–39 |24–40 | 24–41 | 22–43 |
+| <a href="#vienotība">Vienotība</a> | 23 | 9 | 8–12 |7–12 | 7–12 | 7–13 |
+| <a href="#zaļo-un-zemnieku-savienība">Zaļo un Zemnieku savienība</a> | 21 | 24 | 19–30 |19–33 | 17–33 | 17–34 |
 | <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”</a> | 17 | 13 | 10–16 |9–17 | 8–18 | 7–19 |
 | <a href="#no-sirds-latvijai">No sirds Latvijai</a> | 7 | 0 | 0 |0 | 0 | 0 |
 | <a href="#latvijas-reģionu-apvienība">Latvijas Reģionu apvienība</a> | 8 | 0 | 0–7 |0–7 | 0–8 | 0–8 |
@@ -299,7 +299,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#vienoti-latvijai">Vienoti Latvijai</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#latvijas-attīstībai">Latvijas attīstībai</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#jaunā-konservatīvā-partija">Jaunā konservatīvā partija</a> | 0 | 8 | 0–11 |0–12 | 0–13 | 0–14 |
-| <a href="#kam-pieder-valsts?">Kam pieder valsts?</a> | 0 | 9 | 0–15 |0–16 | 0–16 | 0–17 |
+| <a href="#kam-pieder-valsts?">Kam pieder valsts?</a> | 0 | 9 | 0–15 |0–15 | 0–16 | 0–17 |
 | <a href="#kustība-par!">Kustība Par!</a> | 0 | 0 | 0–7 |0–7 | 0–8 | 0–9 |
 
 ### Sociāldemokrātiskā Partija “Saskaņa”
@@ -320,22 +320,22 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 10% | 76% |  |
 | 29 | 6% | 66% |  |
 | 30 | 1.1% | 60% |  |
-| 31 | 2% | 59% |  |
-| 32 | 7% | 57% | Median |
-| 33 | 3% | 50% |  |
-| 34 | 2% | 47% |  |
+| 31 | 3% | 59% |  |
+| 32 | 6% | 56% |  |
+| 33 | 2% | 50% | Median |
+| 34 | 3% | 48% |  |
 | 35 | 4% | 45% |  |
-| 36 | 6% | 41% |  |
-| 37 | 18% | 35% |  |
-| 38 | 4% | 17% |  |
-| 39 | 4% | 14% |  |
-| 40 | 7% | 10% |  |
-| 41 | 0.4% | 2% |  |
-| 42 | 0.9% | 2% |  |
-| 43 | 0.5% | 0.9% |  |
-| 44 | 0.1% | 0.4% |  |
-| 45 | 0.1% | 0.3% |  |
-| 46 | 0.2% | 0.2% |  |
+| 36 | 4% | 41% |  |
+| 37 | 14% | 37% |  |
+| 38 | 12% | 23% |  |
+| 39 | 3% | 11% |  |
+| 40 | 4% | 8% |  |
+| 41 | 2% | 4% |  |
+| 42 | 0.7% | 2% |  |
+| 43 | 0.9% | 1.2% |  |
+| 44 | 0.1% | 0.3% |  |
+| 45 | 0.1% | 0.2% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 
 ### Vienotība
@@ -354,11 +354,11 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 99.9% |  |
 | 6 | 0% | 99.9% |  |
 | 7 | 6% | 99.9% |  |
-| 8 | 15% | 94% |  |
-| 9 | 27% | 78% |  |
-| 10 | 18% | 51% | Median |
-| 11 | 17% | 33% |  |
-| 12 | 14% | 16% |  |
+| 8 | 21% | 94% |  |
+| 9 | 25% | 73% | Median |
+| 10 | 14% | 48% |  |
+| 11 | 18% | 33% |  |
+| 12 | 13% | 16% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.3% | 0.4% |  |
 | 15 | 0.1% | 0.2% |  |
@@ -379,15 +379,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.2% | 100% |  |
-| 17 | 0.9% | 99.8% |  |
-| 18 | 1.3% | 98.9% |  |
-| 19 | 4% | 98% |  |
-| 20 | 4% | 93% |  |
-| 21 | 6% | 89% | Last Result |
-| 22 | 2% | 83% |  |
-| 23 | 18% | 81% |  |
-| 24 | 17% | 63% | Median |
+| 16 | 0.4% | 100% |  |
+| 17 | 2% | 99.6% |  |
+| 18 | 1.0% | 97% |  |
+| 19 | 8% | 96% |  |
+| 20 | 4% | 88% |  |
+| 21 | 5% | 84% | Last Result |
+| 22 | 4% | 80% |  |
+| 23 | 17% | 76% |  |
+| 24 | 14% | 59% | Median |
 | 25 | 4% | 46% |  |
 | 26 | 2% | 42% |  |
 | 27 | 5% | 40% |  |
@@ -411,15 +411,15 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 2% | 99.9% |  |
+| 7 | 1.5% | 99.9% |  |
 | 8 | 2% | 98% |  |
-| 9 | 4% | 96% |  |
-| 10 | 3% | 92% |  |
-| 11 | 14% | 89% |  |
-| 12 | 6% | 74% |  |
-| 13 | 20% | 69% | Median |
-| 14 | 15% | 49% |  |
-| 15 | 17% | 34% |  |
+| 9 | 3% | 97% |  |
+| 10 | 7% | 93% |  |
+| 11 | 18% | 86% |  |
+| 12 | 6% | 67% |  |
+| 13 | 15% | 61% | Median |
+| 14 | 12% | 45% |  |
+| 15 | 16% | 33% |  |
 | 16 | 9% | 17% |  |
 | 17 | 5% | 8% | Last Result |
 | 18 | 2% | 3% |  |
@@ -436,13 +436,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Median |
-| 1 | 0% | 0.4% |  |
-| 2 | 0% | 0.4% |  |
-| 3 | 0% | 0.4% |  |
-| 4 | 0% | 0.4% |  |
-| 5 | 0% | 0.4% |  |
-| 6 | 0.2% | 0.4% |  |
+| 0 | 99.7% | 100% | Median |
+| 1 | 0% | 0.3% |  |
+| 2 | 0% | 0.3% |  |
+| 3 | 0% | 0.3% |  |
+| 4 | 0% | 0.3% |  |
+| 5 | 0% | 0.3% |  |
+| 6 | 0.1% | 0.3% |  |
 | 7 | 0.2% | 0.2% | Last Result |
 | 8 | 0% | 0% |  |
 
@@ -461,7 +461,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 25% |  |
 | 5 | 0% | 25% |  |
 | 6 | 7% | 25% |  |
-| 7 | 13% | 17% |  |
+| 7 | 14% | 18% |  |
 | 8 | 4% | 4% | Last Result |
 | 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% |  |
@@ -494,15 +494,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% | Last Result |
-| 1 | 0% | 61% |  |
-| 2 | 0% | 61% |  |
-| 3 | 0% | 61% |  |
-| 4 | 0% | 61% |  |
-| 5 | 0% | 61% |  |
-| 6 | 0.5% | 61% |  |
-| 7 | 10% | 61% |  |
-| 8 | 14% | 51% | Median |
+| 0 | 38% | 100% | Last Result |
+| 1 | 0% | 62% |  |
+| 2 | 0% | 62% |  |
+| 3 | 0% | 62% |  |
+| 4 | 0% | 62% |  |
+| 5 | 0% | 62% |  |
+| 6 | 0.5% | 62% |  |
+| 7 | 11% | 61% |  |
+| 8 | 14% | 50% | Median |
 | 9 | 5% | 37% |  |
 | 10 | 14% | 32% |  |
 | 11 | 9% | 17% |  |
@@ -529,16 +529,16 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 2% | 72% |  |
 | 7 | 12% | 70% |  |
 | 8 | 7% | 58% |  |
-| 9 | 1.4% | 50% | Median |
-| 10 | 1.3% | 49% |  |
-| 11 | 6% | 48% |  |
-| 12 | 4% | 42% |  |
-| 13 | 11% | 38% |  |
-| 14 | 3% | 27% |  |
-| 15 | 18% | 24% |  |
-| 16 | 4% | 6% |  |
+| 9 | 1.2% | 50% | Median |
+| 10 | 0.9% | 49% |  |
+| 11 | 4% | 48% |  |
+| 12 | 3% | 44% |  |
+| 13 | 12% | 41% |  |
+| 14 | 4% | 29% |  |
+| 15 | 21% | 25% |  |
+| 16 | 2% | 4% |  |
 | 17 | 2% | 2% |  |
-| 18 | 0.1% | 0.1% |  |
+| 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
@@ -550,17 +550,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 0% | 45% |  |
-| 2 | 0% | 45% |  |
-| 3 | 0% | 45% |  |
-| 4 | 0% | 45% |  |
-| 5 | 0% | 45% |  |
-| 6 | 0.1% | 45% |  |
-| 7 | 41% | 45% |  |
-| 8 | 3% | 4% |  |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 0% | 50% |  |
+| 2 | 0% | 50% |  |
+| 3 | 0% | 50% |  |
+| 4 | 0% | 50% |  |
+| 5 | 0% | 50% |  |
+| 6 | 0% | 50% |  |
+| 7 | 47% | 50% |  |
+| 8 | 2% | 3% |  |
 | 9 | 1.0% | 1.0% |  |
-| 10 | 0% | 0.1% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 
@@ -572,38 +572,37 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija – Kustība Par! | 61 | 57 | 58% | 46–71 | 44–72 | 43–73 | 40–75 |
-| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija | 61 | 53 | 53% | 41–68 | 40–71 | 38–71 | 35–72 |
-| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Kustība Par! | 61 | 51 | 51% | 44–60 | 42–62 | 40–63 | 36–64 |
-| Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija – Kustība Par! | 38 | 47 | 48% | 37–60 | 35–62 | 33–63 | 31–64 |
-| Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija | 38 | 44 | 38% | 32–56 | 31–59 | 30–60 | 27–62 |
-| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | 61 | 48 | 38% | 40–58 | 38–59 | 36–59 | 35–63 |
-| Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Kustība Par! | 38 | 42 | 7% | 35–50 | 32–51 | 31–52 | 27–54 |
+| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija – Kustība Par! | 61 | 57 | 56% | 45–71 | 43–72 | 42–73 | 39–75 |
+| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija | 61 | 53 | 52% | 40–68 | 40–71 | 39–71 | 36–72 |
+| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Kustība Par! | 61 | 51 | 51% | 42–60 | 41–62 | 39–63 | 37–64 |
+| Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija – Kustība Par! | 38 | 47 | 48% | 36–60 | 34–62 | 32–63 | 30–64 |
+| Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija | 38 | 44 | 38% | 32–56 | 29–59 | 29–60 | 27–62 |
+| Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | 61 | 47 | 38% | 40–58 | 38–59 | 36–59 | 35–63 |
+| Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Kustība Par! | 38 | 41 | 7% | 34–50 | 32–51 | 31–52 | 28–54 |
 
 ### Vienotība – Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Jaunā konservatīvā partija – Kustība Par!
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0% | 100% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.1% | 99.8% |  |
-| 40 | 0.2% | 99.7% |  |
-| 41 | 0.5% | 99.5% |  |
-| 42 | 1.3% | 98.9% |  |
-| 43 | 2% | 98% |  |
-| 44 | 2% | 95% |  |
-| 45 | 3% | 93% |  |
-| 46 | 3% | 90% |  |
-| 47 | 11% | 87% |  |
-| 48 | 14% | 76% |  |
-| 49 | 2% | 62% |  |
-| 50 | 1.4% | 59% |  |
-| 51 | 2% | 58% | Majority |
-| 52 | 1.2% | 56% |  |
-| 53 | 4% | 55% |  |
-| 54 | 0.7% | 51% |  |
-| 55 | 0.2% | 50% | Median |
-| 56 | 0.1% | 50% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.4% | 99.8% |  |
+| 40 | 1.0% | 99.4% |  |
+| 41 | 0.6% | 98% |  |
+| 42 | 2% | 98% |  |
+| 43 | 2% | 96% |  |
+| 44 | 3% | 94% |  |
+| 45 | 2% | 91% |  |
+| 46 | 2% | 89% |  |
+| 47 | 10% | 86% |  |
+| 48 | 11% | 76% |  |
+| 49 | 6% | 65% |  |
+| 50 | 2% | 58% |  |
+| 51 | 2% | 56% | Majority |
+| 52 | 0.9% | 54% |  |
+| 53 | 2% | 53% |  |
+| 54 | 0.6% | 51% | Median |
+| 55 | 0.3% | 51% |  |
+| 56 | 0.2% | 50% |  |
 | 57 | 0.1% | 50% |  |
 | 58 | 0.4% | 50% |  |
 | 59 | 1.2% | 50% |  |
@@ -631,27 +630,27 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.5% | 100% |  |
-| 36 | 0.8% | 99.4% |  |
-| 37 | 0.2% | 98.7% |  |
-| 38 | 1.2% | 98% |  |
-| 39 | 1.3% | 97% |  |
-| 40 | 5% | 96% |  |
-| 41 | 6% | 91% |  |
-| 42 | 1.2% | 86% |  |
-| 43 | 3% | 85% |  |
-| 44 | 3% | 82% |  |
-| 45 | 3% | 79% |  |
-| 46 | 4% | 76% |  |
-| 47 | 7% | 72% |  |
-| 48 | 10% | 65% |  |
-| 49 | 2% | 56% |  |
-| 50 | 0.5% | 54% |  |
-| 51 | 0.6% | 53% | Majority |
-| 52 | 0.4% | 53% |  |
-| 53 | 3% | 52% |  |
-| 54 | 0.3% | 49% |  |
-| 55 | 4% | 49% | Median |
+| 35 | 0.3% | 100% |  |
+| 36 | 0.4% | 99.7% |  |
+| 37 | 0.6% | 99.3% |  |
+| 38 | 0.8% | 98.7% |  |
+| 39 | 1.1% | 98% |  |
+| 40 | 8% | 97% |  |
+| 41 | 5% | 89% |  |
+| 42 | 6% | 84% |  |
+| 43 | 3% | 78% |  |
+| 44 | 4% | 75% |  |
+| 45 | 2% | 71% |  |
+| 46 | 3% | 68% |  |
+| 47 | 4% | 65% |  |
+| 48 | 7% | 61% |  |
+| 49 | 2% | 54% |  |
+| 50 | 0.7% | 53% |  |
+| 51 | 0.4% | 52% | Majority |
+| 52 | 0.3% | 51% |  |
+| 53 | 2% | 51% |  |
+| 54 | 0.2% | 49% | Median |
+| 55 | 4% | 49% |  |
 | 56 | 0.4% | 45% |  |
 | 57 | 1.0% | 44% |  |
 | 58 | 2% | 43% |  |
@@ -677,24 +676,24 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0.1% | 100% |  |
-| 36 | 0.5% | 99.8% |  |
-| 37 | 0.3% | 99.4% |  |
-| 38 | 0.7% | 99.1% |  |
-| 39 | 0.3% | 98% |  |
-| 40 | 0.7% | 98% |  |
-| 41 | 2% | 97% |  |
-| 42 | 3% | 95% |  |
-| 43 | 2% | 93% |  |
-| 44 | 3% | 90% |  |
-| 45 | 4% | 88% |  |
-| 46 | 6% | 84% |  |
-| 47 | 11% | 78% | Median |
-| 48 | 13% | 67% |  |
-| 49 | 1.3% | 54% |  |
-| 50 | 2% | 53% |  |
+| 36 | 0.3% | 99.9% |  |
+| 37 | 0.3% | 99.6% |  |
+| 38 | 0.6% | 99.3% |  |
+| 39 | 1.3% | 98.7% |  |
+| 40 | 2% | 97% |  |
+| 41 | 3% | 96% |  |
+| 42 | 3% | 93% |  |
+| 43 | 3% | 90% |  |
+| 44 | 4% | 87% |  |
+| 45 | 2% | 83% |  |
+| 46 | 4% | 81% | Median |
+| 47 | 11% | 77% |  |
+| 48 | 9% | 67% |  |
+| 49 | 5% | 58% |  |
+| 50 | 2% | 52% |  |
 | 51 | 2% | 51% | Majority |
 | 52 | 6% | 49% |  |
-| 53 | 2% | 43% |  |
+| 53 | 2% | 42% |  |
 | 54 | 4% | 41% |  |
 | 55 | 3% | 37% |  |
 | 56 | 4% | 34% |  |
@@ -714,30 +713,29 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0% | 100% |  |
-| 28 | 0% | 99.9% |  |
+| 28 | 0% | 100% |  |
 | 29 | 0.1% | 99.9% |  |
-| 30 | 0.2% | 99.9% |  |
-| 31 | 0.5% | 99.6% |  |
-| 32 | 0.7% | 99.2% |  |
-| 33 | 1.2% | 98% |  |
-| 34 | 2% | 97% |  |
-| 35 | 3% | 95% |  |
-| 36 | 2% | 92% |  |
-| 37 | 17% | 91% |  |
-| 38 | 4% | 74% | Last Result |
-| 39 | 5% | 70% |  |
-| 40 | 4% | 65% |  |
-| 41 | 2% | 60% |  |
-| 42 | 2% | 58% |  |
-| 43 | 1.3% | 56% |  |
-| 44 | 3% | 54% |  |
-| 45 | 0.6% | 52% | Median |
-| 46 | 0.9% | 51% |  |
-| 47 | 0.2% | 50% |  |
+| 30 | 0.5% | 99.9% |  |
+| 31 | 0.6% | 99.4% |  |
+| 32 | 1.4% | 98.8% |  |
+| 33 | 0.9% | 97% |  |
+| 34 | 3% | 96% |  |
+| 35 | 2% | 94% |  |
+| 36 | 7% | 91% |  |
+| 37 | 9% | 84% |  |
+| 38 | 4% | 76% | Last Result |
+| 39 | 3% | 71% |  |
+| 40 | 5% | 68% |  |
+| 41 | 7% | 63% |  |
+| 42 | 3% | 57% |  |
+| 43 | 1.1% | 54% |  |
+| 44 | 2% | 53% |  |
+| 45 | 0.4% | 51% | Median |
+| 46 | 0.6% | 51% |  |
+| 47 | 0.3% | 50% |  |
 | 48 | 0.2% | 50% |  |
 | 49 | 0.3% | 50% |  |
-| 50 | 1.1% | 50% |  |
+| 50 | 1.1% | 49% |  |
 | 51 | 1.4% | 48% | Majority |
 | 52 | 1.0% | 47% |  |
 | 53 | 5% | 46% |  |
@@ -760,24 +758,24 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
-| 27 | 0.8% | 99.9% |  |
-| 28 | 0.8% | 99.2% |  |
-| 29 | 0.5% | 98% |  |
-| 30 | 2% | 98% |  |
-| 31 | 2% | 96% |  |
-| 32 | 5% | 94% |  |
-| 33 | 4% | 89% |  |
-| 34 | 3% | 85% |  |
-| 35 | 4% | 81% |  |
-| 36 | 2% | 78% |  |
-| 37 | 15% | 75% |  |
-| 38 | 3% | 60% | Last Result |
-| 39 | 2% | 57% |  |
-| 40 | 1.5% | 55% |  |
-| 41 | 0.7% | 54% |  |
-| 42 | 0.4% | 53% |  |
-| 43 | 0.5% | 53% |  |
-| 44 | 3% | 52% |  |
+| 27 | 0.4% | 99.9% |  |
+| 28 | 0.6% | 99.5% |  |
+| 29 | 4% | 98.9% |  |
+| 30 | 2% | 94% |  |
+| 31 | 2% | 92% |  |
+| 32 | 4% | 91% |  |
+| 33 | 5% | 87% |  |
+| 34 | 7% | 82% |  |
+| 35 | 4% | 75% |  |
+| 36 | 4% | 71% |  |
+| 37 | 8% | 68% |  |
+| 38 | 4% | 60% | Last Result |
+| 39 | 1.2% | 56% |  |
+| 40 | 1.2% | 55% |  |
+| 41 | 2% | 54% |  |
+| 42 | 0.6% | 52% |  |
+| 43 | 0.3% | 51% |  |
+| 44 | 2% | 51% |  |
 | 45 | 0.2% | 49% | Median |
 | 46 | 4% | 49% |  |
 | 47 | 1.3% | 45% |  |
@@ -804,25 +802,23 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0% | 99.9% |  |
-| 33 | 0% | 99.9% |  |
-| 34 | 0.3% | 99.9% |  |
-| 35 | 0.7% | 99.6% |  |
-| 36 | 2% | 98.9% |  |
-| 37 | 1.0% | 97% |  |
-| 38 | 2% | 96% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0.2% | 99.9% |  |
+| 35 | 1.0% | 99.7% |  |
+| 36 | 2% | 98.7% |  |
+| 37 | 1.3% | 97% |  |
+| 38 | 1.5% | 96% |  |
 | 39 | 3% | 94% |  |
-| 40 | 5% | 92% |  |
-| 41 | 7% | 86% |  |
-| 42 | 2% | 80% |  |
-| 43 | 2% | 77% |  |
-| 44 | 2% | 75% |  |
-| 45 | 8% | 73% |  |
-| 46 | 5% | 65% |  |
-| 47 | 7% | 60% | Median |
-| 48 | 9% | 53% |  |
-| 49 | 3% | 43% |  |
+| 40 | 8% | 91% |  |
+| 41 | 8% | 83% |  |
+| 42 | 6% | 75% |  |
+| 43 | 2% | 69% |  |
+| 44 | 4% | 67% |  |
+| 45 | 7% | 63% |  |
+| 46 | 2% | 56% | Median |
+| 47 | 5% | 54% |  |
+| 48 | 6% | 49% |  |
+| 49 | 3% | 44% |  |
 | 50 | 3% | 40% |  |
 | 51 | 2% | 38% | Majority |
 | 52 | 3% | 35% |  |
@@ -843,26 +839,26 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 0.2% | 99.7% |  |
-| 28 | 0.1% | 99.5% |  |
-| 29 | 0.4% | 99.3% |  |
-| 30 | 0.8% | 98.9% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.2% | 99.9% |  |
+| 27 | 0.1% | 99.7% |  |
+| 28 | 0.5% | 99.6% |  |
+| 29 | 0.4% | 99.1% |  |
+| 30 | 0.9% | 98.7% |  |
 | 31 | 2% | 98% |  |
-| 32 | 1.3% | 96% |  |
-| 33 | 2% | 95% |  |
-| 34 | 2% | 93% |  |
-| 35 | 4% | 90% |  |
-| 36 | 2% | 86% |  |
-| 37 | 19% | 84% | Median |
-| 38 | 3% | 65% | Last Result |
-| 39 | 6% | 62% |  |
-| 40 | 4% | 57% |  |
-| 41 | 3% | 53% |  |
-| 42 | 3% | 50% |  |
+| 32 | 2% | 96% |  |
+| 33 | 1.4% | 94% |  |
+| 34 | 5% | 92% |  |
+| 35 | 4% | 87% |  |
+| 36 | 7% | 84% |  |
+| 37 | 10% | 77% | Median |
+| 38 | 3% | 67% | Last Result |
+| 39 | 4% | 63% |  |
+| 40 | 4% | 60% |  |
+| 41 | 5% | 55% |  |
+| 42 | 2% | 50% |  |
 | 43 | 6% | 48% |  |
-| 44 | 1.5% | 41% |  |
+| 44 | 2% | 41% |  |
 | 45 | 6% | 40% |  |
 | 46 | 8% | 34% |  |
 | 47 | 3% | 26% |  |
