@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Wed, 29 Aug 2018 11:21:50 +0200</pubDate>
+    <pubDate>Sun, 02 Sep 2018 18:31:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–23 August 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2018-08-29T11:21:50.836956+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FACTUM, 17–23 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-07-23-FACTUM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 20–25 seats&lt;/li&gt;&lt;li&gt;Vienotība: 0–7 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 13–17 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 13–18 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 0–7 seats&lt;/li&gt;&lt;li&gt;No sirds Latvijai: 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 8–15 seats&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 13–18 seats&lt;/li&gt;&lt;li&gt;Kustība Par!: 10–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-07-23-FACTUM-seats.png"
+        length="324389"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 18:31:52 +0200</pubDate>
+      <dc:date>2018-09-02T18:31:52.897605+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FACTUM, 17–23 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-07-23-FACTUM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-07-23-FACTUM-coalitions-seats.png"
+        length="264371"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 18:31:52 +0200</pubDate>
+      <dc:date>2018-09-02T18:31:52.897605+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FACTUM, 17–23 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2018-07-23-FACTUM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 18.1–22.1%&lt;/li&gt;&lt;li&gt;Vienotība: 4.3–6.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 11.1–14.4%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 13.0–16.6%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 3.3–5.4%&lt;/li&gt;&lt;li&gt;No sirds Latvijai: 0.7–1.7%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 1.5–2.9%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 9.1–12.2%&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 13.0–16.6%&lt;/li&gt;&lt;li&gt;Kustība Par!: 10.0–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-07-23-FACTUM.png"
         length="284793"
         type="image/png"/>
-      <pubDate>Tue, 28 Aug 2018 22:47:45 +0200</pubDate>
-      <dc:date>2018-08-28T22:47:45.50828+02:00</dc:date>
+      <pubDate>Sun, 02 Sep 2018 18:31:52 +0200</pubDate>
+      <dc:date>2018-09-02T18:31:52.897605+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2018 – Seat Projections for the Parties</title>
@@ -289,6 +309,6 @@
       <pubDate>Sat, 18 Aug 2018 19:51:32 +0200</pubDate>
       <dc:date>2018-08-18T19:51:32.691476+02:00</dc:date>
     </item>
-    <dc:date>2018-08-29T11:21:50.836956+02:00</dc:date>
+    <dc:date>2018-09-02T18:31:52.897605+02:00</dc:date>
   </channel>
 </rss>
