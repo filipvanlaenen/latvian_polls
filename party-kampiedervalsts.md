@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 4 October 2014)
 | N/A | [Poll Average](average.html) | 15 | 0–18 | 0–19 | 0–19 | 0–20 |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 11–15 | 11–16 | 10–17 | 9–17 |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
-| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 6–9 | 6–10 | 6–10 | 0–11 |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–8 | 0–9 | 0–9 | 0–9 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 0 | 0–8 | 0–8 | 0–8 | 0–9 |
