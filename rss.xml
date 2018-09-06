@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sun, 02 Sep 2018 18:31:52 +0200</pubDate>
+    <pubDate>Thu, 06 Sep 2018 20:25:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by FACTUM, 22–28 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-08-28-FACTUM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 19.8–24.3%&lt;/li&gt;&lt;li&gt;Vienotība: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 9.4–12.8%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.3–13.8%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 2.2–4.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 11.3–14.9%&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 13.2–17.1%&lt;/li&gt;&lt;li&gt;Kustība Par!: 9.4–12.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-08-28-FACTUM.png"
+        length="266033"
+        type="image/png"/>
+      <pubDate>Thu, 06 Sep 2018 19:21:08 +0200</pubDate>
+      <dc:date>2018-09-06T19:21:08.535255+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FACTUM, 20–26 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2018-08-26-FACTUM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā Partija “Saskaņa”: 18.5–22.8%&lt;/li&gt;&lt;li&gt;Vienotība: 5.6–8.4%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 10.2–13.6%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.2–13.6%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu apvienība: 1.3–2.8%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 1.3–2.8%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 10.2–13.6%&lt;/li&gt;&lt;li&gt;Kam pieder valsts?: 14.7–18.7%&lt;/li&gt;&lt;li&gt;Kustība Par!: 9.3–12.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2018-08-26-FACTUM.png"
+        length="274363"
+        type="image/png"/>
+      <pubDate>Thu, 06 Sep 2018 20:25:59 +0200</pubDate>
+      <dc:date>2018-09-06T20:25:59.857913+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–23 August 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2018-08-23-SKDS.html#seats</link>
@@ -309,6 +329,6 @@
       <pubDate>Sat, 18 Aug 2018 19:51:32 +0200</pubDate>
       <dc:date>2018-08-18T19:51:32.691476+02:00</dc:date>
     </item>
-    <dc:date>2018-09-02T18:31:52.897605+02:00</dc:date>
+    <dc:date>2018-09-06T20:25:59.857913+02:00</dc:date>
   </channel>
 </rss>
