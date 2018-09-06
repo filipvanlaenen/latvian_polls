@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | SDPS | V | ZZS | NA | NSL | LRA | LKS | VL | LA | JKP | KPV | PAR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2014 | General Election | 23.0% <br> 24 | 21.9% <br> 23 | 19.5% <br> 21 | 16.6% <br> 17 | 6.8% <br> 7 | 6.7% <br> 8 | 1.6% <br> 0 | 1.2% <br> 0 | 0.9% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–36% <br> 23–40 | 5–10% <br> 7–12 | 11–26% <br> 14–33 | 8–15% <br> 9–17 | 1–4% <br> 0 | 3–6% <br> 0–8 | 1–5% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 3–11% <br> 0–13 | 4–17% <br> 0–19 | 4–11% <br> 0–12 |
+| N/A | [Poll Average](average.html) | 20–36% <br> 22–40 | 6–10% <br> 7–12 | 10–26% <br> 11–33 | 8–15% <br> 9–17 | 2–4% <br> 0 | 2–6% <br> 0–8 | 1–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 3–14% <br> 0–15 | 4–16% <br> 0–17 | 4–12% <br> 0–13 |
+| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 20–24% <br> 22–27 | 6–9% <br> 7–9 | 9–13% <br> 11–15 | 10–14% <br> 12–15 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 13–16 | 13–17% <br> 14–18 | 9–13% <br> 10–14 |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 29–37% <br> 32–42 | 6–10% <br> 7–12 | 15–21% <br> 17–26 | 7–12% <br> 7–15 | 2–4% <br> 0 | 3–6% <br> 0–7 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–7 | 9–14% <br> 10–17 | 3–7% <br> 0–8 |
-| [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 19–23% <br> 22–26 | 5–7% <br> 7–8 | 10–14% <br> 12–16 | 10–14% <br> 12–15 | 1–2% <br> 0 | 3–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 9–13 | 14–18% <br> 16–20 | 9–12% <br> 10–13 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 20–26% <br> 23–33 | 7–11% <br> 7–13 | 21–27% <br> 23–33 | 10–15% <br> 13–18 | 2–4% <br> 0 | 3–6% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 7–11% <br> 8–13 | 4–7% <br> 0–8 | 4–7% <br> 0–8 |
 | 4 October 2014 | General Election | 23.0% <br> 24 | 21.9% <br> 23 | 19.5% <br> 21 | 16.6% <br> 17 | 6.8% <br> 7 | 6.7% <br> 8 | 1.6% <br> 0 | 1.2% <br> 0 | 0.9% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
