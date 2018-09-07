@@ -64,9 +64,9 @@ Last result: **24** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 23–38 | 23–40 | 22–40 | 22–43 |
-| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 23 | 22–25 | 22–26 | 22–27 | 22–27 |
-| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 22 | 22–23 | 21–24 | 21–25 | 20–26 |
+| N/A | [Poll Average](average.html) | 28 | 23–38 | 22–40 | 22–40 | 22–43 |
+| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 24 | 22–25 | 22–26 | 22–26 | 22–27 |
+| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 22 | 22–23 | 22–24 | 21–25 | 20–26 |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 37 | 34–40 | 34–41 | 32–42 | 31–44 |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 23 | 23–26 | 22–26 | 22–26 | 21–27 |
 | [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
@@ -87,10 +87,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.2% | 100% |  |
-| 22 | 4% | 99.8% |  |
-| 23 | 18% | 96% |  |
-| 24 | 12% | 78% | Last Result |
-| 25 | 4% | 67% |  |
+| 22 | 5% | 99.8% |  |
+| 23 | 12% | 95% |  |
+| 24 | 14% | 83% | Last Result |
+| 25 | 7% | 69% |  |
 | 26 | 5% | 62% |  |
 | 27 | 6% | 57% |  |
 | 28 | 7% | 51% | Median |
