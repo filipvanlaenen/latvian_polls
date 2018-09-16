@@ -11,6 +11,8 @@ Last result: **6.8%** (General Election of 4 October 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.8% | 2.0–3.8% | 1.9–4.1% | 1.7–4.4% | 1.4–5.0% |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 0.0% | N/A | N/A | N/A | N/A |
+| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 0.0% | N/A | N/A | N/A | N/A |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 0.0% | N/A | N/A | N/A | N/A |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 0.0% | N/A | N/A | N/A | N/A |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 0.0% | N/A | N/A | N/A | N/A |
@@ -51,6 +53,8 @@ Last result: **7** seats (General Election of 4 October 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat |  |  |  |  |  |
+| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM |  |  |  |  |  |
