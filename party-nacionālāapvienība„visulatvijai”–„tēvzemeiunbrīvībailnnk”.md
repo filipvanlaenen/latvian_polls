@@ -10,8 +10,9 @@ Last result: **16.6%** (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.4% | 8.0–13.5% | 7.4–13.9% | 6.9–14.2% | 6.0–14.8% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.0–14.6% | 7.4–15.1% | 6.9–15.5% | 6.0–16.2% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 9.1% | 7.3–11.7% | 6.7–12.4% | 6.3–13.0% | 5.5–14.4% |
+| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.7–16.6% |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 11.8% | 10.8–12.8% | 10.6–13.1% | 10.3–13.4% | 9.9–13.9% |
@@ -41,13 +42,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 12% | 94% |  |
 | 8.5–9.5% | 18% | 82% |  |
 | 9.5–10.5% | 16% | 64% | Median |
-| 10.5–11.5% | 10% | 48% |  |
-| 11.5–12.5% | 12% | 38% |  |
-| 12.5–13.5% | 18% | 26% |  |
-| 13.5–14.5% | 8% | 9% |  |
-| 14.5–15.5% | 0.9% | 1.0% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% | Last Result |
+| 10.5–11.5% | 9% | 48% |  |
+| 11.5–12.5% | 5% | 39% |  |
+| 12.5–13.5% | 10% | 33% |  |
+| 13.5–14.5% | 14% | 24% |  |
+| 14.5–15.5% | 8% | 10% |  |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.2% | 0.2% | Last Result |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,8 +60,9 @@ Last result: **17** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–15 | 8–16 | 7–16 | 6–17 |
+| N/A | [Poll Average](average.html) | 13 | 9–16 | 8–17 | 7–18 | 6–18 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 12 | 8–14 | 7–14 | 6–15 | 6–17 |
+| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 16 | 14–18 | 14–18 | 13–18 | 13–18 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 13 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
@@ -90,13 +93,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 8% | 94% |  |
 | 10 | 10% | 86% |  |
 | 11 | 15% | 77% |  |
-| 12 | 12% | 62% | Median |
-| 13 | 15% | 50% |  |
-| 14 | 19% | 35% |  |
-| 15 | 10% | 16% |  |
-| 16 | 5% | 6% |  |
-| 17 | 1.0% | 1.2% | Last Result |
-| 18 | 0.2% | 0.2% |  |
+| 12 | 12% | 62% |  |
+| 13 | 10% | 50% | Median |
+| 14 | 13% | 40% |  |
+| 15 | 8% | 28% |  |
+| 16 | 12% | 20% |  |
+| 17 | 4% | 8% | Last Result |
+| 18 | 4% | 4% |  |
 | 19 | 0% | 0% |  |
 
 
