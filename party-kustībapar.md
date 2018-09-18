@@ -60,9 +60,9 @@ Last result: **0** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–12 | 0–12 | 0–12 | 0–14 |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 9 | 7–12 | 7–12 | 7–13 | 0–15 |
-| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 9 | 8–12 | 8–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 9 | 7–12 | 7–13 | 0–13 | 0–15 |
+| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 9 | 9–11 | 8–12 | 8–12 | 7–13 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 12 | 11–13 | 11–13 | 10–14 | 10–15 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
@@ -87,24 +87,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 0% | 84% |  |
-| 4 | 0% | 84% |  |
-| 5 | 0% | 84% |  |
-| 6 | 0% | 84% |  |
-| 7 | 20% | 84% |  |
-| 8 | 10% | 64% |  |
-| 9 | 24% | 54% | Median |
-| 10 | 13% | 30% |  |
-| 11 | 5% | 18% |  |
-| 12 | 12% | 13% |  |
-| 13 | 0.5% | 1.3% |  |
-| 14 | 0.3% | 0.8% |  |
-| 15 | 0.4% | 0.4% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 0 | 18% | 100% | Last Result |
+| 1 | 0% | 82% |  |
+| 2 | 0% | 82% |  |
+| 3 | 0% | 82% |  |
+| 4 | 0% | 82% |  |
+| 5 | 0% | 82% |  |
+| 6 | 0% | 82% |  |
+| 7 | 22% | 82% |  |
+| 8 | 9% | 60% |  |
+| 9 | 19% | 51% | Median |
+| 10 | 20% | 33% |  |
+| 11 | 6% | 12% |  |
+| 12 | 4% | 6% |  |
+| 13 | 1.3% | 2% |  |
+| 14 | 0.3% | 0.7% |  |
+| 15 | 0.3% | 0.4% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 

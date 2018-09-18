@@ -67,15 +67,15 @@ Last result: **0** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–17 | 10–19 | 9–20 |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 15 | 14–18 | 14–19 | 11–20 | 10–22 |
-| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 14 | 13–15 | 12–16 | 12–17 | 10–17 |
+| N/A | [Poll Average](average.html) | 15 | 12–17 | 11–18 | 11–19 | 9–22 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 15 | 13–18 | 12–19 | 11–20 | 10–23 |
+| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 14 | 13–15 | 12–16 | 12–17 | 11–17 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 13 | 13–14 | 12–15 | 12–15 | 10–15 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 14 | 13–15 | 13–15 | 12–15 | 12–17 |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 16 | 15–17 | 14–17 | 14–18 | 14–19 |
 | [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
-| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–16 | 11–16 | 10–17 | 9–17 |
+| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 11–15 | 11–16 | 10–17 | 9–17 |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
 | [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 6–9 | 6–10 | 6–10 | 0–11 |
@@ -103,21 +103,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 1.1% | 100% |  |
-| 10 | 2% | 98.9% |  |
-| 11 | 5% | 97% |  |
-| 12 | 6% | 92% |  |
-| 13 | 7% | 85% |  |
-| 14 | 34% | 78% | Median |
-| 15 | 30% | 44% |  |
-| 16 | 8% | 14% |  |
-| 17 | 3% | 6% |  |
-| 18 | 1.1% | 4% |  |
-| 19 | 1.4% | 3% |  |
-| 20 | 0.7% | 1.2% |  |
-| 21 | 0.1% | 0.5% |  |
-| 22 | 0.2% | 0.3% |  |
-| 23 | 0.1% | 0.1% |  |
+| 9 | 0.6% | 100% |  |
+| 10 | 1.2% | 99.4% |  |
+| 11 | 4% | 98% |  |
+| 12 | 6% | 94% |  |
+| 13 | 12% | 88% |  |
+| 14 | 20% | 76% |  |
+| 15 | 35% | 56% | Median |
+| 16 | 11% | 22% |  |
+| 17 | 5% | 11% |  |
+| 18 | 3% | 6% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.8% | 2% |  |
+| 21 | 0.3% | 0.8% |  |
+| 22 | 0.2% | 0.5% |  |
+| 23 | 0.2% | 0.3% |  |
 | 24 | 0% | 0% |  |
 
 

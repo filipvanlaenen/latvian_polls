@@ -67,14 +67,14 @@ Last result: **23** seats (General Election of 4 October 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–11 | 0–11 | 0–12 | 0–13 |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 7 | 0–8 | 0–10 | 0–10 | 0–11 |
-| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 9 | 8–11 | 7–12 | 7–12 | 7–14 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 7 | 0–8 | 0–10 | 0–10 | 0–12 |
+| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 8 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 7 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 7 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 7 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 | 8–11 | 7–11 | 7–12 | 7–13 |
+| [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 8–11 | 7–11 | 7–12 | 7–13 |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 7 | 7 | 7 | 7–8 | 0–8 |
 | [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 7 | 0–7 | 0–7 | 0–7 | 0–7 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–7 | 0–7 | 0–7 | 0–8 |
@@ -93,21 +93,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 0% | 94% |  |
-| 2 | 0% | 94% |  |
-| 3 | 0% | 94% |  |
-| 4 | 0% | 94% |  |
-| 5 | 0% | 94% |  |
-| 6 | 0% | 94% |  |
-| 7 | 28% | 94% |  |
-| 8 | 23% | 65% | Median |
-| 9 | 13% | 42% |  |
-| 10 | 18% | 30% |  |
-| 11 | 8% | 12% |  |
+| 0 | 9% | 100% |  |
+| 1 | 0% | 91% |  |
+| 2 | 0% | 91% |  |
+| 3 | 0% | 91% |  |
+| 4 | 0% | 91% |  |
+| 5 | 0% | 91% |  |
+| 6 | 0% | 91% |  |
+| 7 | 20% | 91% |  |
+| 8 | 22% | 71% | Median |
+| 9 | 9% | 49% |  |
+| 10 | 27% | 40% |  |
+| 11 | 10% | 14% |  |
 | 12 | 3% | 4% |  |
-| 13 | 0.8% | 1.0% |  |
-| 14 | 0.3% | 0.3% |  |
+| 13 | 0.4% | 0.6% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
