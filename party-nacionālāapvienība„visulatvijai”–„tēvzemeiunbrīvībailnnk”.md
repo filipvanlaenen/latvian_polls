@@ -61,8 +61,8 @@ Last result: **17** seats (General Election of 4 October 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 9–16 | 8–17 | 7–18 | 6–18 |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 12 | 8–14 | 7–14 | 6–15 | 6–17 |
-| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 16 | 14–18 | 14–18 | 13–18 | 13–18 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 11 | 9–14 | 7–14 | 6–16 | 6–18 |
+| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 16 | 13–17 | 13–18 | 13–18 | 13–18 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 13 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
@@ -87,19 +87,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.3% | 100% |  |
-| 7 | 2% | 98.7% |  |
-| 8 | 3% | 97% |  |
-| 9 | 8% | 94% |  |
-| 10 | 10% | 86% |  |
-| 11 | 15% | 77% |  |
-| 12 | 12% | 62% |  |
-| 13 | 10% | 50% | Median |
-| 14 | 13% | 40% |  |
-| 15 | 8% | 28% |  |
-| 16 | 12% | 20% |  |
-| 17 | 4% | 8% | Last Result |
-| 18 | 4% | 4% |  |
-| 19 | 0% | 0% |  |
+| 6 | 1.4% | 100% |  |
+| 7 | 3% | 98.6% |  |
+| 8 | 2% | 96% |  |
+| 9 | 13% | 94% |  |
+| 10 | 4% | 81% |  |
+| 11 | 17% | 77% |  |
+| 12 | 7% | 59% |  |
+| 13 | 16% | 52% | Median |
+| 14 | 11% | 36% |  |
+| 15 | 7% | 25% |  |
+| 16 | 10% | 19% |  |
+| 17 | 5% | 8% | Last Result |
+| 18 | 3% | 3% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
