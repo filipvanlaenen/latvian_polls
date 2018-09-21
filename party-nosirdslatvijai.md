@@ -10,8 +10,9 @@ Last result: **6.8%** (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.8% | 1.9–4.1% | 1.7–4.4% | 1.4–5.0% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.4–3.5% | 0.4–3.8% | 0.3–4.1% | 0.2–4.7% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 0.0% | N/A | N/A | N/A | N/A |
+| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% | 0.2–1.8% |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 0.0% | N/A | N/A | N/A | N/A |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 0.0% | N/A | N/A | N/A | N/A |
@@ -35,13 +36,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 31% | 98.8% |  |
-| 2.5–3.5% | 51% | 67% | Median |
-| 3.5–4.5% | 15% | 17% |  |
-| 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 16% | 100% |  |
+| 0.5–1.5% | 33% | 84% |  |
+| 1.5–2.5% | 17% | 50% | Median |
+| 2.5–3.5% | 25% | 34% |  |
+| 3.5–4.5% | 8% | 8% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
+| 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
 
 
@@ -55,6 +56,7 @@ Last result: **7** seats (General Election of 4 October 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat |  |  |  |  |  |
+| [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM |  |  |  |  |  |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM |  |  |  |  |  |
@@ -80,14 +82,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Median |
-| 1 | 0% | 0.3% |  |
-| 2 | 0% | 0.3% |  |
-| 3 | 0% | 0.3% |  |
-| 4 | 0% | 0.3% |  |
-| 5 | 0% | 0.3% |  |
-| 6 | 0.2% | 0.3% |  |
-| 7 | 0.1% | 0.1% | Last Result |
-| 8 | 0% | 0% |  |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0% | 0.1% |  |
+| 5 | 0% | 0.1% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% | Last Result |
 
 
