@@ -2,9 +2,10 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | SDPS | V | ZZS | NA | NSL | LRA | LKS | VL | LA | JKP | KPV | PAR | AP! |
+| Period     | Polling firm/Commissioner(s) | SDPS | JV | ZZS | NA | NSL | LRA | LKS | VL | LA | JKP | KPV | PAR | AP! |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2014 | General Election | 23.0% <br> 24 | 21.9% <br> 23 | 19.5% <br> 21 | 16.6% <br> 17 | 6.8% <br> 7 | 6.7% <br> 8 | 1.6% <br> 0 | 1.2% <br> 0 | 0.9% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.9% <br> 0 |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 18–21% <br> 20–23 | 8–10% <br> 8–10 | 11–14% <br> 12–15 | 11–14% <br> 12–14 | N/A <br> N/A | 2–4% <br> 0 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–18% <br> 15–20 | 10–12% <br> 10–14 | N/A <br> N/A | 10–12% <br> 10–14 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 19–23% <br> 21–26 | 8–12% <br> 9–13 | 8–12% <br> 10–15 | 11–15% <br> 12–17 | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 13–18 | 9–13% <br> 10–14 | N/A <br> N/A | 10–14% <br> 11–15 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 19–28% <br> 22–33 | 3–9% <br> 0–10 | 11–20% <br> 14–24 | 6–13% <br> 6–15 | N/A <br> N/A | 1–5% <br> 0 | 2–6% <br> 0–7 | N/A <br> N/A | N/A <br> N/A | 7–14% <br> 8–16 | 10–18% <br> 11–20 | N/A <br> N/A | 5–11% <br> 0–13 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 23–30% <br> 26–34 | 4–8% <br> 0–8 | 15–20% <br> 17–24 | 6–10% <br> 6–12 | 0–1% <br> 0 | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 7–12% <br> 8–13 | 14–19% <br> 15–23 | N/A <br> N/A | 5–9% <br> 7–10 |
@@ -18,7 +19,7 @@ The table below lists all polls registered and analyzed so far.
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 19–23% <br> 22–26 | 5–7% <br> 7–8 | 10–14% <br> 12–16 | 10–14% <br> 12–15 | 1–2% <br> 0 | 3–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 9–13 | 14–18% <br> 16–20 | N/A <br> N/A | 9–12% <br> 10–13 |
 | [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 18–22% <br> 20–25 | 4–7% <br> 0–7 | 11–14% <br> 13–17 | 13–17% <br> 13–18 | 1–2% <br> 0 | 3–5% <br> 0–7 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 8–15 | 13–17% <br> 13–18 | 10–13% <br> 10–15 | N/A <br> N/A |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 30–37% <br> 33–42 | 3–6% <br> 0–7 | 20–26% <br> 23–30 | 8–12% <br> 8–14 | 1–4% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 0–9 | 5–9% <br> 6–10 | 6–10% <br> 7–11 | N/A <br> N/A |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 29–36% <br> 32–42 | 5–9% <br> 0–11 | 22–28% <br> 25–36 | 10–15% <br> 11–18 | 2–4% <br> 0 | 2–5% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–7 | 4–7% <br> 0–9 | 4–7% <br> 0–8 | N/A <br> N/A |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 29–36% <br> 32–42 | 5–9% <br> 0–10 | 22–28% <br> 25–35 | 10–15% <br> 11–18 | 2–4% <br> 0 | 2–5% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–8 | 4–7% <br> 0–9 | 4–7% <br> 0–8 | N/A <br> N/A |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 20–26% <br> 23–33 | 7–11% <br> 7–13 | 21–27% <br> 23–33 | 10–15% <br> 13–18 | 2–4% <br> 0 | 3–6% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 7–11% <br> 8–13 | 4–7% <br> 0–8 | 4–7% <br> 0–8 | N/A <br> N/A |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 33–41% <br> 37–46 | 6–10% <br> 7–11 | 17–24% <br> 22–29 | 11–16% <br> 12–19 | N/A <br> N/A | 3–6% <br> 0–7 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | 4–8% <br> 0–9 | 3–6% <br> 0–6 | 2–4% <br> 0 | N/A <br> N/A |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 32–40% <br> 36–46 | 7–11% <br> 8–13 | 21–28% <br> 25–35 | 9–14% <br> 10–17 | 1–3% <br> 0 | 2–5% <br> 0 | 1–3% <br> 0 | 0–2% <br> 0 | 1–3% <br> 0 | 5–9% <br> 0–10 | 2–5% <br> 0 | 1–4% <br> 0 | N/A <br> N/A |
@@ -32,7 +33,7 @@ Only polls for which at least the sample size has been published are included in
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the Saeima (95% confidence interval)
 + **SDPS:** Sociāldemokrātiskā Partija “Saskaņa”
-+ **V:** Vienotība
++ **JV:** Vienotība
 + **ZZS:** Zaļo un Zemnieku savienība
 + **NA:** Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”
 + **NSL:** No sirds Latvijai
