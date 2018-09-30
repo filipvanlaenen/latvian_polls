@@ -10,7 +10,8 @@ Last result: **21.9%** (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 4.8–10.3% | 4.4–10.8% | 4.1–11.2% | 3.4–11.9% |
+| N/A | [Poll Average](average.html) | 7.2% | 4.8–9.4% | 4.4–9.8% | 4.1–10.1% | 3.4–10.7% |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 9.1% | 8.4–9.9% | 8.2–10.1% | 8.0–10.3% | 7.7–10.7% |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 10.0% | 8.9–11.2% | 8.6–11.5% | 8.4–11.8% | 7.9–12.4% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 5.6% | 4.2–7.8% | 3.8–8.4% | 3.5–8.9% | 2.9–10.1% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 5.6% | 4.6–6.8% | 4.3–7.2% | 4.1–7.5% | 3.6–8.2% |
@@ -42,13 +43,13 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 6% | 99.2% |  |
 | 4.5–5.5% | 16% | 94% |  |
 | 5.5–6.5% | 18% | 78% |  |
-| 6.5–7.5% | 14% | 59% | Median |
-| 7.5–8.5% | 12% | 45% |  |
-| 8.5–9.5% | 13% | 33% |  |
-| 9.5–10.5% | 13% | 20% |  |
-| 10.5–11.5% | 6% | 7% |  |
-| 11.5–12.5% | 1.1% | 1.2% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 15% | 59% | Median |
+| 7.5–8.5% | 16% | 45% |  |
+| 8.5–9.5% | 21% | 29% |  |
+| 9.5–10.5% | 7% | 8% |  |
+| 10.5–11.5% | 0.6% | 0.7% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -68,7 +69,8 @@ Last result: **23** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 0–11 | 0–12 | 0–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 10 | 9–10 | 9–10 | 8–10 | 8–12 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 10 | 10–13 | 9–13 | 9–13 | 8–14 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 7 | 0–8 | 0–10 | 0–10 | 0–12 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 7 | 0–8 | 0–8 | 0–8 | 0–9 |
@@ -82,7 +84,7 @@ Last result: **23** seats (General Election of 4 October 2014)
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 7 | 7 | 7 | 7–8 | 0–8 |
 | [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 7 | 0–7 | 0–7 | 0–7 | 0–7 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–7 | 0–7 | 0–7 | 0–8 |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8 | 7–10 | 7–10 | 0–11 | 0–11 |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8 | 7–9 | 0–9 | 0–10 | 0–11 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 10 | 9–12 | 8–12 | 7–13 | 7–14 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 | 8–11 | 8–11 | 7–11 | 7–13 |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 8–11 | 8–13 | 8–13 | 7–14 |
@@ -105,13 +107,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 87% |  |
 | 6 | 0% | 87% |  |
 | 7 | 30% | 87% |  |
-| 8 | 16% | 56% | Median |
-| 9 | 4% | 40% |  |
-| 10 | 19% | 36% |  |
-| 11 | 9% | 17% |  |
-| 12 | 5% | 8% |  |
-| 13 | 2% | 3% |  |
-| 14 | 0.6% | 0.7% |  |
+| 8 | 17% | 56% | Median |
+| 9 | 13% | 40% |  |
+| 10 | 20% | 27% |  |
+| 11 | 6% | 7% |  |
+| 12 | 0.9% | 1.2% |  |
+| 13 | 0.3% | 0.3% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |

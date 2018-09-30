@@ -298,7 +298,7 @@
 
 ### Zaļo un Zemnieku savienība – Jaunā konservatīvā partija – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Attīstībai–Par! – Vienotība
 
-![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–jkp–na–ap–v.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–jkp–na–ap–jv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -351,7 +351,7 @@
 
 ### Zaļo un Zemnieku savienība – Jaunā konservatīvā partija – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Vienotība
 
-![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–jkp–na–v.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–jkp–na–jv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -385,7 +385,7 @@
 
 ### Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Attīstībai–Par! – Vienotība
 
-![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–na–ap–v.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–na–ap–jv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -474,7 +474,7 @@
 
 ### Zaļo un Zemnieku savienība – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Vienotība
 
-![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–na–v.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-zzs–na–jv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -519,7 +519,7 @@
 
 ### Jaunā konservatīvā partija – Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” – Attīstībai–Par! – Vienotība
 
-![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-jkp–na–ap–v.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-09-12-KantarTNS-coalitions-seats-pmf-jkp–na–ap–jv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -557,6 +557,6 @@
 ### Calculations
 
 + **Sample size:** 684
-+ **Simulations done:** 1,048,576
++ **Simulations done:** 1,048,575
 + **Error estimate:** 3.19%
 

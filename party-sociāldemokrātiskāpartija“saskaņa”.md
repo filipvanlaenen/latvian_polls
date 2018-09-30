@@ -10,7 +10,8 @@ Last result: **23.0%** (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.0% | 20.3–33.7% | 19.7–34.8% | 19.2–35.7% | 18.1–37.3% |
+| N/A | [Poll Average](average.html) | 25.0% | 18.9–33.7% | 18.5–34.8% | 18.1–35.7% | 17.5–37.3% |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 19.2% | 18.2–20.3% | 17.9–20.6% | 17.6–20.8% | 17.2–21.4% |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.7–23.4% | 18.0–24.2% |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 23.2% | 20.2–26.6% | 19.3–27.6% | 18.6–28.4% | 17.3–30.1% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 26.2% | 24.1–28.4% | 23.5–29.1% | 23.0–29.6% | 22.0–30.7% |
@@ -38,14 +39,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 0.8% | 99.8% |  |
-| 18.5–19.5% | 3% | 99.0% |  |
-| 19.5–20.5% | 8% | 96% |  |
-| 20.5–21.5% | 11% | 88% |  |
-| 21.5–22.5% | 9% | 77% |  |
-| 22.5–23.5% | 7% | 68% | Last Result |
-| 23.5–24.5% | 7% | 61% |  |
+| 16.5–17.5% | 0.6% | 99.9% |  |
+| 17.5–18.5% | 5% | 99.4% |  |
+| 18.5–19.5% | 12% | 94% |  |
+| 19.5–20.5% | 9% | 82% |  |
+| 20.5–21.5% | 4% | 73% |  |
+| 21.5–22.5% | 4% | 69% |  |
+| 22.5–23.5% | 5% | 65% | Last Result |
+| 23.5–24.5% | 6% | 60% |  |
 | 24.5–25.5% | 8% | 54% | Median |
 | 25.5–26.5% | 8% | 46% |  |
 | 26.5–27.5% | 6% | 38% |  |
@@ -72,7 +73,8 @@ Last result: **24** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 22–38 | 22–39 | 22–40 | 20–43 |
+| N/A | [Poll Average](average.html) | 28 | 21–38 | 20–39 | 20–40 | 20–43 |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 21 | 20–22 | 20–22 | 20–23 | 19–24 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 23 | 22–25 | 22–25 | 21–26 | 20–27 |
 | [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 27 | 23–31 | 23–32 | 22–33 | 20–35 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 29 | 27–33 | 26–33 | 26–34 | 25–36 |
@@ -86,7 +88,7 @@ Last result: **24** seats (General Election of 4 October 2014)
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 23 | 23–26 | 22–26 | 22–26 | 21–27 |
 | [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 38 | 34–41 | 33–41 | 33–42 | 31–45 |
-| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 40 | 35–42 | 33–42 | 32–42 | 31–45 |
+| [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 39 | 35–41 | 32–42 | 32–42 | 32–46 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 28 | 24–32 | 24–32 | 23–33 | 22–33 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 41 | 38–45 | 38–46 | 37–46 | 36–47 |
 | [1–31 March 2018](2018-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 41 | 37–43 | 37–43 | 36–46 | 34–47 |
@@ -101,15 +103,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.1% | 100% |  |
-| 20 | 0.7% | 99.9% |  |
-| 21 | 0.8% | 99.3% |  |
-| 22 | 9% | 98% |  |
-| 23 | 7% | 89% |  |
-| 24 | 6% | 82% | Last Result |
-| 25 | 6% | 76% |  |
-| 26 | 7% | 70% |  |
-| 27 | 12% | 63% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 6% | 99.6% |  |
+| 21 | 7% | 94% |  |
+| 22 | 12% | 87% |  |
+| 23 | 3% | 75% |  |
+| 24 | 1.4% | 73% | Last Result |
+| 25 | 2% | 71% |  |
+| 26 | 6% | 69% |  |
+| 27 | 11% | 63% |  |
 | 28 | 7% | 52% | Median |
 | 29 | 4% | 45% |  |
 | 30 | 5% | 41% |  |
