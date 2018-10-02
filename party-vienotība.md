@@ -13,18 +13,18 @@ Last result: **21.9%** (General Election of 4 October 2014)
 | N/A | [Poll Average](average.html) | 6.4% | 4.8–9.3% | 4.4–9.6% | 4.0–9.9% | 3.4–10.4% |
 | [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 9.1% | 8.4–9.9% | 8.2–10.1% | 8.0–10.3% | 7.7–10.7% |
 | [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.1% | 5.1–7.6% | 4.8–8.0% | 4.5–8.3% | 4.0–9.1% |
-| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 10.0% | 8.9–11.2% | 8.6–11.5% | 8.4–11.8% | 7.9–12.4% |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 5.6% | 4.2–7.8% | 3.8–8.4% | 3.5–8.9% | 2.9–10.1% |
+| [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 9.8% | 8.9–11.2% | 8.6–11.5% | 8.4–11.8% | 7.9–12.4% |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 5.3% | 4.2–7.8% | 3.8–8.4% | 3.5–8.9% | 2.9–10.1% |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 5.6% | 4.6–6.8% | 4.3–7.2% | 4.1–7.5% | 3.6–8.2% |
-| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.5–10.7% | 7.1–11.2% |
-| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.5–9.7% |
-| [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
-| [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 6.9% | 6.1–7.7% | 5.9–7.9% | 5.8–8.1% | 5.4–8.6% |
-| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 7.0% | 6.2–8.0% | 6.0–8.3% | 5.8–8.5% | 5.4–9.0% |
-| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 6.9% | 6.1–7.8% | 5.8–8.1% | 5.6–8.4% | 5.3–8.8% |
+| [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 8.8% | 8.0–10.1% | 7.8–10.4% | 7.5–10.7% | 7.1–11.2% |
+| [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 7.8% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 6.8% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
+| [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 6.7% | 6.1–7.7% | 5.9–7.9% | 5.8–8.1% | 5.4–8.6% |
+| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 6.8% | 6.2–8.0% | 6.0–8.3% | 5.8–8.5% | 5.4–9.0% |
+| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 6.6% | 6.1–7.8% | 5.8–8.1% | 5.6–8.4% | 5.3–8.8% |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 7.9% | 6.6–9.5% | 6.2–9.9% | 5.9–10.3% | 5.4–11.2% |
-| [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.4% | 4.6–7.8% |
-| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 5.3% | 4.6–6.1% | 4.4–6.3% | 4.3–6.6% | 4.0–7.0% |
+| [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 5.8% | 5.3–6.9% | 5.1–7.1% | 4.9–7.4% | 4.6–7.8% |
+| [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 5.1% | 4.6–6.1% | 4.4–6.3% | 4.3–6.6% | 4.0–7.0% |
 | [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.3% | 3.4–5.5% | 3.2–5.9% | 3.0–6.2% | 2.6–6.8% |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.3% | 5.2–7.8% | 4.9–8.2% | 4.6–8.6% | 4.1–9.3% |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 8.7% | 7.5–10.2% | 7.1–10.6% | 6.8–11.0% | 6.3–11.7% |
@@ -70,22 +70,22 @@ Last result: **23** seats (General Election of 4 October 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–10 | 0–10 | 0–10 | 0–11 |
-| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 10 | 9–10 | 9–10 | 8–10 | 8–12 |
-| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 7 | 0–8 | 0–10 | 0–10 | 0–10 |
+| N/A | [Poll Average](average.html) | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
+| [17–23 September 2018](2018-09-23-FACTUM.html) | FACTUM | 10 | 10–12 | 10–13 | 10–13 | 9–13 |
+| [8–18 September 2018](2018-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 8 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [10–16 September 2018](2018-09-16-FACTUM.html) | FACTUM | 10 | 10–13 | 9–13 | 9–13 | 8–14 |
-| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 7 | 0–8 | 0–10 | 0–10 | 0–12 |
+| [10–14 September 2018](2018-09-14-Norstat.html) | Norstat | 7 | 0–10 | 0–10 | 0–11 | 0–13 |
 | [8 August–12 September 2018](2018-09-12-KantarTNS.html) | Kantar TNS <br> Delfi | 7 | 0–8 | 0–8 | 0–9 | 0–10 |
 | [31 August–9 September 2018](2018-09-09-FACTUM.html) | FACTUM | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
 | [30 August–5 September 2018](2018-09-05-FACTUM.html) | FACTUM | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [27 August–2 September 2018](2018-09-02-FACTUM.html) | FACTUM | 8 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [25–31 August 2018](2018-08-31-FACTUM.html) | FACTUM | 7 | 7–8 | 7–9 | 7–9 | 7–10 |
-| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 7 | 7–8 | 7–9 | 7–9 | 7–10 |
-| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 7 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [22–28 August 2018](2018-08-28-FACTUM.html) | FACTUM | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [20–26 August 2018](2018-08-26-FACTUM.html) | FACTUM | 7 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [1–23 August 2018](2018-08-23-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 8–12 | 7–12 | 7–12 | 7–13 |
 | [13–19 August 2018](2018-08-19-FACTUM.html) | FACTUM | 7 | 7 | 7 | 7–8 | 0–8 |
 | [17–23 July 2018](2018-07-23-FACTUM.html) | FACTUM | 7 | 0–7 | 0–7 | 0–7 | 0–7 |
-| [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–7 | 0–7 | 0–7 | 0–8 |
+| [1–30 June 2018](2018-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–7 | 0–7 | 0–7 | 0–7 |
 | [1–31 May 2018](2018-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8 | 7–10 | 7–10 | 0–11 | 0–11 |
 | [1–31 May 2018](2018-05-31-Norstat.html) | Norstat <br> TV3 Latvija | 10 | 9–12 | 8–12 | 7–13 | 7–14 |
 | [1–30 April 2018](2018-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 10 | 8–11 | 8–11 | 7–11 | 7–13 |
@@ -101,21 +101,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 0% | 83% |  |
-| 2 | 0% | 83% |  |
-| 3 | 0% | 83% |  |
-| 4 | 0% | 83% |  |
-| 5 | 0% | 83% |  |
-| 6 | 0% | 83% |  |
-| 7 | 36% | 83% | Median |
-| 8 | 18% | 47% |  |
-| 9 | 11% | 29% |  |
-| 10 | 17% | 18% |  |
-| 11 | 0.4% | 0.7% |  |
-| 12 | 0.3% | 0.4% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 0 | 18% | 100% |  |
+| 1 | 0% | 82% |  |
+| 2 | 0% | 82% |  |
+| 3 | 0% | 82% |  |
+| 4 | 0% | 82% |  |
+| 5 | 0% | 82% |  |
+| 6 | 0% | 82% |  |
+| 7 | 22% | 82% |  |
+| 8 | 27% | 61% | Median |
+| 9 | 4% | 34% |  |
+| 10 | 18% | 30% |  |
+| 11 | 9% | 13% |  |
+| 12 | 2% | 4% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
