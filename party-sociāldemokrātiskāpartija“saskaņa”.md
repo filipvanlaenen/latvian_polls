@@ -10,9 +10,9 @@ Last result: **19.8%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.3% |
+| N/A | [Poll Average](average.html) | 20.1% | 18.4–21.9% | 18.0–22.4% | 17.6–22.9% | 16.8–23.8% |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.6–23.3% |
-| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 20.4% | N/A | N/A | N/A | N/A |
+| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 20.4% | 18.7–22.2% | 18.2–22.7% | 17.8–23.2% | 17.1–24.0% |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum | 19.9% | N/A | N/A | N/A | N/A |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 22.7% | N/A | N/A | N/A | N/A |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum | 19.0% | N/A | N/A | N/A | N/A |
@@ -47,16 +47,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.4% | 100% |  |
-| 16.5–17.5% | 3% | 99.6% |  |
-| 17.5–18.5% | 12% | 97% |  |
-| 18.5–19.5% | 26% | 84% |  |
-| 19.5–20.5% | 29% | 58% | Last Result, Median |
-| 20.5–21.5% | 19% | 29% |  |
-| 21.5–22.5% | 7% | 9% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.2% | 0.3% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 15.5–16.5% | 0.2% | 100% |  |
+| 16.5–17.5% | 2% | 99.7% |  |
+| 17.5–18.5% | 9% | 98% |  |
+| 18.5–19.5% | 22% | 88% |  |
+| 19.5–20.5% | 29% | 66% | Last Result, Median |
+| 20.5–21.5% | 23% | 37% |  |
+| 21.5–22.5% | 11% | 15% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,9 +68,9 @@ Last result: **23** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 24 | 24 | 24 | 24–25 |
-| [21–24 November 2019](2019-11-24-Factum.html) | Factum | 22 | 20–24 | 19–24 | 19–24 | 19–28 |
-| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 23 | 21–26 | 21–28 | 20–28 | 19–29 |
+| [21–24 November 2019](2019-11-24-Factum.html) | Factum | 24 | 22–28 | 21–28 | 20–28 | 19–29 |
+| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 23 | 21–26 | 21–26 | 21–27 | 19–27 |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum |  |  |  |  |  |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum |  |  |  |  |  |
@@ -105,9 +106,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0% | 100% | Last Result |
-| 24 | 98% | 100% | Median |
-| 25 | 2% | 2% |  |
-| 26 | 0% | 0% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.2% | 99.9% |  |
+| 19 | 1.0% | 99.7% |  |
+| 20 | 2% | 98.7% |  |
+| 21 | 22% | 97% |  |
+| 22 | 16% | 75% |  |
+| 23 | 9% | 59% | Last Result, Median |
+| 24 | 28% | 50% |  |
+| 25 | 7% | 22% |  |
+| 26 | 8% | 15% |  |
+| 27 | 2% | 7% |  |
+| 28 | 4% | 5% |  |
+| 29 | 0.7% | 0.8% |  |
+| 30 | 0.1% | 0.1% |  |
+| 31 | 0% | 0% |  |
 
 
