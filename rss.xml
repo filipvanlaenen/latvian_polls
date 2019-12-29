@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sun, 29 Dec 2019 11:36:43 +0100</pubDate>
+    <pubDate>Sun, 29 Dec 2019 12:01:02 +0100</pubDate>
     <item>
       <title>Opinion Poll by Factum, 21–24 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2019-11-24-Factum.html</link>
@@ -16,9 +16,19 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2019-11-24-Factum.png"
         length="310486"
         type="image/png"/>
-      <pubDate>Sun, 29 Dec 2019 11:36:43 +0100</pubDate>
-      <dc:date>2019-12-29T11:36:43.944229+01:00</dc:date>
+      <pubDate>Sun, 29 Dec 2019 11:45:20 +0100</pubDate>
+      <dc:date>2019-12-29T11:45:20.641548+01:00</dc:date>
     </item>
-    <dc:date>2019-12-29T11:36:43.944229+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 2–12 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2019-11-12-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 17.8–23.2%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 4.1–7.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 8.0–12.0%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 8.4–12.4%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 13.7–18.5%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 11.6–16.1%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 9.8–14.1%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.8–6.8%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 2.6–5.1%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 2.8–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2019-11-12-SKDS.png"
+        length="318475"
+        type="image/png"/>
+      <pubDate>Sun, 29 Dec 2019 12:01:02 +0100</pubDate>
+      <dc:date>2019-12-29T12:01:02.905562+01:00</dc:date>
+    </item>
+    <dc:date>2019-12-29T12:01:02.905562+01:00</dc:date>
   </channel>
 </rss>
