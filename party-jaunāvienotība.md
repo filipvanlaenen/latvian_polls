@@ -71,9 +71,9 @@ Last result: **8** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 12–18 | 11–19 | 11–20 | 11–22 |
-| [21–24 November 2019](2019-11-24-Factum.html) | Factum | 18 | 16–19 | 16–20 | 16–21 | 15–24 |
-| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–15 | 11–16 | 11–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 16 | 11–18 | 11–19 | 11–20 | 11–22 |
+| [21–24 November 2019](2019-11-24-Factum.html) | Factum | 18 | 16–19 | 16–20 | 16–20 | 15–23 |
+| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 13 | 11–15 | 11–16 | 11–17 | 11–17 |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum |  |  |  |  |  |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum |  |  |  |  |  |
@@ -112,20 +112,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% | Last Result |
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
-| 11 | 6% | 99.8% |  |
-| 12 | 7% | 94% |  |
-| 13 | 6% | 86% |  |
-| 14 | 22% | 80% |  |
-| 15 | 5% | 59% |  |
-| 16 | 7% | 54% | Median |
-| 17 | 18% | 47% |  |
-| 18 | 20% | 29% |  |
-| 19 | 5% | 8% |  |
+| 11 | 16% | 99.9% |  |
+| 12 | 5% | 84% |  |
+| 13 | 13% | 79% |  |
+| 14 | 10% | 66% |  |
+| 15 | 4% | 56% |  |
+| 16 | 7% | 51% | Median |
+| 17 | 11% | 45% |  |
+| 18 | 25% | 34% |  |
+| 19 | 5% | 9% |  |
 | 20 | 2% | 4% |  |
-| 21 | 0.8% | 1.4% |  |
-| 22 | 0.2% | 0.6% |  |
-| 23 | 0.1% | 0.4% |  |
-| 24 | 0.3% | 0.3% |  |
+| 21 | 0.6% | 1.2% |  |
+| 22 | 0.3% | 0.7% |  |
+| 23 | 0.2% | 0.3% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 

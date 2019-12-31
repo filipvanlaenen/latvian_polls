@@ -68,9 +68,9 @@ Last result: **16** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 9–15 | 9–16 | 9–17 | 8–18 |
-| [21–24 November 2019](2019-11-24-Factum.html) | Factum | 13 | 13–16 | 13–17 | 13–17 | 11–20 |
-| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 9–13 | 9–13 | 8–13 | 8–13 |
+| N/A | [Poll Average](average.html) | 13 | 9–16 | 9–17 | 9–18 | 8–19 |
+| [21–24 November 2019](2019-11-24-Factum.html) | Factum | 14 | 13–17 | 13–18 | 13–18 | 11–20 |
+| [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum |  |  |  |  |  |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum |  |  |  |  |  |
@@ -106,19 +106,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 2% | 100% |  |
-| 9 | 8% | 98% |  |
-| 10 | 3% | 90% |  |
-| 11 | 11% | 87% |  |
-| 12 | 22% | 76% |  |
-| 13 | 35% | 55% | Median |
-| 14 | 8% | 20% |  |
-| 15 | 6% | 12% |  |
-| 16 | 3% | 6% | Last Result |
-| 17 | 2% | 3% |  |
-| 18 | 0.8% | 1.2% |  |
-| 19 | 0.1% | 0.4% |  |
-| 20 | 0.3% | 0.3% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 1.2% | 99.9% |  |
+| 9 | 14% | 98.8% |  |
+| 10 | 6% | 85% |  |
+| 11 | 9% | 79% |  |
+| 12 | 13% | 70% |  |
+| 13 | 28% | 57% | Median |
+| 14 | 10% | 29% |  |
+| 15 | 6% | 19% |  |
+| 16 | 6% | 13% | Last Result |
+| 17 | 2% | 6% |  |
+| 18 | 4% | 4% |  |
+| 19 | 0.2% | 0.5% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |
 
 
