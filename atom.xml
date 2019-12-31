@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/latvian_polls</id>
+  <title>All Registered Polls for the Saeima</title>
+  <updated>2019-12-31T12:00:05.499129+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 17.4–22.4%, 20–28 seats</li><li>Politiskā partija „KPV LV”: 2.1–4.3%, 0 seats</li><li>Jaunā konservatīvā partija: 10.9–15.1%, 13–18 seats</li><li>Attīstībai/Par!: 8.2–12.0%, 9–14 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.0–14.1%, 11–17 seats</li><li>Zaļo un Zemnieku savienība: 8.2–12.0%, 10–14 seats</li><li>Jaunā VIENOTĪBA: 13.7–18.3%, 16–20 seats</li><li>Latvijas Reģionu Apvienība: 2.9–5.4%, 0–6 seats</li><li>Latvijas Krievu savienība: 2.9–5.4%, 0–7 seats</li><li>PROGRESĪVIE: 4.6–7.6%, 0–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/latvian_polls/2019-11-24-Factum.html</id>
+    <link href="https://filipvanlaenen.github.io/latvian_polls/2019-11-24-Factum.html"/>
+    <title>Opinion Poll by Factum, 21–24 November 2019</title>
+    <updated>2019-12-31T11:24:31.729392+01:00</updated>
+    <dc:date>2019-12-31T11:24:31.729392+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 17.8–23.2%, 20–27 seats</li><li>Politiskā partija „KPV LV”: 4.1–7.1%, 0–7 seats</li><li>Jaunā konservatīvā partija: 8.0–12.0%, 9–13 seats</li><li>Attīstībai/Par!: 8.4–12.4%, 9–15 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 13.7–18.5%, 14–20 seats</li><li>Zaļo un Zemnieku savienība: 11.6–16.1%, 13–18 seats</li><li>Jaunā VIENOTĪBA: 9.8–14.1%, 11–17 seats</li><li>Latvijas Reģionu Apvienība: 3.8–6.8%, 0–7 seats</li><li>Latvijas Krievu savienība: 2.6–5.1%, 0 seats</li><li>PROGRESĪVIE: 2.8–5.3%, 0–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/latvian_polls/2019-11-12-SKDS.html</id>
+    <link href="https://filipvanlaenen.github.io/latvian_polls/2019-11-12-SKDS.html"/>
+    <title>Opinion Poll by SKDS for Latvijas Televīzija, 2–12 November 2019</title>
+    <updated>2019-12-31T12:00:05.499129+01:00</updated>
+    <dc:date>2019-12-31T12:00:05.499129+01:00</dc:date>
+  </entry>
+  <dc:date>2019-12-31T12:00:05.499129+01:00</dc:date>
+</feed>
