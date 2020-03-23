@@ -10,7 +10,11 @@ Last result: **11.0%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 11.1–17.1% | 10.7–17.6% | 10.3–18.1% | 9.7–19.0% |
+| N/A | [Poll Average](average.html) | 11.4% | 9.8–13.1% | 9.4–13.6% | 9.0–14.1% | 8.4–14.9% |
+| [24–28 February 2020](2020-02-28-Factum.html) | Factum | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.5% | 9.3–15.3% |
+| [7–18 February 2020](2020-02-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.7% | 9.4–12.1% | 9.1–12.5% | 8.8–12.9% | 8.2–13.6% |
+| [18–31 December 2019](2019-12-31-Factum.html) | Factum | 14.0% | N/A | N/A | N/A | N/A |
+| [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.7% | N/A | N/A | N/A | N/A |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.4–14.8% |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.0% | 14.5–17.6% | 14.0–18.1% | 13.7–18.5% | 13.0–19.3% |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum | 11.0% | N/A | N/A | N/A | N/A |
@@ -46,20 +50,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 4% | 99.6% |  |
-| 10.5–11.5% | 13% | 96% | Last Result |
-| 11.5–12.5% | 18% | 83% |  |
-| 12.5–13.5% | 12% | 64% |  |
-| 13.5–14.5% | 8% | 53% | Median |
-| 14.5–15.5% | 12% | 45% |  |
-| 15.5–16.5% | 16% | 32% |  |
-| 16.5–17.5% | 11% | 16% |  |
-| 17.5–18.5% | 4% | 6% |  |
-| 18.5–19.5% | 1.0% | 1.2% |  |
-| 19.5–20.5% | 0.1% | 0.2% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.7% | 100% |  |
+| 8.5–9.5% | 6% | 99.3% |  |
+| 9.5–10.5% | 19% | 93% |  |
+| 10.5–11.5% | 29% | 74% | Last Result, Median |
+| 11.5–12.5% | 25% | 44% |  |
+| 12.5–13.5% | 14% | 20% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 1.0% | 1.1% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -70,7 +71,11 @@ Last result: **13** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–19 | 12–20 | 12–20 | 11–20 |
+| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 10–16 | 9–17 |
+| [24–28 February 2020](2020-02-28-Factum.html) | Factum | 14 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [7–18 February 2020](2020-02-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 11–14 | 11–14 | 10–14 | 9–14 |
+| [18–31 December 2019](2019-12-31-Factum.html) | Factum |  |  |  |  |  |
+| [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 16–20 | 15–20 | 14–20 | 14–21 |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum |  |  |  |  |  |
@@ -108,19 +113,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 2% | 100% |  |
-| 12 | 7% | 98% |  |
-| 13 | 14% | 90% | Last Result |
-| 14 | 20% | 76% |  |
-| 15 | 6% | 56% | Median |
-| 16 | 17% | 50% |  |
-| 17 | 13% | 33% |  |
-| 18 | 5% | 20% |  |
-| 19 | 7% | 15% |  |
-| 20 | 8% | 8% |  |
-| 21 | 0.2% | 0.4% |  |
-| 22 | 0.1% | 0.2% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 0.1% | 99.9% |  |
+| 9 | 0.6% | 99.8% |  |
+| 10 | 2% | 99.3% |  |
+| 11 | 15% | 97% |  |
+| 12 | 22% | 82% |  |
+| 13 | 16% | 60% | Last Result, Median |
+| 14 | 39% | 44% |  |
+| 15 | 2% | 5% |  |
+| 16 | 2% | 3% |  |
+| 17 | 0.9% | 1.0% |  |
+| 18 | 0% | 0% |  |
 
 
