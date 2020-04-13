@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sun, 22 Mar 2020 22:27:12 +0100</pubDate>
+    <pubDate>Sun, 12 Apr 2020 13:40:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by Factum, 24–28 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-02-28-Factum.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-02-28-Factum.png"
         length="331855"
         type="image/png"/>
-      <pubDate>Sun, 22 Mar 2020 21:06:52 +0100</pubDate>
-      <dc:date>2020-03-22T21:06:52.782018+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 13:22:30 +0200</pubDate>
+      <dc:date>2020-04-12T13:22:30.935381+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 7–18 February 2020 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-02-18-SKDS.png"
         length="300125"
         type="image/png"/>
-      <pubDate>Sun, 22 Mar 2020 22:27:12 +0100</pubDate>
-      <dc:date>2020-03-22T22:27:12.628978+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 13:40:51 +0200</pubDate>
+      <dc:date>2020-04-12T13:40:51.815028+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 21–24 November 2019 – Seat Projections for the Parties</title>
@@ -89,6 +89,6 @@
       <pubDate>Tue, 31 Dec 2019 12:00:05 +0100</pubDate>
       <dc:date>2019-12-31T12:00:05.499129+01:00</dc:date>
     </item>
-    <dc:date>2020-03-22T22:27:12.628978+01:00</dc:date>
+    <dc:date>2020-04-12T13:40:51.815028+02:00</dc:date>
   </channel>
 </rss>
