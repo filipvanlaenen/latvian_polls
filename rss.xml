@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sat, 16 May 2020 11:03:35 +0200</pubDate>
+    <pubDate>Fri, 05 Jun 2020 10:19:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Factum, 7–26 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-04-26-Factum.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 15.0–19.1%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 1.4–3.0%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 9.4–12.8%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 12.3–16.0%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.3–13.9%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 9.4–12.8%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 14.1–18.1%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.9–6.3%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 3.1–5.2%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 4.9–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-04-26-Factum.png"
+        length="361726"
+        type="image/png"/>
+      <pubDate>Fri, 05 Jun 2020 08:42:42 +0200</pubDate>
+      <dc:date>2020-06-05T08:42:42.386841+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-03-31-SKDS.html</link>
@@ -48,6 +58,26 @@
         type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 13:40:51 +0200</pubDate>
       <dc:date>2020-04-12T13:40:51.815028+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 28 January–1 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-02-01-Factum.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 18.2–24.3%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 1.2–3.4%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 8.8–13.5%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 8.8–13.5%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 9.8–14.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 7.9–12.4%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 13.4–18.9%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.6–6.9%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 2.0–4.6%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 5.3–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-02-01-Factum.png"
+        length="382046"
+        type="image/png"/>
+      <pubDate>Fri, 05 Jun 2020 10:08:48 +0200</pubDate>
+      <dc:date>2020-06-05T10:08:48.760123+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-01-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 20.5–27.0%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 2.3–5.2%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 8.5–13.2%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 7.4–11.9%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 8.8–13.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 12.5–18.0%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 8.5–13.2%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.6–7.0%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 5.2–9.0%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 2.1–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-01-31-SKDS.png"
+        length="380221"
+        type="image/png"/>
+      <pubDate>Fri, 05 Jun 2020 10:19:23 +0200</pubDate>
+      <dc:date>2020-06-05T10:19:23.401918+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 21–24 November 2019 – Seat Projections for the Parties</title>
@@ -109,6 +139,6 @@
       <pubDate>Tue, 31 Dec 2019 12:00:05 +0100</pubDate>
       <dc:date>2019-12-31T12:00:05.499129+01:00</dc:date>
     </item>
-    <dc:date>2020-05-16T11:03:35.994612+02:00</dc:date>
+    <dc:date>2020-06-05T10:19:23.401918+02:00</dc:date>
   </channel>
 </rss>
