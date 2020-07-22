@@ -13,8 +13,8 @@ Last result: **2.6%** (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 6.7% | 2.7–9.5% | 2.4–9.8% | 2.2–10.1% | 1.8–10.6% |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.3% | 2.4–4.6% | 2.2–5.0% | 2.0–5.3% | 1.6–6.0% |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 8.8% | 7.9–9.8% | 7.7–10.1% | 7.5–10.3% | 7.1–10.9% |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.1% | N/A | N/A | N/A | N/A |
-| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 8.0% | N/A | N/A | N/A | N/A |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.1% | 2.2–4.4% | 2.0–4.7% | 1.8–5.1% | 1.5–5.8% |
+| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 8.0% | 7.1–9.1% | 6.8–9.5% | 6.6–9.7% | 6.2–10.3% |
 | [7–26 April 2020](2020-04-26-Factum.html) | Factum | 6.0% | 5.3–7.0% | 5.1–7.2% | 4.9–7.5% | 4.5–7.9% |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.8% | 2.2–3.6% | 2.0–3.8% | 1.9–4.1% | 1.6–4.5% |
 | [4–28 March 2020](2020-03-28-Factum.html) | Factum | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
@@ -26,7 +26,7 @@ Last result: **2.6%** (General Election of 6 October 2018)
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.1% | 2.9–6.6% |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.6% | 4.2–8.1% |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.8% | 3.1–4.8% | 2.9–5.1% | 2.8–5.3% | 2.5–5.8% |
-| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 6.0% | N/A | N/A | N/A | N/A |
+| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 6.0% | 4.8–7.6% | 4.5–8.0% | 4.2–8.4% | 3.7–9.2% |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.0% | N/A | N/A | N/A | N/A |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum | 4.9% | N/A | N/A | N/A | N/A |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.4% | N/A | N/A | N/A | N/A |
@@ -85,8 +85,8 @@ Last result: **0** seats (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 7 | 0–11 | 0–11 | 0–11 | 0–11 |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0–5 | 0–6 | 0–7 |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 9 | 8–11 | 8–11 | 8–11 | 7–11 |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [18–31 May 2020](2020-05-31-Factum.html) | Factum |  |  |  |  |  |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 5 | 0–5 | 0–7 | 0–7 | 0–7 |
+| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [7–26 April 2020](2020-04-26-Factum.html) | Factum | 6 | 5–7 | 0–7 | 0–8 | 0–8 |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [4–28 March 2020](2020-03-28-Factum.html) | Factum | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 6 October 2018)
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0–7 | 0–7 |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 7 | 5–8 | 0–8 | 0–8 | 0–9 |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0–5 | 0–7 |
-| [15–22 October 2019](2019-10-22-Factum.html) | Factum |  |  |  |  |  |
+| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 7 | 6–8 | 0–8 | 0–8 | 0–9 |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum |  |  |  |  |  |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |

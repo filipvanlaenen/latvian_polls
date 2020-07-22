@@ -13,8 +13,8 @@ Last result: **9.9%** (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 13.0% | 10.2–18.8% | 9.8–19.6% | 9.6–20.3% | 9.1–21.6% |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 17.2% | 15.1–19.6% | 14.5–20.3% | 14.0–20.9% | 13.0–22.1% |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 10.8% | 9.8–11.9% | 9.6–12.2% | 9.3–12.5% | 8.9–13.0% |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.9% | N/A | N/A | N/A | N/A |
-| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 9.0% | N/A | N/A | N/A | N/A |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.9% | 13.9–18.3% | 13.4–19.0% | 12.9–19.6% | 12.0–20.8% |
+| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 9.0% | 8.0–10.1% | 7.7–10.5% | 7.5–10.7% | 7.0–11.3% |
 | [7–26 April 2020](2020-04-26-Factum.html) | Factum | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.4–12.8% | 9.0–13.4% |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.1% | 14.6–17.7% | 14.2–18.2% | 13.8–18.6% | 13.1–19.4% |
 | [4–28 March 2020](2020-03-28-Factum.html) | Factum | 12.0% | 11.1–13.0% | 10.8–13.2% | 10.6–13.5% | 10.2–14.0% |
@@ -26,7 +26,7 @@ Last result: **9.9%** (General Election of 6 October 2018)
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.6% | 13.2–16.3% | 12.8–16.8% | 12.4–17.2% | 11.7–18.0% |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 9.9% | 8.8–11.3% | 8.5–11.7% | 8.2–12.0% | 7.7–12.7% |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.7% | 12.3–15.3% | 11.9–15.7% | 11.6–16.1% | 10.9–16.9% |
-| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 11.0% | N/A | N/A | N/A | N/A |
+| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 11.0% | 9.3–12.9% | 8.9–13.5% | 8.5–14.0% | 7.8–15.0% |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.1% | N/A | N/A | N/A | N/A |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum | 10.0% | N/A | N/A | N/A | N/A |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.6% | N/A | N/A | N/A | N/A |
@@ -89,8 +89,8 @@ Last result: **11** seats (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 15 | 11–21 | 11–22 | 11–24 | 11–25 |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 17–22 | 16–24 | 16–25 | 15–25 |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 13 | 11–13 | 11–13 | 11–13 | 11–15 |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [18–31 May 2020](2020-05-31-Factum.html) | Factum |  |  |  |  |  |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 13 | 13–17 | 13–17 | 13–18 | 13–20 |
+| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 12 | 11–13 | 11–13 | 10–13 | 9–14 |
 | [7–26 April 2020](2020-04-26-Factum.html) | Factum | 12 | 11–13 | 11–13 | 11–14 | 11–15 |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 17–20 | 17–22 | 17–22 | 15–22 |
 | [4–28 March 2020](2020-03-28-Factum.html) | Factum | 13 | 12–14 | 12–15 | 12–16 | 11–16 |
@@ -102,7 +102,7 @@ Last result: **11** seats (General Election of 6 October 2018)
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 17 | 16–17 | 15–17 | 14–19 |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 11 | 11–14 | 11–14 | 10–14 | 9–15 |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 14–17 | 13–17 | 13–18 | 11–19 |
-| [15–22 October 2019](2019-10-22-Factum.html) | Factum |  |  |  |  |  |
+| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 12 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum |  |  |  |  |  |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |

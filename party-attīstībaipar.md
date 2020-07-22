@@ -13,8 +13,8 @@ Last result: **12.0%** (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 14.2% | 10.2–16.5% | 9.6–17.0% | 9.1–17.3% | 8.3–18.0% |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.3% | 9.6–13.4% | 9.1–14.0% | 8.7–14.5% | 8.0–15.6% |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 15.7% | 14.5–17.0% | 14.2–17.3% | 13.9–17.6% | 13.4–18.3% |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.8% | N/A | N/A | N/A | N/A |
-| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 13.0% | N/A | N/A | N/A | N/A |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.8% | 8.2–11.8% | 7.8–12.4% | 7.4–12.9% | 6.7–13.9% |
+| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 13.0% | 11.8–14.4% | 11.5–14.7% | 11.2–15.1% | 10.7–15.7% |
 | [7–26 April 2020](2020-04-26-Factum.html) | Factum | 14.0% | 12.9–15.3% | 12.5–15.7% | 12.3–16.0% | 11.7–16.7% |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.5% | 9.3–11.9% | 9.0–12.3% | 8.7–12.7% | 8.1–13.4% |
 | [4–28 March 2020](2020-03-28-Factum.html) | Factum | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
@@ -26,7 +26,7 @@ Last result: **12.0%** (General Election of 6 October 2018)
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.4% | 7.3–9.8% | 7.0–10.2% | 6.7–10.5% | 6.2–11.2% |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 9.9% | 8.8–11.3% | 8.5–11.7% | 8.2–12.0% | 7.7–12.7% |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 10.2% | 9.0–11.6% | 8.6–12.0% | 8.4–12.4% | 7.8–13.1% |
-| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 9.0% | N/A | N/A | N/A | N/A |
+| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 9.0% | 7.5–10.8% | 7.1–11.3% | 6.8–11.8% | 6.1–12.7% |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.2% | N/A | N/A | N/A | N/A |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum | 11.0% | N/A | N/A | N/A | N/A |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 9.9% | N/A | N/A | N/A | N/A |
@@ -87,8 +87,8 @@ Last result: **13** seats (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 15 | 13–16 | 10–17 | 10–18 | 9–19 |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 10–15 | 10–16 | 9–16 | 7–19 |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 15 | 15–17 | 15–18 | 15–18 | 13–18 |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [18–31 May 2020](2020-05-31-Factum.html) | Factum |  |  |  |  |  |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 8 | 8–10 | 7–11 | 7–12 | 6–15 |
+| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [7–26 April 2020](2020-04-26-Factum.html) | Factum | 15 | 13–16 | 13–16 | 13–17 | 13–17 |
 | [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 9–14 | 9–14 | 9–14 | 8–14 |
 | [4–28 March 2020](2020-03-28-Factum.html) | Factum | 15 | 14–15 | 14–16 | 14–16 | 12–16 |
@@ -100,7 +100,7 @@ Last result: **13** seats (General Election of 6 October 2018)
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 9–10 | 9–10 | 8–10 | 7–11 |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 10–14 | 10–14 | 9–15 | 8–15 |
-| [15–22 October 2019](2019-10-22-Factum.html) | Factum |  |  |  |  |  |
+| [15–22 October 2019](2019-10-22-Factum.html) | Factum | 10 | 8–11 | 7–14 | 7–14 | 7–14 |
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum |  |  |  |  |  |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
