@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Fri, 10 Jul 2020 07:41:15 +0200</pubDate>
+    <pubDate>Wed, 22 Jul 2020 09:05:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html</link>
@@ -28,6 +28,26 @@
         type="image/png"/>
       <pubDate>Fri, 10 Jul 2020 07:41:15 +0200</pubDate>
       <dc:date>2020-07-10T07:41:15.7433+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 23 May–2 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-02-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 22.2–30.2%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 2.5–6.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 5.2–10.0%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 7.4–12.9%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 8.4–14.1%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 12.9–19.6%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 9.3–15.3%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.6–7.7%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 3.0–6.9%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 1.8–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-02-SKDS.png"
+        length="387714"
+        type="image/png"/>
+      <pubDate>Sun, 19 Jul 2020 23:35:00 +0200</pubDate>
+      <dc:date>2020-07-19T23:35:00.450531+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 18–31 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 14.0–18.2%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 1.4–3.0%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 7.5–10.7%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 11.2–15.1%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 9.3–12.9%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 7.5–10.7%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 15.9–20.3%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 2.1–4.1%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 6.6–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.png"
+        length="367725"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jul 2020 07:27:52 +0200</pubDate>
+      <dc:date>2020-07-20T07:27:52.962403+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 7–26 April 2020 – Voting Intentions</title>
@@ -179,6 +199,16 @@
       <pubDate>Tue, 31 Dec 2019 12:00:05 +0100</pubDate>
       <dc:date>2019-12-31T12:00:05.499129+01:00</dc:date>
     </item>
-    <dc:date>2020-07-10T07:41:15.7433+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Factum, 15–22 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2019-10-22-Factum.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 16.7–23.6%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 1.8–4.9%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 11.2–17.3%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 6.8–11.8%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 8.5–14.0%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 8.5–14.0%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 12.1–18.3%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 2.6–6.1%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 2.6–6.1%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 4.2–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2019-10-22-Factum.png"
+        length="402639"
+        type="image/png"/>
+      <pubDate>Wed, 22 Jul 2020 09:05:51 +0200</pubDate>
+      <dc:date>2020-07-22T09:05:51.266136+02:00</dc:date>
+    </item>
+    <dc:date>2020-07-22T09:05:51.266136+02:00</dc:date>
   </channel>
 </rss>
