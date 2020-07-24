@@ -27,7 +27,7 @@ Last result: **14.2%** (General Election of 6 October 2018)
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.8–4.7% |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.4% | 4.6–6.5% | 4.3–6.9% | 4.1–7.1% | 3.7–7.7% |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
-| [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.4% | N/A | N/A | N/A | N/A |
+| [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.4% | 3.6–5.4% | 3.4–5.7% | 3.2–5.9% | 2.9–6.5% |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum | 2.0% | N/A | N/A | N/A | N/A |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.6% | N/A | N/A | N/A | N/A |
 | [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.1% | N/A | N/A | N/A | N/A |
@@ -101,7 +101,7 @@ Last result: **16** seats (General Election of 6 October 2018)
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0 |
 | [2–12 November 2019](2019-11-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 5 | 0–7 | 0–7 | 0–7 | 0–10 |
 | [15–22 October 2019](2019-10-22-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0–6 |
-| [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum |  |  |  |  |  |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
@@ -140,9 +140,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 3% |  |
 | 3 | 0% | 3% |  |
 | 4 | 0% | 3% |  |
-| 5 | 0.8% | 3% |  |
+| 5 | 1.3% | 3% |  |
 | 6 | 2% | 2% |  |
-| 7 | 0.1% | 0.2% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
