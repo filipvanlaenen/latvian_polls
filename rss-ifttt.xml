@@ -2,86 +2,102 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>All Registered Polls for the Saeima</title>
-    <link>null</link>
+    <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sun, 29 Dec 2019 10:47:50 +0100</pubDate>
+    <pubDate>Fri, 24 Jul 2020 18:43:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Factum, 1–30 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-30-Factum.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 1–30 June 2020<br/>Details on null/2020-06-30-Factum.html<br/><img src="null/2020-06-30-Factum.png"/>]]></description>
-      <enclosure url="null/2020-06-30-Factum.png" length="358484" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum.png" length="358484" type="image/png"/>
       <pubDate>Fri, 10 Jul 2020 07:41:15 +0200</pubDate>
       <dc:date>2020-07-10T07:41:15.7433+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS-seating-plan.png" length="523213" type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 17:55:38 +0200</pubDate>
+      <dc:date>2020-07-24T17:55:38.928291+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html#seats</link>
+      <description><![CDATA[Seat projections for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS-seats.png" length="339826" type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 17:55:38 +0200</pubDate>
+      <dc:date>2020-07-24T17:55:38.928291+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-30-SKDS.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–30 June 2020<br/>Details on null/2020-06-30-SKDS.html<br/><img src="null/2020-06-30-SKDS.png"/>]]></description>
-      <enclosure url="null/2020-06-30-SKDS.png" length="388893" type="image/png"/>
-      <pubDate>Fri, 10 Jul 2020 07:11:25 +0200</pubDate>
-      <dc:date>2020-07-10T07:11:25.294697+02:00</dc:date>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.png" length="388893" type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 17:55:38 +0200</pubDate>
+      <dc:date>2020-07-24T17:55:38.928291+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 23 May–2 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-02-SKDS.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 23 May–2 June 2020<br/>Details on null/2020-06-02-SKDS.html<br/><img src="null/2020-06-02-SKDS.png"/>]]></description>
-      <enclosure url="null/2020-06-02-SKDS.png" length="387714" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-02-SKDS.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 23 May–2 June 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-06-02-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-06-02-SKDS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-02-SKDS.png" length="387714" type="image/png"/>
       <pubDate>Sun, 19 Jul 2020 23:35:00 +0200</pubDate>
       <dc:date>2020-07-19T23:35:00.450531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 18–31 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-31-Factum.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 18–31 May 2020<br/>Details on null/2020-05-31-Factum.html<br/><img src="null/2020-05-31-Factum.png"/>]]></description>
-      <enclosure url="null/2020-05-31-Factum.png" length="367725" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 18–31 May 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.png" length="367725" type="image/png"/>
       <pubDate>Mon, 20 Jul 2020 07:27:52 +0200</pubDate>
       <dc:date>2020-07-20T07:27:52.962403+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 7–26 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-26-Factum.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 7–26 April 2020<br/>Details on null/2020-04-26-Factum.html<br/><img src="null/2020-04-26-Factum.png"/>]]></description>
-      <enclosure url="null/2020-04-26-Factum.png" length="361726" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-04-26-Factum.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 7–26 April 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-04-26-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-04-26-Factum.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-04-26-Factum.png" length="361726" type="image/png"/>
       <pubDate>Fri, 5 Jun 2020 08:42:42 +0200</pubDate>
       <dc:date>2020-06-05T08:42:42.386841+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-31-SKDS.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–31 March 2020<br/>Details on null/2020-03-31-SKDS.html<br/><img src="null/2020-03-31-SKDS.png"/>]]></description>
-      <enclosure url="null/2020-03-31-SKDS.png" length="353567" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-03-31-SKDS.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–31 March 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-03-31-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-03-31-SKDS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-03-31-SKDS.png" length="353567" type="image/png"/>
       <pubDate>Sat, 16 May 2020 11:03:35 +0200</pubDate>
       <dc:date>2020-05-16T11:03:35.994612+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 4–28 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-28-Factum.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 4–28 March 2020<br/>Details on null/2020-03-28-Factum.html<br/><img src="null/2020-03-28-Factum.png"/>]]></description>
-      <enclosure url="null/2020-03-28-Factum.png" length="342524" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-03-28-Factum.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 4–28 March 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-03-28-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-03-28-Factum.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-03-28-Factum.png" length="342524" type="image/png"/>
       <pubDate>Fri, 8 May 2020 07:17:54 +0200</pubDate>
       <dc:date>2020-05-08T07:17:54.780545+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 24–28 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-28-Factum.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 24–28 February 2020<br/>Details on null/2020-02-28-Factum.html<br/><img src="null/2020-02-28-Factum.png"/>]]></description>
-      <enclosure url="null/2020-02-28-Factum.png" length="331855" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-02-28-Factum.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 24–28 February 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-02-28-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-02-28-Factum.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-02-28-Factum.png" length="331855" type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 13:22:30 +0200</pubDate>
       <dc:date>2020-04-12T13:22:30.935381+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 7–18 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-18-SKDS.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 7–18 February 2020<br/>Details on null/2020-02-18-SKDS.html<br/><img src="null/2020-02-18-SKDS.png"/>]]></description>
-      <enclosure url="null/2020-02-18-SKDS.png" length="300125" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-02-18-SKDS.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 7–18 February 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-02-18-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-02-18-SKDS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-02-18-SKDS.png" length="300125" type="image/png"/>
       <pubDate>Sun, 12 Apr 2020 13:40:51 +0200</pubDate>
       <dc:date>2020-04-12T13:40:51.815028+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum, 28 January–1 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-01-Factum.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 28 January–1 February 2020<br/>Details on null/2020-02-01-Factum.html<br/><img src="null/2020-02-01-Factum.png"/>]]></description>
-      <enclosure url="null/2020-02-01-Factum.png" length="382046" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-02-01-Factum.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 28 January–1 February 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-02-01-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-02-01-Factum.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-02-01-Factum.png" length="382046" type="image/png"/>
       <pubDate>Fri, 5 Jun 2020 10:08:48 +0200</pubDate>
       <dc:date>2020-06-05T10:08:48.760123+02:00</dc:date>
     </item>
