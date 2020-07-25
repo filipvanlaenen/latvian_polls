@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Fri, 24 Jul 2020 17:55:38 +0200</pubDate>
+    <pubDate>Sat, 25 Jul 2020 10:06:31 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-30-SKDS.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum.png"
         length="358484"
         type="image/png"/>
-      <pubDate>Fri, 10 Jul 2020 07:41:15 +0200</pubDate>
-      <dc:date>2020-07-10T07:41:15.7433+02:00</dc:date>
+      <pubDate>Sat, 25 Jul 2020 10:06:31 +0200</pubDate>
+      <dc:date>2020-07-25T10:06:31.698832+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 23 May–2 June 2020 – Voting Intentions</title>
@@ -239,6 +239,6 @@
       <pubDate>Fri, 24 Jul 2020 07:43:58 +0200</pubDate>
       <dc:date>2020-07-24T07:43:58.072335+02:00</dc:date>
     </item>
-    <dc:date>2020-07-24T17:55:38.928291+02:00</dc:date>
+    <dc:date>2020-07-25T10:06:31.698832+02:00</dc:date>
   </channel>
 </rss>
