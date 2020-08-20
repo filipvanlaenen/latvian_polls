@@ -89,14 +89,14 @@ Last result: **11** seats (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 15 | 11–22 | 11–22 | 11–23 | 11–26 |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 19 | 16–22 | 16–23 | 16–24 | 14–27 |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 12 | 11–15 | 11–15 | 11–15 | 11–15 |
-| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 13 | 13–17 | 13–17 | 13–18 | 13–20 |
-| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 12 | 11–13 | 11–13 | 10–13 | 9–14 |
-| [7–26 April 2020](2020-04-26-Factum.html) | Factum | 12 | 11–13 | 11–13 | 11–14 | 11–15 |
-| [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 17–20 | 17–22 | 17–22 | 15–22 |
-| [4–28 March 2020](2020-03-28-Factum.html) | Factum | 13 | 12–14 | 12–15 | 12–16 | 11–16 |
-| [24–28 February 2020](2020-02-28-Factum.html) | Factum | 15 | 12–17 | 12–18 | 12–18 | 11–18 |
-| [7–18 February 2020](2020-02-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 16–18 | 16–20 | 15–20 | 14–22 |
-| [28 January–1 February 2020](2020-02-01-Factum.html) | Factum | 11 | 10–12 | 9–14 | 7–14 | 7–15 |
+| [23 May–2 June 2020](2020-06-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 16–22 | 14–22 | 14–23 | 13–24 |
+| [18–31 May 2020](2020-05-31-Factum.html) | Factum | 11 | 11–12 | 10–13 | 10–13 | 8–14 |
+| [7–26 April 2020](2020-04-26-Factum.html) | Factum | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
+| [1–31 March 2020](2020-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 18 | 15–20 | 14–20 | 14–20 | 14–23 |
+| [4–28 March 2020](2020-03-28-Factum.html) | Factum | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
+| [24–28 February 2020](2020-02-28-Factum.html) | Factum | 14 | 13–17 | 12–18 | 12–18 | 11–18 |
+| [7–18 February 2020](2020-02-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 15–19 | 15–20 | 15–20 | 14–22 |
+| [28 January–1 February 2020](2020-02-01-Factum.html) | Factum | 11 | 11–12 | 9–13 | 9–14 | 7–15 |
 | [1–31 January 2020](2020-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 14–19 | 14–20 | 14–20 | 13–20 |
 | [18–31 December 2019](2019-12-31-Factum.html) | Factum | 11 | 11–12 | 11–13 | 10–13 | 10–15 |
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 17 | 16–17 | 15–17 | 14–19 |
