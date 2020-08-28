@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sun, 23 Aug 2020 16:24:58 +0200</pubDate>
+    <pubDate>Fri, 28 Aug 2020 11:17:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Factum, 8–31 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-07-31-Factum.html#seats</link>
@@ -459,6 +459,16 @@
       <pubDate>Fri, 14 Aug 2020 06:52:58 +0200</pubDate>
       <dc:date>2020-08-14T06:52:58.273564+02:00</dc:date>
     </item>
-    <dc:date>2020-08-23T16:24:58.12943+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 6–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2019-09-18-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 20.9–26.4%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 3.4–6.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 9.7–13.9%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 8.1–12.0%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 12.3–16.9%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 11.5–16.0%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 11.4–15.8%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 2.9–5.5%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 2.4–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2019-09-18-SKDS.png"
+        length="345621"
+        type="image/png"/>
+      <pubDate>Fri, 28 Aug 2020 11:17:03 +0200</pubDate>
+      <dc:date>2020-08-28T11:17:03.715999+02:00</dc:date>
+    </item>
+    <dc:date>2020-08-28T11:17:03.715999+02:00</dc:date>
   </channel>
 </rss>
