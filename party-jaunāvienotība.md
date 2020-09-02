@@ -31,9 +31,9 @@ Last result: **6.7%** (General Election of 6 October 2018)
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.4% | 10.2–12.9% | 9.8–13.3% | 9.5–13.7% | 9.0–14.4% |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum | 17.0% | 15.0–19.3% | 14.4–20.0% | 13.9–20.6% | 13.0–21.7% |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.4% | 12.1–15.0% | 11.7–15.5% | 11.4–15.8% | 10.7–16.6% |
-| [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.9% | N/A | N/A | N/A | N/A |
-| [27–30 August 2019](2019-08-30-Factum.html) | Factum | 17.0% | N/A | N/A | N/A | N/A |
-| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.6% | N/A | N/A | N/A | N/A |
+| [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.9% | 12.5–15.6% | 12.1–16.0% | 11.7–16.4% | 11.1–17.3% |
+| [27–30 August 2019](2019-08-30-Factum.html) | Factum | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.3% | 14.3–20.0% |
+| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.6% | 13.2–16.3% | 12.8–16.8% | 12.4–17.2% | 11.7–18.0% |
 | [22–29 July 2019](2019-07-29-Factum.html) | Factum | 14.9% | N/A | N/A | N/A | N/A |
 | [26–30 June 2019](2019-06-30-Factum.html) | Factum | 17.0% | N/A | N/A | N/A | N/A |
 | [7–17 June 2019](2019-06-17-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.6% | N/A | N/A | N/A | N/A |
@@ -107,9 +107,9 @@ Last result: **8** seats (General Election of 6 October 2018)
 | [5–16 October 2019](2019-10-16-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 11–15 | 11–16 | 11–18 | 10–18 |
 | [27–30 September 2019](2019-09-30-Factum.html) | Factum | 18 | 17–19 | 17–21 | 17–21 | 15–24 |
 | [6–18 September 2019](2019-09-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 15–18 | 13–18 | 12–18 | 11–18 |
-| [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [27–30 August 2019](2019-08-30-Factum.html) | Factum |  |  |  |  |  |
-| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [1–31 August 2019](2019-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 18 | 16–18 | 11–18 | 11–18 | 11–18 |
+| [27–30 August 2019](2019-08-30-Factum.html) | Factum | 17 | 17–18 | 17–18 | 17–19 | 15–21 |
+| [1–31 July 2019](2019-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 13–18 | 13–19 | 13–19 | 12–21 |
 | [22–29 July 2019](2019-07-29-Factum.html) | Factum |  |  |  |  |  |
 | [26–30 June 2019](2019-06-30-Factum.html) | Factum |  |  |  |  |  |
 | [7–17 June 2019](2019-06-17-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
