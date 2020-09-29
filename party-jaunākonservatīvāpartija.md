@@ -10,9 +10,11 @@ Last result: **13.6%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.3–10.2% | 7.0–10.8% | 6.7–11.2% | 6.2–12.1% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.4–10.3% | 7.1–10.8% | 6.8–11.2% | 6.3–12.1% |
+| [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.2% | 7.2–9.5% | 6.9–9.9% | 6.6–10.2% | 6.2–10.8% |
 | [1–24 August 2020](2020-08-24-Factum.html) | Factum | 9.1% | 7.8–10.7% | 7.4–11.2% | 7.1–11.6% | 6.5–12.4% |
 | [7–20 August 2020](2020-08-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.1% | 7.0–9.4% | 6.8–9.8% | 6.5–10.1% | 6.0–10.7% |
+| [1–31 July 2020](2020-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 3.8% | N/A | N/A | N/A | N/A |
 | [8–31 July 2020](2020-07-31-Factum.html) | Factum | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.0% | 6.6–9.9% | 6.2–10.4% | 5.9–10.9% | 5.3–11.9% |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 9.8% | 8.9–10.9% | 8.6–11.2% | 8.4–11.4% | 8.0–11.9% |
@@ -63,12 +65,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 13% | 98% |  |
-| 7.5–8.5% | 32% | 85% |  |
-| 8.5–9.5% | 30% | 53% | Median |
-| 9.5–10.5% | 16% | 22% |  |
-| 10.5–11.5% | 5% | 7% |  |
+| 5.5–6.5% | 1.2% | 100% |  |
+| 6.5–7.5% | 12% | 98.8% |  |
+| 7.5–8.5% | 32% | 87% |  |
+| 8.5–9.5% | 32% | 55% | Median |
+| 9.5–10.5% | 16% | 23% |  |
+| 10.5–11.5% | 6% | 7% |  |
 | 11.5–12.5% | 1.2% | 1.4% |  |
 | 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% | Last Result |
@@ -82,9 +84,11 @@ Last result: **16** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–13 | 7–13 | 7–13 | 7–15 |
+| N/A | [Poll Average](average.html) | 9 | 8–13 | 8–13 | 7–13 | 7–15 |
+| [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 8–9 | 7–10 | 7–11 | 7–12 |
 | [1–24 August 2020](2020-08-24-Factum.html) | Factum | 11 | 9–13 | 9–13 | 8–14 | 7–15 |
 | [7–20 August 2020](2020-08-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 7–9 | 7–11 | 7–11 | 7–12 |
+| [1–31 July 2020](2020-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [8–31 July 2020](2020-07-31-Factum.html) | Factum | 11 | 10–11 | 10–13 | 9–13 | 9–13 |
 | [1–30 June 2020](2020-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 7–12 | 7–13 | 6–13 | 6–13 |
 | [1–30 June 2020](2020-06-30-Factum.html) | Factum | 10 | 9–12 | 9–13 | 9–13 | 7–13 |
@@ -136,12 +140,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 6% | 99.9% |  |
-| 8 | 17% | 94% |  |
-| 9 | 33% | 77% | Median |
-| 10 | 7% | 44% |  |
-| 11 | 16% | 37% |  |
+| 7 | 3% | 100% |  |
+| 8 | 21% | 97% |  |
+| 9 | 32% | 75% | Median |
+| 10 | 8% | 44% |  |
+| 11 | 15% | 36% |  |
 | 12 | 9% | 21% |  |
 | 13 | 10% | 12% |  |
 | 14 | 0.7% | 1.4% |  |
