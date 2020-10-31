@@ -6,30 +6,6 @@
     <description>All Registered Polls for the Saeima</description>
     <pubDate>Fri, 24 Jul 2020 18:43:17 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Factum, 29 September–4 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by Factum, 29 September–4 October 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum-seating-plan.png" length="521728" type="image/png"/>
-      <pubDate>Mon, 19 Oct 2020 18:00:10 +0200</pubDate>
-      <dc:date>2020-10-19T18:00:10.358346+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Factum, 29 September–4 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.html#seats</link>
-      <description><![CDATA[Seat projections for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by Factum, 29 September–4 October 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum-seats.png" length="348667" type="image/png"/>
-      <pubDate>Mon, 19 Oct 2020 18:00:10 +0200</pubDate>
-      <dc:date>2020-10-19T18:00:10.358346+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Factum, 29 September–4 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 29 September–4 October 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-10-04-Factum.png" length="429326" type="image/png"/>
-      <pubDate>Mon, 19 Oct 2020 18:00:10 +0200</pubDate>
-      <dc:date>2020-10-19T18:00:10.358346+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 11–21 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-09-21-SKDS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by SKDS for Latvijas Televīzija, 11–21 September 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-09-21-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-09-21-SKDS-seating-plan.png"/>]]></description>
@@ -150,6 +126,14 @@
       <dc:date>2020-08-23T16:24:58.12943+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-07-31-SKDS.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–31 July 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-07-31-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-07-31-SKDS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-07-31-SKDS.png" length="352592" type="image/png"/>
+      <pubDate>Sat, 31 Oct 2020 12:48:11 +0100</pubDate>
+      <dc:date>2020-10-31T12:48:11.312805+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Factum, 1–30 June 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by Factum, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-06-30-Factum-seating-plan.png"/>]]></description>
@@ -220,6 +204,30 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-06-02-SKDS.png" length="387398" type="image/png"/>
       <pubDate>Thu, 20 Aug 2020 07:30:56 +0200</pubDate>
       <dc:date>2020-08-20T07:30:56.827593+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 18–31 May 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by Factum, 18–31 May 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum-seating-plan.png" length="487976" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2020 08:16:40 +0200</pubDate>
+      <dc:date>2020-08-20T08:16:40.084539+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 18–31 May 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html#seats</link>
+      <description><![CDATA[Seat projections for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by Factum, 18–31 May 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum-seats.png" length="300209" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2020 08:16:40 +0200</pubDate>
+      <dc:date>2020-08-20T08:16:40.084539+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 18–31 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum, 18–31 May 2020<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-05-31-Factum.png" length="367492" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2020 08:16:40 +0200</pubDate>
+      <dc:date>2020-08-20T08:16:40.084539+02:00</dc:date>
     </item>
   </channel>
 </rss>
