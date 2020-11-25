@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/latvian_polls</id>
   <title>All Registered Polls for the Saeima</title>
-  <updated>2020-11-01T11:41:49.884029+01:00</updated>
+  <updated>2020-11-25T19:23:37.840555+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 12.8–17.6%, 17–21 seats</li><li>Politiskā partija „KPV LV”: 0.5–2.0%, 0 seats</li><li>Jaunā konservatīvā partija: 6.9–10.6%, 7–12 seats</li><li>Attīstībai/Par!: 14.8–19.9%, 17–23 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.9–15.4%, 13–17 seats</li><li>Zaļo un Zemnieku savienība: 8.7–12.8%, 11–16 seats</li><li>Jaunā VIENOTĪBA: 11.8–16.4%, 13–20 seats</li><li>Latvijas Reģionu Apvienība: 2.3–4.7%, 0 seats</li><li>Latvijas Krievu savienība: 2.6–5.1%, 0 seats</li><li>PROGRESĪVIE: 5.0–8.3%, 0–9 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/latvian_polls/2020-10-30-Factum.html</id>
+    <link href="https://filipvanlaenen.github.io/latvian_polls/2020-10-30-Factum.html"/>
+    <title>Opinion Poll by Factum, 26–30 October 2020</title>
+    <updated>2020-11-25T19:23:37.840555+01:00</updated>
+    <dc:date>2020-11-25T19:23:37.840555+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 15.0–20.0%, 17–24 seats</li><li>Politiskā partija „KPV LV”: 2.7–5.2%, 0–5 seats</li><li>Jaunā konservatīvā partija: 8.5–12.5%, 9–14 seats</li><li>Attīstībai/Par!: 10.9–15.3%, 12–17 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 8.6–12.7%, 10–14 seats</li><li>Zaļo un Zemnieku savienība: 14.3–19.1%, 16–22 seats</li><li>Jaunā VIENOTĪBA: 9.2–13.4%, 11–15 seats</li><li>Latvijas Reģionu Apvienība: 4.5–7.6%, 0–8 seats</li><li>Latvijas Krievu savienība: 3.2–6.0%, 0–7 seats</li><li>PROGRESĪVIE: 3.8–6.7%, 0–7 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/latvian_polls/2020-09-21-SKDS.html</id>
@@ -151,5 +159,5 @@
     <updated>2019-12-31T12:00:05.499129+01:00</updated>
     <dc:date>2019-12-31T12:00:05.499129+01:00</dc:date>
   </entry>
-  <dc:date>2020-11-01T11:41:49.884029+01:00</dc:date>
+  <dc:date>2020-11-25T19:23:37.840555+01:00</dc:date>
 </feed>
