@@ -10,11 +10,11 @@ Last result: **19.8%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 12.3–14.0% | 12.0–14.3% | 11.9–14.5% | 11.5–15.0% |
+| N/A | [Poll Average](average.html) | 15.6% | 12.6–20.9% | 12.3–21.5% | 12.0–22.0% | 11.6–23.0% |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 13.1% | 12.3–14.1% | 12.0–14.3% | 11.8–14.5% | 11.4–15.0% |
 | [11–30 November 2020](2020-11-30-Factum.html) | Factum | 15.2% | 13.7–16.9% | 13.2–17.4% | 12.9–17.8% | 12.2–18.7% |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 15.0% | 13.5–16.7% | 13.1–17.1% | 12.8–17.6% | 12.1–18.4% |
-| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 19.8% | N/A | N/A | N/A | N/A |
+| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 19.8% | 18.1–21.6% | 17.7–22.1% | 17.3–22.5% | 16.5–23.4% |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 17.3% | 15.8–19.1% | 15.4–19.6% | 15.0–20.0% | 14.3–20.8% |
 | [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 21.9% | 20.3–23.7% | 19.8–24.2% | 19.4–24.7% | 18.6–25.6% |
 | [1–24 August 2020](2020-08-24-Factum.html) | Factum | 15.2% | 13.5–17.2% | 13.0–17.7% | 12.7–18.2% | 11.9–19.2% |
@@ -70,16 +70,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.8% | 100% |  |
-| 11.5–12.5% | 18% | 99.2% |  |
-| 12.5–13.5% | 53% | 82% | Median |
-| 13.5–14.5% | 26% | 28% |  |
-| 14.5–15.5% | 2% | 2% |  |
-| 15.5–16.5% | 0% | 0% |  |
-| 16.5–17.5% | 0% | 0% |  |
-| 17.5–18.5% | 0% | 0% |  |
-| 18.5–19.5% | 0% | 0% |  |
-| 19.5–20.5% | 0% | 0% | Last Result |
+| 10.5–11.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 9% | 99.6% |  |
+| 12.5–13.5% | 27% | 91% |  |
+| 13.5–14.5% | 13% | 64% |  |
+| 14.5–15.5% | 1.2% | 51% |  |
+| 15.5–16.5% | 0.3% | 50% | Median |
+| 16.5–17.5% | 2% | 50% |  |
+| 17.5–18.5% | 6% | 48% |  |
+| 18.5–19.5% | 13% | 41% |  |
+| 19.5–20.5% | 14% | 29% | Last Result |
+| 20.5–21.5% | 10% | 14% |  |
+| 21.5–22.5% | 4% | 5% |  |
+| 22.5–23.5% | 1.0% | 1.1% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -90,11 +95,11 @@ Last result: **23** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–18 | 16–18 | 15–18 | 14–18 |
+| N/A | [Poll Average](average.html) | 18 | 16–24 | 16–24 | 16–24 | 14–24 |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 17 | 16–18 | 16–18 | 15–18 | 14–18 |
 | [11–30 November 2020](2020-11-30-Factum.html) | Factum | 18 | 17–21 | 17–21 | 16–22 | 15–23 |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 18 | 17–20 | 17–21 | 17–21 | 16–23 |
-| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 23 | 20–24 | 19–24 | 19–24 | 18–24 |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 20 | 18–22 | 18–23 | 17–24 | 16–25 |
 | [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 24 | 23–28 | 23–28 | 22–28 | 21–29 |
 | [1–24 August 2020](2020-08-24-Factum.html) | Factum | 19 | 17–22 | 17–23 | 16–23 | 15–24 |
@@ -151,15 +156,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.4% | 100% |  |
-| 15 | 2% | 98.6% |  |
-| 16 | 33% | 96% |  |
-| 17 | 20% | 63% | Median |
-| 18 | 43% | 43% |  |
-| 19 | 0.2% | 0.2% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% | Last Result |
+| 14 | 0.7% | 100% |  |
+| 15 | 1.1% | 99.3% |  |
+| 16 | 17% | 98% |  |
+| 17 | 10% | 82% |  |
+| 18 | 22% | 71% | Median |
+| 19 | 3% | 49% |  |
+| 20 | 8% | 46% |  |
+| 21 | 6% | 38% |  |
+| 22 | 7% | 33% |  |
+| 23 | 10% | 26% | Last Result |
+| 24 | 16% | 16% |  |
+| 25 | 0.1% | 0.2% |  |
+| 26 | 0% | 0.1% |  |
+| 27 | 0.1% | 0.1% |  |
+| 28 | 0% | 0% |  |
 
 

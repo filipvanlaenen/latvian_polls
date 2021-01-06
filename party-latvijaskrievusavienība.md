@@ -10,11 +10,11 @@ Last result: **3.2%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.6–4.6% | 3.5–4.8% | 3.3–4.9% | 3.1–5.2% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.7–5.6% | 3.5–6.0% | 3.4–6.3% | 3.2–6.9% |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 4.0% | 3.6–4.6% | 3.4–4.8% | 3.3–4.9% | 3.1–5.2% |
 | [11–30 November 2020](2020-11-30-Factum.html) | Factum | 4.0% | 3.3–5.1% | 3.1–5.4% | 2.9–5.6% | 2.6–6.2% |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.6–5.1% | 2.3–5.6% |
-| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.9% | N/A | N/A | N/A | N/A |
+| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.9% | 4.1–6.0% | 3.9–6.3% | 3.7–6.6% | 3.3–7.1% |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.4% | 3.6–5.4% | 3.4–5.7% | 3.2–6.0% | 2.9–6.5% |
 | [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [1–24 August 2020](2020-08-24-Factum.html) | Factum | 4.1% | 3.2–5.3% | 3.0–5.6% | 2.8–5.9% | 2.4–6.5% |
@@ -70,11 +70,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 9% | 100% | Last Result |
-| 3.5–4.5% | 79% | 91% | Median |
-| 4.5–5.5% | 12% | 12% |  |
-| 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 5% | 100% | Last Result |
+| 3.5–4.5% | 52% | 95% | Median |
+| 4.5–5.5% | 31% | 43% |  |
+| 5.5–6.5% | 11% | 12% |  |
+| 6.5–7.5% | 1.2% | 1.3% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -85,11 +87,11 @@ Last result: **0** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–6 | 0–8 |
+| N/A | [Poll Average](average.html) | 0 | 0–6 | 0–8 | 0–8 | 0–8 |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 0 | 0 | 0 | 0–6 | 0–8 |
 | [11–30 November 2020](2020-11-30-Factum.html) | Factum | 0 | 0–6 | 0–7 | 0–8 | 0–8 |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0–7 |
-| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–8 | 0–8 | 0–8 | 0–8 |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–7 | 0–7 | 0–7 | 0–8 |
 | [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [1–24 August 2020](2020-08-24-Factum.html) | Factum | 0 | 0–6 | 0–8 | 0–8 | 0–8 |
@@ -146,15 +148,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 0% | 4% |  |
-| 4 | 0% | 4% |  |
-| 5 | 0.3% | 4% |  |
-| 6 | 2% | 4% |  |
-| 7 | 0.5% | 2% |  |
-| 8 | 1.3% | 1.3% |  |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 0% | 27% |  |
+| 2 | 0% | 27% |  |
+| 3 | 0% | 27% |  |
+| 4 | 0% | 27% |  |
+| 5 | 15% | 27% |  |
+| 6 | 3% | 11% |  |
+| 7 | 2% | 9% |  |
+| 8 | 7% | 7% |  |
 | 9 | 0% | 0% |  |
 
 
