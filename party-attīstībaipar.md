@@ -89,11 +89,11 @@ Last result: **13** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 13–17 | 12–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 13–17 | 12–17 | 10–17 |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 16 | 15–16 | 14–17 | 14–17 | 14–17 |
 | [11–30 November 2020](2020-11-30-Factum.html) | Factum | 17 | 15–19 | 15–20 | 15–21 | 14–22 |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 20 | 17–21 | 17–23 | 17–23 | 16–24 |
-| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 13–17 | 12–17 | 12–17 | 10–17 |
+| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 13–17 | 12–17 | 11–17 | 10–17 |
 | [11–21 September 2020](2020-09-21-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 13–16 | 12–17 | 12–17 | 11–19 |
 | [1–31 August 2020](2020-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [1–24 August 2020](2020-08-24-Factum.html) | Factum | 19 | 16–22 | 16–22 | 16–22 | 15–23 |
@@ -150,16 +150,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.2% | 100% |  |
-| 10 | 0.3% | 99.8% |  |
-| 11 | 0.4% | 99.5% |  |
-| 12 | 2% | 99.2% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.7% | 99.9% |  |
+| 11 | 0.4% | 99.1% |  |
+| 12 | 2% | 98.7% |  |
 | 13 | 2% | 97% | Last Result |
-| 14 | 9% | 95% |  |
-| 15 | 29% | 86% |  |
-| 16 | 30% | 56% | Median |
-| 17 | 26% | 26% |  |
-| 18 | 0% | 0.1% |  |
+| 14 | 13% | 95% |  |
+| 15 | 27% | 82% |  |
+| 16 | 35% | 55% | Median |
+| 17 | 19% | 20% |  |
+| 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0.1% |  |
 | 20 | 0% | 0% |  |
 

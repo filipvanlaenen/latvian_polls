@@ -87,7 +87,7 @@ Last result: **0** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–7 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 0 | 0–6 | 0–7 | 0–8 | 0–8 |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 0 | 0 | 0 | 0–6 | 0–8 |
 | [11–30 November 2020](2020-11-30-Factum.html) | Factum | 0 | 0–6 | 0–7 | 0–8 | 0–8 |
 | [26–30 October 2020](2020-10-30-Factum.html) | Factum | 0 | 0 | 0 | 0 | 0–7 |
@@ -148,15 +148,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 0% | 16% |  |
-| 4 | 0.1% | 16% |  |
-| 5 | 7% | 16% |  |
-| 6 | 3% | 9% |  |
-| 7 | 2% | 6% |  |
-| 8 | 4% | 4% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 0% | 23% |  |
+| 2 | 0% | 23% |  |
+| 3 | 0% | 23% |  |
+| 4 | 0.1% | 23% |  |
+| 5 | 10% | 23% |  |
+| 6 | 6% | 13% |  |
+| 7 | 4% | 8% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 
