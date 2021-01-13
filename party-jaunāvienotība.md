@@ -111,7 +111,7 @@ Last result: **8** seats (General Election of 6 October 2018)
 | [24–28 February 2020](2020-02-28-Factum.html) | Factum | 17 | 14–18 | 13–18 | 12–19 | 11–19 |
 | [7–18 February 2020](2020-02-18-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 11–16 | 11–17 | 11–17 | 11–18 |
 | [28 January–1 February 2020](2020-02-01-Factum.html) | Factum | 18 | 16–18 | 15–19 | 15–20 | 13–22 |
-| [1–31 January 2020](2020-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 10–12 | 10–13 | 10–14 | 8–15 |
+| [1–31 January 2020](2020-01-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11 | 10–14 | 10–14 | 10–15 | 8–15 |
 | [18–31 December 2019](2019-12-31-Factum.html) | Factum | 15 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [30 November–12 December 2019](2019-12-12-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 15–16 | 13–16 | 11–16 | 11–18 |
 | [21–24 November 2019](2019-11-24-Factum.html) | Factum | 18 | 16–19 | 16–20 | 16–20 | 15–23 |
