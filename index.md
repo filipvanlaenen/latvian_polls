@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | SDPS | KPV | JKP | AP! | NA | ZZS | JV | LRA | LKS | P | NSL | VL | JS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 October 2018 | General Election | 19.8% <br> 23 | 14.2% <br> 16 | 13.6% <br> 16 | 12.0% <br> 13 | 11.0% <br> 13 | 9.9% <br> 11 | 6.7% <br> 8 | 4.1% <br> 0 | 3.2% <br> 0 | 2.6% <br> 0 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 12–22% <br> 16–25 | 2–4% <br> 0 | 7–13% <br> 9–13 | 12–16% <br> 12–17 | 10–14% <br> 10–16 | 12–18% <br> 13–20 | 8–14% <br> 8–17 | 2–6% <br> 0–7 | 3–6% <br> 0–8 | 5–9% <br> 0–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 12–24% <br> 16–28 | 2–5% <br> 0 | 7–12% <br> 9–13 | 8–14% <br> 8–17 | 10–14% <br> 11–16 | 12–18% <br> 15–19 | 7–14% <br> 8–17 | 2–7% <br> 0–7 | 3–5% <br> 0–6 | 6–9% <br> 7–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–31 December 2020](2020-12-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 19–25% <br> 22–28 | 3–5% <br> 0–5 | 9–12% <br> 9–13 | 8–11% <br> 7–14 | 9–14% <br> 11–15 | 13–18% <br> 15–21 | 6–10% <br> 7–11 | 4–8% <br> 0–7 | 3–6% <br> 0–6 | 6–9% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–17 December 2020](2020-12-17-Factum.html) | Factum | 12–15% <br> 15–18 | 2–3% <br> 0 | 7–9% <br> 8–11 | 12–15% <br> 14–17 | 12–15% <br> 14–16 | 12–15% <br> 15–18 | 12–15% <br> 15–17 | 2–4% <br> 0 | 3–5% <br> 0–6 | 7–9% <br> 8–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–20 October 2020](2020-10-20-SKDS.html) | SKDS <br> Latvijas Televīzija | 17–22% <br> 18–26 | 2–5% <br> 0 | 9–13% <br> 9–14 | 11–16% <br> 11–17 | 9–13% <br> 10–14 | 13–18% <br> 12–22 | 8–12% <br> 8–12 | 4–7% <br> 0–7 | 4–7% <br> 0–8 | 4–8% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 6 October 2018 | General Election | 19.8% <br> 23 | 14.2% <br> 16 | 13.6% <br> 16 | 12.0% <br> 13 | 11.0% <br> 13 | 9.9% <br> 11 | 6.7% <br> 8 | 4.1% <br> 0 | 3.2% <br> 0 | 2.6% <br> 0 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
