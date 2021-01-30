@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Tue, 12 Jan 2021 20:59:49 +0100</pubDate>
+    <pubDate>Fri, 29 Jan 2021 23:07:07 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2020-12-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 19.4–24.8%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 2.6–5.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 8.5–12.5%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 7.6–11.4%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 9.4–13.6%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 13.3–18.1%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 6.4–10.0%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 4.4–7.5%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 3.0–5.6%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 6.0–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2020-12-31-SKDS.png"
+        length="374059"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jan 2021 23:07:07 +0100</pubDate>
+      <dc:date>2021-01-29T23:07:07.0061+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum, 1–17 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2020-12-17-Factum.html#seats</link>
@@ -809,6 +819,6 @@
       <pubDate>Tue, 22 Sep 2020 07:46:57 +0200</pubDate>
       <dc:date>2020-09-22T07:46:57.247758+02:00</dc:date>
     </item>
-    <dc:date>2021-01-12T20:59:49.546368+01:00</dc:date>
+    <dc:date>2021-01-29T23:07:07.0061+01:00</dc:date>
   </channel>
 </rss>
