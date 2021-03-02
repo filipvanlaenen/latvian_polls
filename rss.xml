@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sun, 21 Feb 2021 23:09:47 +0100</pubDate>
+    <pubDate>Tue, 02 Mar 2021 18:34:50 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Factum, 28–31 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-01-31-Factum.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 14–18 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 7–11 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 15–19 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 13–16 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 13–18 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 15–20 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 0–8 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 7–11 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-01-31-Factum-seats.png"
+        length="316485"
+        type="image/png"/>
+      <pubDate>Tue, 02 Mar 2021 18:34:50 +0100</pubDate>
+      <dc:date>2021-03-02T18:34:50.25556+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum, 28–31 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-01-31-Factum.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-01-31-Factum-coalitions-seats.png"
+        length="531953"
+        type="image/png"/>
+      <pubDate>Tue, 02 Mar 2021 18:34:50 +0100</pubDate>
+      <dc:date>2021-03-02T18:34:50.25556+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum, 28–31 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2021-01-31-Factum.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-01-31-Factum.png"
         length="381453"
         type="image/png"/>
-      <pubDate>Sun, 21 Feb 2021 23:09:47 +0100</pubDate>
-      <dc:date>2021-02-21T23:09:47.259637+01:00</dc:date>
+      <pubDate>Tue, 02 Mar 2021 18:34:50 +0100</pubDate>
+      <dc:date>2021-03-02T18:34:50.25556+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 December 2020 – Seat Projections for the Parties</title>
@@ -819,6 +839,6 @@
       <pubDate>Tue, 22 Sep 2020 07:46:57 +0200</pubDate>
       <dc:date>2020-09-22T07:46:57.247758+02:00</dc:date>
     </item>
-    <dc:date>2021-02-21T23:09:47.259637+01:00</dc:date>
+    <dc:date>2021-03-02T18:34:50.25556+01:00</dc:date>
   </channel>
 </rss>
