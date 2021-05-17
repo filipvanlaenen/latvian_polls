@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Mon, 17 May 2021 10:36:35 +0200</pubDate>
+    <pubDate>Mon, 17 May 2021 12:03:53 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-04-30-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 18–24 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 0–9 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 7–14 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 12–17 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 11–17 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 10–15 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 0 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 5–10 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 7–9 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība: 6–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-04-30-SKDS-seats.png"
+        length="328046"
+        type="image/png"/>
+      <pubDate>Mon, 17 May 2021 11:09:41 +0200</pubDate>
+      <dc:date>2021-05-17T11:09:41.774723+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-04-30-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-04-30-SKDS-coalitions-seats.png"
+        length="593840"
+        type="image/png"/>
+      <pubDate>Mon, 17 May 2021 11:09:41 +0200</pubDate>
+      <dc:date>2021-05-17T11:09:41.774723+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2021-04-30-SKDS.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-04-30-SKDS.png"
         length="380434"
         type="image/png"/>
-      <pubDate>Mon, 17 May 2021 10:36:35 +0200</pubDate>
-      <dc:date>2021-05-17T10:36:35.916741+02:00</dc:date>
+      <pubDate>Mon, 17 May 2021 11:09:41 +0200</pubDate>
+      <dc:date>2021-05-17T11:09:41.774723+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 26–30 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-04-30-FactumInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 16–22 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 7–11 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 11–16 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 11–17 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 11–15 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 17–23 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 0–6 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 0–7 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 6–9 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība: 0–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-04-30-FactumInteractive-seats.png"
+        length="341359"
+        type="image/png"/>
+      <pubDate>Mon, 17 May 2021 12:03:53 +0200</pubDate>
+      <dc:date>2021-05-17T12:03:53.868297+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 26–30 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-04-30-FactumInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-04-30-FactumInteractive-coalitions-seats.png"
+        length="619488"
+        type="image/png"/>
+      <pubDate>Mon, 17 May 2021 12:03:53 +0200</pubDate>
+      <dc:date>2021-05-17T12:03:53.868297+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 26–30 April 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-04-30-FactumInteractive.png"
         length="388499"
         type="image/png"/>
-      <pubDate>Sun, 16 May 2021 10:10:31 +0200</pubDate>
-      <dc:date>2021-05-16T10:10:31.738694+02:00</dc:date>
+      <pubDate>Mon, 17 May 2021 12:03:53 +0200</pubDate>
+      <dc:date>2021-05-17T12:03:53.868297+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 1–28 February 2021 – Voting Intentions</title>
@@ -449,6 +489,6 @@
       <pubDate>Wed, 02 Sep 2020 08:20:23 +0200</pubDate>
       <dc:date>2020-09-02T08:20:23.017445+02:00</dc:date>
     </item>
-    <dc:date>2021-05-17T10:36:35.916741+02:00</dc:date>
+    <dc:date>2021-05-17T12:03:53.868297+02:00</dc:date>
   </channel>
 </rss>
