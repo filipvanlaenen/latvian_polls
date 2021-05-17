@@ -103,9 +103,9 @@ Last result: **8** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 11–23 | 11–23 | 10–23 | 10–23 |
-| [1–30 April 2021](2021-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 11–14 | 10–15 | 10–16 | 10–16 |
-| [26–30 April 2021](2021-04-30-FactumInteractive.html) | Factum Interactive | 20 | 18–23 | 18–23 | 18–23 | 17–23 |
+| N/A | [Poll Average](average.html) | 16 | 11–21 | 11–22 | 10–23 | 10–24 |
+| [1–30 April 2021](2021-04-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 11–14 | 10–15 | 10–15 | 10–16 |
+| [26–30 April 2021](2021-04-30-FactumInteractive.html) | Factum Interactive | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
 | [1–31 March 2021](2021-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [26–30 March 2021](2021-03-30-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–28 February 2021](2021-02-28-FactumInteractive.html) | Factum Interactive | 20 | 18–20 | 18–20 | 17–20 | 16–20 |
@@ -175,21 +175,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0% | 100% | Last Result |
 | 9 | 0.1% | 100% |  |
-| 10 | 5% | 99.9% |  |
-| 11 | 18% | 95% |  |
-| 12 | 10% | 77% |  |
-| 13 | 8% | 68% |  |
-| 14 | 6% | 59% |  |
-| 15 | 2% | 54% |  |
-| 16 | 1.4% | 51% | Median |
-| 17 | 0.9% | 50% |  |
-| 18 | 11% | 49% |  |
-| 19 | 6% | 38% |  |
-| 20 | 11% | 31% |  |
-| 21 | 9% | 21% |  |
-| 22 | 0.4% | 12% |  |
-| 23 | 12% | 12% |  |
-| 24 | 0.1% | 0.1% |  |
+| 10 | 4% | 99.9% |  |
+| 11 | 20% | 96% |  |
+| 12 | 6% | 76% |  |
+| 13 | 12% | 69% |  |
+| 14 | 4% | 57% |  |
+| 15 | 2% | 53% |  |
+| 16 | 2% | 51% | Median |
+| 17 | 4% | 49% |  |
+| 18 | 9% | 46% |  |
+| 19 | 9% | 36% |  |
+| 20 | 13% | 27% |  |
+| 21 | 6% | 14% |  |
+| 22 | 4% | 8% |  |
+| 23 | 3% | 4% |  |
+| 24 | 1.0% | 1.0% |  |
 | 25 | 0% | 0% |  |
 
 
