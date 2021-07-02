@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Thu, 01 Jul 2021 11:35:52 +0200</pubDate>
+    <pubDate>Fri, 02 Jul 2021 14:25:22 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-05-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 16.8–20.4%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 1.1–2.2%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 7.2–9.7%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 7.5–10.1%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 12.8–16.0%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 12.3–15.5%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 10.5–13.5%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 2.7–4.4%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 5.3–7.6%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 5.6–7.9%&lt;/li&gt;&lt;li&gt;Likums un kārtība: 4.8–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-05-31-SKDS.png"
+        length="381349"
+        type="image/png"/>
+      <pubDate>Fri, 02 Jul 2021 14:25:22 +0200</pubDate>
+      <dc:date>2021-07-02T14:25:22.444548+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2021-04-30-SKDS.html</link>
@@ -469,6 +479,6 @@
       <pubDate>Wed, 02 Sep 2020 08:20:23 +0200</pubDate>
       <dc:date>2020-09-02T08:20:23.017445+02:00</dc:date>
     </item>
-    <dc:date>2021-07-01T11:35:52.302511+02:00</dc:date>
+    <dc:date>2021-07-02T14:25:22.444548+02:00</dc:date>
   </channel>
 </rss>
