@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Saeima</description>
     <pubDate>Fri, 24 Jul 2020 18:43:17 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Factum Interactive, 27–31 July 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by Factum Interactive, 27–31 July 2021<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive-seating-plan.png" length="528926" type="image/png"/>
+      <pubDate>Mon, 2 Aug 2021 12:53:24 +0200</pubDate>
+      <dc:date>2021-08-02T12:53:24.946017+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 27–31 July 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.html#seats</link>
+      <description><![CDATA[Seat projections for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by Factum Interactive, 27–31 July 2021<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive-seats.png" length="370584" type="image/png"/>
+      <pubDate>Mon, 2 Aug 2021 12:53:24 +0200</pubDate>
+      <dc:date>2021-08-02T12:53:24.946017+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 27–31 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.html</link>
+      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum Interactive, 27–31 July 2021<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.png" length="429993" type="image/png"/>
+      <pubDate>Mon, 2 Aug 2021 12:53:24 +0200</pubDate>
+      <dc:date>2021-08-02T12:53:24.946017+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–30 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2021-06-30-SKDS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Saeima<br/>51 seats needed for a majority<br/>Opinion poll by SKDS for Latvijas Televīzija, 1–30 June 2021<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2021-06-30-SKDS.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2021-06-30-SKDS-seating-plan.png"/>]]></description>
@@ -132,14 +156,6 @@
       <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-04-19-LatvijasFakti.png" length="397934" type="image/png"/>
       <pubDate>Fri, 9 Jul 2021 15:29:23 +0200</pubDate>
       <dc:date>2021-07-09T15:29:23.195864+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Factum Interactive, 1–28 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/latvian_polls/2021-02-28-FactumInteractive.html</link>
-      <description><![CDATA[Voting intentions for the Saeima<br/>Opinion poll by Factum Interactive, 1–28 February 2021<br/>Details on https://filipvanlaenen.github.io/latvian_polls/2021-02-28-FactumInteractive.html<br/><img src="https://filipvanlaenen.github.io/latvian_polls/2021-02-28-FactumInteractive.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-02-28-FactumInteractive.png" length="365955" type="image/png"/>
-      <pubDate>Mon, 29 Mar 2021 11:03:00 +0200</pubDate>
-      <dc:date>2021-03-29T11:03:00.315367+02:00</dc:date>
     </item>
   </channel>
 </rss>
