@@ -10,7 +10,8 @@ Last result: **13.6%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 5.8–9.2% | 5.5–9.7% | 5.3–10.2% | 4.9–11.2% |
+| N/A | [Poll Average](average.html) | 6.0% | 5.0–7.0% | 4.7–7.3% | 4.4–7.7% | 3.8–8.5% |
+| [27–31 July 2021](2021-07-31-FactumInteractive.html) | Factum Interactive | 5.7% | 4.7–7.2% | 4.4–7.6% | 4.1–8.0% | 3.6–8.8% |
 | [1–30 June 2021](2021-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
 | [1–31 May 2021](2021-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 8.4% | 7.6–9.3% | 7.4–9.5% | 7.2–9.7% | 6.8–10.2% |
 | [26–31 May 2021](2021-05-31-FactumInteractive.html) | Factum Interactive | 8.3% | 7.0–10.0% | 6.6–10.5% | 6.3–10.9% | 5.8–11.7% |
@@ -84,15 +85,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 25% | 94% |  |
-| 6.5–7.5% | 24% | 69% | Median |
-| 7.5–8.5% | 24% | 45% |  |
-| 8.5–9.5% | 14% | 20% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 1.2% | 1.5% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 4% | 99.8% |  |
+| 4.5–5.5% | 24% | 96% |  |
+| 5.5–6.5% | 50% | 72% | Median |
+| 6.5–7.5% | 19% | 22% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% | Last Result |
 
@@ -105,7 +108,8 @@ Last result: **16** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–12 | 6–12 | 6–12 | 0–13 |
+| N/A | [Poll Average](average.html) | 7 | 0–8 | 0–9 | 0–9 | 0–9 |
+| [27–31 July 2021](2021-07-31-FactumInteractive.html) | Factum Interactive | 7 | 0–8 | 0–9 | 0–9 | 0–9 |
 | [1–30 June 2021](2021-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 7 | 6–7 | 6–8 | 0–9 | 0–9 |
 | [1–31 May 2021](2021-05-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 9 | 7–9 | 7–10 | 7–10 | 7–11 |
 | [26–31 May 2021](2021-05-31-FactumInteractive.html) | Factum Interactive | 9 | 7–12 | 7–12 | 7–13 | 7–13 |
@@ -181,20 +185,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% |  |
-| 1 | 0% | 99.1% |  |
-| 2 | 0% | 99.1% |  |
-| 3 | 0% | 99.1% |  |
-| 4 | 0% | 99.1% |  |
-| 5 | 0% | 99.1% |  |
-| 6 | 5% | 99.1% |  |
-| 7 | 38% | 94% |  |
-| 8 | 5% | 56% |  |
-| 9 | 31% | 52% | Median |
-| 10 | 3% | 21% |  |
-| 11 | 6% | 17% |  |
-| 12 | 9% | 11% |  |
-| 13 | 2% | 2% |  |
+| 0 | 15% | 100% |  |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 0% | 85% |  |
+| 4 | 0% | 85% |  |
+| 5 | 0% | 85% |  |
+| 6 | 8% | 85% |  |
+| 7 | 67% | 77% | Median |
+| 8 | 4% | 11% |  |
+| 9 | 6% | 6% |  |
+| 10 | 0.1% | 0.2% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
