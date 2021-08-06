@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Mon, 02 Aug 2021 12:53:24 +0200</pubDate>
+    <pubDate>Fri, 06 Aug 2021 18:03:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-SKDS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 19–23 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 6–9 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 7–13 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 12–15 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 11–17 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 11–17 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 0–7 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 0–8 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 0–7 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība: 0–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-SKDS-seats.png"
+        length="366730"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 18:03:43 +0200</pubDate>
+      <dc:date>2021-08-06T18:03:43.901578+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-SKDS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-SKDS-coalitions-seats.png"
+        length="597193"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 18:03:43 +0200</pubDate>
+      <dc:date>2021-08-06T18:03:43.901578+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 17.2–20.9%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 1.0–2.2%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 5.7–8.0%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 8.1–10.8%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.9–13.9%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 11.4–14.5%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 11.4–14.5%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 4.9–7.1%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 4.9–7.1%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 4.1–6.1%&lt;/li&gt;&lt;li&gt;Likums un kārtība: 4.7–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-07-31-SKDS.png"
+        length="372203"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 18:03:43 +0200</pubDate>
+      <dc:date>2021-08-06T18:03:43.901578+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 27–31 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-FactumInteractive.html#seats</link>
@@ -619,6 +649,6 @@
       <pubDate>Wed, 02 Sep 2020 08:20:23 +0200</pubDate>
       <dc:date>2020-09-02T08:20:23.017445+02:00</dc:date>
     </item>
-    <dc:date>2021-08-02T12:53:24.946017+02:00</dc:date>
+    <dc:date>2021-08-06T18:03:43.901578+02:00</dc:date>
   </channel>
 </rss>
