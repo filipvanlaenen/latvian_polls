@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Sun, 05 Sep 2021 17:56:51 +0200</pubDate>
+    <pubDate>Mon, 06 Sep 2021 18:57:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 August 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2021-08-31-SKDS.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sun, 05 Sep 2021 17:56:51 +0200</pubDate>
       <dc:date>2021-09-05T17:56:51.650245+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 27–31 August 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-08-31-FactumInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 16–26 seats&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 0 seats&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 0–11 seats&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 14–21 seats&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 11–17 seats&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 9–16 seats&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 17–24 seats&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 0–6 seats&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 0 seats&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 0–9 seats&lt;/li&gt;&lt;li&gt;Likums un kārtība: 0–10 seats&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā: 0–7 seats&lt;/li&gt;&lt;li&gt;Republika: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-08-31-FactumInteractive-seats.png"
+        length="390727"
+        type="image/png"/>
+      <pubDate>Mon, 06 Sep 2021 18:57:46 +0200</pubDate>
+      <dc:date>2021-09-06T18:57:46.676046+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 27–31 August 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-08-31-FactumInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-08-31-FactumInteractive-coalitions-seats.png"
+        length="653628"
+        type="image/png"/>
+      <pubDate>Mon, 06 Sep 2021 18:57:46 +0200</pubDate>
+      <dc:date>2021-09-06T18:57:46.676046+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 27–31 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-08-31-FactumInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 12.0–17.5%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 0.4–2.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 4.5–8.3%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 11.5–17.0%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 9.3–14.4%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 7.0–11.6%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 14.2–20.1%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 2.5–5.5%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 1.7–4.4%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 4.1–7.8%&lt;/li&gt;&lt;li&gt;Likums un kārtība: 3.7–7.2%&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā: 2.4–5.3%&lt;/li&gt;&lt;li&gt;Republika: 0.4–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-08-31-FactumInteractive.png"
+        length="471932"
+        type="image/png"/>
+      <pubDate>Mon, 06 Sep 2021 18:57:46 +0200</pubDate>
+      <dc:date>2021-09-06T18:57:46.676046+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 July 2021 – Seat Projections for the Parties</title>
@@ -679,6 +709,6 @@
       <pubDate>Wed, 02 Sep 2020 08:20:23 +0200</pubDate>
       <dc:date>2020-09-02T08:20:23.017445+02:00</dc:date>
     </item>
-    <dc:date>2021-09-05T17:56:51.650245+02:00</dc:date>
+    <dc:date>2021-09-06T18:57:46.676046+02:00</dc:date>
   </channel>
 </rss>
