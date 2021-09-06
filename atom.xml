@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/latvian_polls</id>
   <title>All Registered Polls for the Saeima</title>
-  <updated>2021-08-06T18:03:43.901578+02:00</updated>
+  <updated>2021-09-05T17:56:51.650245+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 19.6–24.7%, 21–28 seats</li><li>Politiskā partija „KPV LV”: 0.4–1.5%, 0 seats</li><li>Jaunā konservatīvā partija: 4.3–7.1%, 0–7 seats</li><li>Attīstībai/Par!: 7.3–10.8%, 7–12 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.6–14.7%, 11–17 seats</li><li>Zaļo un Zemnieku savienība: 11.0–15.1%, 11–18 seats</li><li>Jaunā VIENOTĪBA: 10.0–14.0%, 11–16 seats</li><li>Latvijas Reģionu Apvienība: 3.8–6.5%, 0–7 seats</li><li>Latvijas Krievu savienība: 4.5–7.4%, 0–8 seats</li><li>PROGRESĪVIE: 4.9–7.9%, 5–8 seats</li><li>Likums un kārtība: 4.3–7.2%, 0–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/latvian_polls/2021-08-31-SKDS.html</id>
+    <link href="https://filipvanlaenen.github.io/latvian_polls/2021-08-31-SKDS.html"/>
+    <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 August 2021</title>
+    <updated>2021-09-05T17:56:51.650245+02:00</updated>
+    <dc:date>2021-09-05T17:56:51.650245+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 17.2–20.9%, 19–23 seats</li><li>Politiskā partija „KPV LV”: 1.0–2.2%, 0 seats</li><li>Jaunā konservatīvā partija: 5.7–8.0%, 6–9 seats</li><li>Attīstībai/Par!: 8.1–10.8%, 7–13 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.9–13.9%, 12–15 seats</li><li>Zaļo un Zemnieku savienība: 11.4–14.5%, 11–17 seats</li><li>Jaunā VIENOTĪBA: 11.4–14.5%, 11–17 seats</li><li>Latvijas Reģionu Apvienība: 4.9–7.1%, 0–7 seats</li><li>Latvijas Krievu savienība: 4.9–7.1%, 0–8 seats</li><li>PROGRESĪVIE: 4.1–6.1%, 0–7 seats</li><li>Likums un kārtība: 4.7–6.9%, 0–7 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/latvian_polls/2021-07-31-SKDS.html</id>
@@ -159,5 +167,5 @@
     <updated>2019-12-31T12:00:05.499129+01:00</updated>
     <dc:date>2019-12-31T12:00:05.499129+01:00</dc:date>
   </entry>
-  <dc:date>2021-08-06T18:03:43.901578+02:00</dc:date>
+  <dc:date>2021-09-05T17:56:51.650245+02:00</dc:date>
 </feed>
