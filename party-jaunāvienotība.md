@@ -10,7 +10,9 @@ Last result: **6.7%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.5% | 14.2–16.9% | 13.8–17.3% | 13.5–17.7% | 12.9–18.4% |
+| N/A | [Poll Average](average.html) | 14.7% | 12.0–16.6% | 11.5–17.0% | 11.1–17.3% | 10.4–17.9% |
+| [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.8% | 11.5–14.4% | 11.1–14.9% | 10.7–15.3% | 10.1–16.1% |
+| [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 15.9% | 14.8–17.0% | 14.5–17.3% | 14.3–17.6% | 13.8–18.2% |
 | [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive | 15.5% | 14.2–16.9% | 13.8–17.3% | 13.5–17.7% | 12.9–18.4% |
 | [1–30 September 2021](2021-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.6% | N/A | N/A | N/A | N/A |
 | [1–31 August 2021](2021-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–14.0% | 9.5–14.6% |
@@ -93,16 +95,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% | Last Result |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 3% | 99.9% |  |
-| 13.5–14.5% | 15% | 97% |  |
-| 14.5–15.5% | 33% | 82% |  |
-| 15.5–16.5% | 32% | 49% | Median |
-| 16.5–17.5% | 13% | 17% |  |
-| 17.5–18.5% | 3% | 3% |  |
-| 18.5–19.5% | 0.3% | 0.3% |  |
+| 9.5–10.5% | 0.7% | 100% |  |
+| 10.5–11.5% | 5% | 99.2% |  |
+| 11.5–12.5% | 13% | 94% |  |
+| 12.5–13.5% | 17% | 81% |  |
+| 13.5–14.5% | 13% | 64% |  |
+| 14.5–15.5% | 18% | 52% | Median |
+| 15.5–16.5% | 23% | 34% |  |
+| 16.5–17.5% | 10% | 11% |  |
+| 17.5–18.5% | 1.4% | 1.4% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -114,7 +116,9 @@ Last result: **8** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–20 | 18–20 | 18–21 | 16–23 |
+| N/A | [Poll Average](average.html) | 18 | 15–18 | 14–19 | 13–19 | 11–20 |
+| [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 14–17 | 13–19 | 12–19 | 11–19 |
+| [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 18 | 18–19 | 18–19 | 18–19 | 17–20 |
 | [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive | 20 | 18–20 | 18–20 | 18–21 | 16–23 |
 | [1–30 September 2021](2021-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 August 2021](2021-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
@@ -199,20 +203,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% | Last Result |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0.6% | 100% |  |
-| 17 | 0.3% | 99.3% |  |
-| 18 | 23% | 99.0% |  |
-| 19 | 6% | 76% |  |
-| 20 | 68% | 71% | Median |
-| 21 | 1.2% | 3% |  |
-| 22 | 0% | 2% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.1% |  |
+| 11 | 1.2% | 100% |  |
+| 12 | 0.5% | 98.8% |  |
+| 13 | 1.1% | 98% |  |
+| 14 | 3% | 97% |  |
+| 15 | 5% | 94% |  |
+| 16 | 30% | 89% |  |
+| 17 | 4% | 58% |  |
+| 18 | 45% | 54% | Median |
+| 19 | 9% | 10% |  |
+| 20 | 1.0% | 1.1% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
 
