@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Saeima</title>
     <link>https://filipvanlaenen.github.io/latvian_polls</link>
     <description>All Registered Polls for the Saeima</description>
-    <pubDate>Fri, 15 Oct 2021 07:58:26 +0200</pubDate>
+    <pubDate>Fri, 05 Nov 2021 08:09:48 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SKDS for Latvijas Televīzija, 1–31 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-10-31-SKDS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 17.3–22.8%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 1.1–3.0%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 3.6–6.6%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 7.5–11.4%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 8.7–12.8%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 10.7–15.3%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 10.7–15.3%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.5–6.5%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 3.7–6.8%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 4.0–7.0%&lt;/li&gt;&lt;li&gt;Likums un kārtība: 3.2–6.1%&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā: 3.5–6.5%&lt;/li&gt;&lt;li&gt;Republika: 1.6–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-10-31-SKDS.png"
+        length="442773"
+        type="image/png"/>
+      <pubDate>Fri, 05 Nov 2021 07:51:47 +0100</pubDate>
+      <dc:date>2021-11-05T07:51:47.516479+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Factum Interactive, 1–31 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/latvian_polls/2021-10-31-FactumInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sociāldemokrātiskā partija “Saskaņa”: 11.2–14.2%&lt;/li&gt;&lt;li&gt;Politiskā partija „KPV LV”: 0.3–1.1%&lt;/li&gt;&lt;li&gt;Jaunā konservatīvā partija: 4.2–6.2%&lt;/li&gt;&lt;li&gt;Attīstībai/Par!: 12.6–15.8%&lt;/li&gt;&lt;li&gt;Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.4–13.4%&lt;/li&gt;&lt;li&gt;Zaļo un Zemnieku savienība: 7.8–10.4%&lt;/li&gt;&lt;li&gt;Jaunā VIENOTĪBA: 14.3–17.6%&lt;/li&gt;&lt;li&gt;Latvijas Reģionu Apvienība: 3.0–4.8%&lt;/li&gt;&lt;li&gt;Latvijas Krievu savienība: 2.7–4.4%&lt;/li&gt;&lt;li&gt;PROGRESĪVIE: 5.4–7.6%&lt;/li&gt;&lt;li&gt;Likums un kārtība: 5.4–7.6%&lt;/li&gt;&lt;li&gt;Latvija pirmajā vietā: 3.6–5.5%&lt;/li&gt;&lt;li&gt;Republika: 1.6–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/latvian_polls/2021-10-31-FactumInteractive.png"
+        length="404447"
+        type="image/png"/>
+      <pubDate>Fri, 05 Nov 2021 08:09:48 +0100</pubDate>
+      <dc:date>2021-11-05T08:09:48.480475+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Factum Interactive, 1 September–1 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/latvian_polls/2021-10-01-FactumInteractive.html</link>
@@ -719,6 +739,6 @@
       <pubDate>Wed, 02 Sep 2020 08:20:23 +0200</pubDate>
       <dc:date>2020-09-02T08:20:23.017445+02:00</dc:date>
     </item>
-    <dc:date>2021-10-15T07:58:26.889226+02:00</dc:date>
+    <dc:date>2021-11-05T08:09:48.480475+01:00</dc:date>
   </channel>
 </rss>
