@@ -119,9 +119,9 @@ Last result: **23** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–26 | 16–26 | 15–27 | 15–29 |
-| [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 25 | 20–26 | 19–27 | 19–28 | 19–29 |
-| [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 18 | 16–18 | 15–18 | 15–18 | 15–18 |
+| N/A | [Poll Average](average.html) | 19 | 16–26 | 16–29 | 16–29 | 15–31 |
+| [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 23 | 22–29 | 22–29 | 21–31 | 19–31 |
+| [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 17 | 16–18 | 16–18 | 15–18 | 15–20 |
 | [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive | 17 | 17 | 17–18 | 17–18 | 15–19 |
 | [1–30 September 2021](2021-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [1–31 August 2021](2021-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 25 | 22–27 | 22–27 | 21–28 | 20–30 |
@@ -203,22 +203,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 3% | 100% |  |
-| 16 | 3% | 97% |  |
-| 17 | 2% | 94% |  |
-| 18 | 42% | 92% |  |
-| 19 | 5% | 50% | Median |
-| 20 | 1.1% | 45% |  |
-| 21 | 0.3% | 44% |  |
-| 22 | 0.3% | 44% |  |
-| 23 | 3% | 44% | Last Result |
-| 24 | 2% | 41% |  |
-| 25 | 24% | 39% |  |
-| 26 | 11% | 15% |  |
-| 27 | 1.2% | 4% |  |
-| 28 | 2% | 2% |  |
-| 29 | 0.5% | 0.7% |  |
-| 30 | 0.1% | 0.2% |  |
-| 31 | 0% | 0% |  |
+| 15 | 1.5% | 100% |  |
+| 16 | 23% | 98.5% |  |
+| 17 | 13% | 76% |  |
+| 18 | 12% | 63% |  |
+| 19 | 0.8% | 51% | Median |
+| 20 | 1.0% | 50% |  |
+| 21 | 0.7% | 49% |  |
+| 22 | 6% | 48% |  |
+| 23 | 20% | 42% | Last Result |
+| 24 | 7% | 22% |  |
+| 25 | 4% | 15% |  |
+| 26 | 3% | 11% |  |
+| 27 | 1.0% | 8% |  |
+| 28 | 1.2% | 7% |  |
+| 29 | 4% | 6% |  |
+| 30 | 0.3% | 2% |  |
+| 31 | 2% | 2% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0% | 0% |  |
 
 
