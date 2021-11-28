@@ -13,10 +13,10 @@ Last result: **9.9%** (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 10.5% | 8.5–13.9% | 8.2–14.4% | 8.0–14.9% | 7.6–15.8% |
 | [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.8% | 11.5–14.4% | 11.1–14.9% | 10.7–15.3% | 10.1–16.1% |
 | [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.4% | 7.4–10.8% |
-| [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive | 8.5% | 7.5–9.6% | 7.2–9.9% | 7.0–10.2% | 6.6–10.8% |
+| [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive | 8.5% | N/A | N/A | N/A | N/A |
 | [1–30 September 2021](2021-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.8% | N/A | N/A | N/A | N/A |
-| [1–31 August 2021](2021-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.9% | 11.7–14.3% | 11.3–14.7% | 11.0–15.1% | 10.4–15.8% |
-| [27–31 August 2021](2021-08-31-FactumInteractive.html) | Factum Interactive | 9.0% | 7.7–10.7% | 7.3–11.2% | 7.0–11.6% | 6.4–12.4% |
+| [1–31 August 2021](2021-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.9% | N/A | N/A | N/A | N/A |
+| [27–31 August 2021](2021-08-31-FactumInteractive.html) | Factum Interactive | 9.0% | N/A | N/A | N/A | N/A |
 | [1–31 July 2021](2021-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.9% | 11.9–13.9% | 11.6–14.3% | 11.4–14.5% | 11.0–15.0% |
 | [27–31 July 2021](2021-07-31-FactumInteractive.html) | Factum Interactive | 11.7% | 10.1–13.6% | 9.6–14.1% | 9.3–14.6% | 8.6–15.6% |
 | [1–30 June 2021](2021-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.9% | 13.9–16.0% | 13.6–16.3% | 13.3–16.6% | 12.8–17.2% |
@@ -118,10 +118,10 @@ Last result: **11** seats (General Election of 6 October 2018)
 | N/A | [Poll Average](average.html) | 12 | 10–16 | 10–17 | 10–19 | 9–20 |
 | [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 13–17 | 13–19 | 12–19 | 11–20 |
 | [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 12 | 10–12 | 10–12 | 9–13 | 9–13 |
-| [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive | 11 | 11–12 | 9–12 | 9–12 | 9–13 |
+| [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–30 September 2021](2021-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [1–31 August 2021](2021-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 13–16 | 12–17 | 11–18 | 11–18 |
-| [27–31 August 2021](2021-08-31-FactumInteractive.html) | Factum Interactive | 11 | 10–14 | 9–15 | 9–16 | 7–16 |
+| [1–31 August 2021](2021-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [27–31 August 2021](2021-08-31-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–31 July 2021](2021-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 13 | 12–16 | 12–16 | 11–17 | 11–17 |
 | [27–31 July 2021](2021-07-31-FactumInteractive.html) | Factum Interactive | 14 | 12–17 | 11–18 | 11–18 | 11–19 |
 | [1–30 June 2021](2021-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
