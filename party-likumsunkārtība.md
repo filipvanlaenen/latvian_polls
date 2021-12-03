@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 3.9–6.9% | 3.7–7.2% | 3.4–7.4% | 3.0–7.8% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.9–6.3% | 3.7–6.7% | 3.4–7.0% | 3.0–7.6% |
+| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 5.5% | 4.7–6.7% | 4.4–7.0% | 4.2–7.3% | 3.8–7.9% |
 | [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.1% | 2.9–6.6% |
 | [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 6.4% | 5.7–7.2% | 5.5–7.4% | 5.4–7.6% | 5.1–8.0% |
 | [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive | 6.1% | N/A | N/A | N/A | N/A |
@@ -96,11 +97,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 22% | 96% |  |
-| 4.5–5.5% | 22% | 74% |  |
-| 5.5–6.5% | 31% | 52% | Median |
-| 6.5–7.5% | 20% | 21% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 3.5–4.5% | 26% | 96% |  |
+| 4.5–5.5% | 39% | 70% | Median |
+| 5.5–6.5% | 25% | 31% |  |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 0.6% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -112,7 +113,8 @@ Last result: **0** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–9 | 0–9 | 0–10 | 0–10 |
+| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–10 | 0–11 |
+| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 7 | 0–8 | 0–10 | 0–10 | 0–11 |
 | [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–6 | 0–6 | 0–7 | 0–8 |
 | [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 7 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [1 September–1 October 2021](2021-10-01-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
@@ -196,18 +198,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 0% | 75% |  |
-| 2 | 0% | 75% |  |
-| 3 | 0% | 75% |  |
-| 4 | 0% | 75% |  |
-| 5 | 3% | 75% |  |
-| 6 | 20% | 71% |  |
-| 7 | 33% | 52% | Median |
-| 8 | 7% | 18% |  |
-| 9 | 8% | 12% |  |
-| 10 | 3% | 3% |  |
-| 11 | 0.4% | 0.4% |  |
+| 0 | 38% | 100% | Last Result |
+| 1 | 0% | 62% |  |
+| 2 | 0% | 62% |  |
+| 3 | 0% | 62% |  |
+| 4 | 0% | 62% |  |
+| 5 | 12% | 62% | Median |
+| 6 | 23% | 50% |  |
+| 7 | 20% | 27% |  |
+| 8 | 2% | 7% |  |
+| 9 | 2% | 5% |  |
+| 10 | 2% | 3% |  |
+| 11 | 0.8% | 0.8% |  |
 | 12 | 0% | 0% |  |
 
 
