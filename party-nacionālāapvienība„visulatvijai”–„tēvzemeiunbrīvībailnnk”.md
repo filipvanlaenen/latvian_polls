@@ -115,9 +115,9 @@ Last result: **13** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 13–15 | 12–15 | 12–19 | 11–19 |
-| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS |  |  |  |  |  |
-| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 13 | 13–15 | 12–15 | 12–19 | 11–19 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 10–17 | 10–17 | 10–17 |
+| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
+| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 14 | 10–17 | 10–17 | 10–17 | 10–18 |
 | [8–29 November 2021](2021-11-29-SKDS.html) | SKDS <br> Latvijas Televīzija | 13 | 12–14 | 11–14 | 11–16 | 11–16 |
 | [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12 | 11–14 | 11–15 | 11–17 | 10–17 |
 | [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -202,16 +202,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 1.1% | 99.9% |  |
-| 12 | 6% | 98.8% |  |
-| 13 | 73% | 93% | Last Result, Median |
-| 14 | 8% | 20% |  |
-| 15 | 8% | 11% |  |
-| 16 | 0.4% | 4% |  |
-| 17 | 0.5% | 3% |  |
-| 18 | 0.1% | 3% |  |
-| 19 | 3% | 3% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 5% | 99.9% |  |
+| 11 | 2% | 95% |  |
+| 12 | 3% | 93% |  |
+| 13 | 26% | 90% | Last Result |
+| 14 | 37% | 64% | Median |
+| 15 | 12% | 27% |  |
+| 16 | 7% | 15% |  |
+| 17 | 8% | 8% |  |
+| 18 | 0.1% | 0.3% |  |
+| 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
 

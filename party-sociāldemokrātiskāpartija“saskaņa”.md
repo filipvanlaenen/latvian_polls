@@ -120,9 +120,9 @@ Last result: **23** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–19 | 15–19 | 15–20 | 15–20 |
-| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS |  |  |  |  |  |
-| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 19 | 16–19 | 15–19 | 15–20 | 15–20 |
+| N/A | [Poll Average](average.html) | 20 | 16–24 | 16–26 | 15–27 | 14–29 |
+| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 23 | 20–26 | 20–27 | 20–27 | 20–29 |
+| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 16 | 16–19 | 15–20 | 15–21 | 14–22 |
 | [8–29 November 2021](2021-11-29-SKDS.html) | SKDS <br> Latvijas Televīzija | 21 | 19–24 | 19–24 | 19–25 | 18–28 |
 | [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 23 | 22–29 | 22–29 | 21–31 | 19–31 |
 | [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 17 | 16–18 | 16–18 | 15–18 | 15–20 |
@@ -207,15 +207,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 8% | 100% |  |
-| 16 | 8% | 92% |  |
-| 17 | 3% | 84% |  |
-| 18 | 3% | 81% |  |
-| 19 | 73% | 77% | Median |
-| 20 | 4% | 5% |  |
-| 21 | 0.2% | 0.4% |  |
-| 22 | 0% | 0.2% |  |
-| 23 | 0.2% | 0.2% | Last Result |
-| 24 | 0% | 0% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 99.9% |  |
+| 14 | 0.5% | 99.9% |  |
+| 15 | 2% | 99.4% |  |
+| 16 | 24% | 97% |  |
+| 17 | 5% | 73% |  |
+| 18 | 9% | 68% |  |
+| 19 | 6% | 59% |  |
+| 20 | 14% | 54% | Median |
+| 21 | 2% | 40% |  |
+| 22 | 6% | 39% |  |
+| 23 | 7% | 32% | Last Result |
+| 24 | 15% | 25% |  |
+| 25 | 3% | 10% |  |
+| 26 | 3% | 7% |  |
+| 27 | 3% | 4% |  |
+| 28 | 0.5% | 1.0% |  |
+| 29 | 0.6% | 0.6% |  |
+| 30 | 0% | 0% |  |
 
 

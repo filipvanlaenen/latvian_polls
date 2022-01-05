@@ -36,16 +36,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#jaunā-vienotība">Jaunā VIENOTĪBA</a> | 8 | 20 | 20–23 |20–24 |20–25 |17–25 |
-| <a href="#sociāldemokrātiskā-partija-“saskaņa”">Sociāldemokrātiskā partija “Saskaņa”</a> | 23 | 19 | 16–19 |15–19 |15–20 |15–20 |
-| <a href="#attīstībai/par!">Attīstībai/Par!</a> | 13 | 15 | 13–15 |12–17 |12–17 |12–17 |
-| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”</a> | 13 | 13 | 13–15 |12–15 |12–19 |11–19 |
-| <a href="#zaļo-un-zemnieku-savienība">Zaļo un Zemnieku savienība</a> | 11 | 11 | 11–12 |11–12 |11–13 |7–13 |
-| <a href="#progresīvie">PROGRESĪVIE</a> | 0 | 0 | 0–7 |0–7 |0–9 |0–9 |
-| <a href="#jaunā-konservatīvā-partija">Jaunā konservatīvā partija</a> | 16 | 7 | 7 |7–9 |0–9 |0–9 |
-| <a href="#likums-un-kārtība">Likums un kārtība</a> | 0 | 9 | 0–9 |0–9 |0–9 |0–9 |
-| <a href="#latvijas-reģionu-apvienība">Latvijas Reģionu Apvienība</a> | 0 | 6 | 0–6 |0–6 |0–6 |0–7 |
-| <a href="#latvija-pirmajā-vietā">Latvija pirmajā vietā</a> | N/A | 0 | 0–7 |0–7 |0–7 |0–7 |
+| <a href="#jaunā-vienotība">Jaunā VIENOTĪBA</a> | 8 | 20 | 17–23 |17–25 |17–25 |16–26 |
+| <a href="#sociāldemokrātiskā-partija-“saskaņa”">Sociāldemokrātiskā partija “Saskaņa”</a> | 23 | 16 | 16–19 |15–20 |15–21 |14–22 |
+| <a href="#attīstībai/par!">Attīstībai/Par!</a> | 13 | 15 | 13–17 |13–17 |12–18 |11–20 |
+| <a href="#nacionālā-apvienība-„visu-latvijai!”–„tēvzemei-un-brīvībai/lnnk”">Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”</a> | 13 | 14 | 10–17 |10–17 |10–17 |10–18 |
+| <a href="#zaļo-un-zemnieku-savienība">Zaļo un Zemnieku savienība</a> | 11 | 12 | 11–14 |10–15 |8–15 |7–16 |
+| <a href="#progresīvie">PROGRESĪVIE</a> | 0 | 7 | 0–9 |0–9 |0–9 |0–11 |
+| <a href="#jaunā-konservatīvā-partija">Jaunā konservatīvā partija</a> | 16 | 7 | 0–8 |0–8 |0–9 |0–9 |
+| <a href="#likums-un-kārtība">Likums un kārtība</a> | 0 | 7 | 0–9 |0–9 |0–9 |0–11 |
+| <a href="#latvijas-reģionu-apvienība">Latvijas Reģionu Apvienība</a> | 0 | 0 | 0–6 |0–7 |0–7 |0–7 |
+| <a href="#latvija-pirmajā-vietā">Latvija pirmajā vietā</a> | N/A | 0 | 0–7 |0–7 |0–7 |0–10 |
 | <a href="#latvijas-krievu-savienība">Latvijas Krievu savienība</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#republika">Republika</a> | N/A | 0 | 0 |0 |0 |0 |
 | <a href="#politiskā-partija-„kpv-lv”">Politiskā partija „KPV LV”</a> | 16 | 0 | 0 |0 |0 |0 |

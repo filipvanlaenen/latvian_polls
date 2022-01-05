@@ -115,9 +115,9 @@ Last result: **11** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11–12 | 11–12 | 11–13 | 7–13 |
-| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS |  |  |  |  |  |
-| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 11 | 11–12 | 11–12 | 11–13 | 7–13 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–17 | 10–18 | 7–18 |
+| [1–31 December 2021](2021-12-31-SKDS.html) | SKDS | 13 | 13–17 | 13–18 | 12–18 | 11–18 |
+| [1–30 November 2021](2021-11-30-FactumInteractive.html) | Factum Interactive | 12 | 11–14 | 10–15 | 8–15 | 7–16 |
 | [8–29 November 2021](2021-11-29-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 16–19 | 15–20 | 15–21 | 13–21 |
 | [1–31 October 2021](2021-10-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 15 | 13–17 | 13–19 | 12–19 | 11–20 |
 | [1–31 October 2021](2021-10-31-FactumInteractive.html) | Factum Interactive | 12 | 10–12 | 10–12 | 9–13 | 9–13 |
@@ -202,16 +202,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.6% | 100% |  |
-| 8 | 0.1% | 99.4% |  |
-| 9 | 0.1% | 99.4% |  |
-| 10 | 0.2% | 99.3% |  |
-| 11 | 86% | 99.1% | Last Result, Median |
-| 12 | 8% | 13% |  |
-| 13 | 4% | 5% |  |
-| 14 | 0.1% | 0.2% |  |
-| 15 | 0% | 0.1% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 1.0% | 99.9% |  |
+| 8 | 0.4% | 98.9% |  |
+| 9 | 0.1% | 98.5% |  |
+| 10 | 3% | 98% |  |
+| 11 | 20% | 95% | Last Result |
+| 12 | 10% | 76% |  |
+| 13 | 35% | 66% | Median |
+| 14 | 13% | 30% |  |
+| 15 | 7% | 17% |  |
+| 16 | 3% | 11% |  |
+| 17 | 4% | 8% |  |
+| 18 | 4% | 4% |  |
+| 19 | 0% | 0% |  |
 
 
