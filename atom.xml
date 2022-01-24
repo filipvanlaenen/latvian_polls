@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/latvian_polls</id>
   <title>All Registered Polls for the Saeima</title>
-  <updated>2022-01-05T19:20:09.192075+01:00</updated>
+  <updated>2022-01-24T17:29:53.255468+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 17.6–21.2%, 20–27 seats</li><li>Jaunā konservatīvā partija: 5.0–7.2%, 0–9 seats</li><li>Attīstībai/Par!: 6.7–9.1%, 7–10 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 10.1–13.0%, 12–17 seats</li><li>Zaļo un Zemnieku savienība: 10.3–13.3%, 12–18 seats</li><li>Jaunā VIENOTĪBA: 12.1–15.2%, 14–18 seats</li><li>Latvijas Reģionu Apvienība: 3.1–4.9%, 0 seats</li><li>Latvijas Krievu savienība: 3.8–5.7%, 0–8 seats</li><li>PROGRESĪVIE: 5.4–7.7%, 7–8 seats</li><li>Likums un kārtība: 4.3–6.4%, 0–8 seats</li><li>Latvija pirmajā vietā: 3.6–5.6%, 0–6 seats</li><li>Republika: 1.8–3.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/latvian_polls/2021-12-31-SKDS.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by SKDS, 1–31 December 2021</title>
     <updated>2022-01-05T18:31:42.336001+01:00</updated>
     <dc:date>2022-01-05T18:31:42.336001+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 10.6–14.0%, 15–17 seats</li><li>Politiskā partija „KPV LV”: 0.4–1.4%, 0 seats</li><li>Jaunā konservatīvā partija: 5.0–7.5%, 0–9 seats</li><li>Attīstībai/Par!: 10.4–13.8%, 13–16 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 9.9–13.3%, 12–15 seats</li><li>Zaļo un Zemnieku savienība: 8.1–11.2%, 11–13 seats</li><li>Jaunā VIENOTĪBA: 15.0–18.9%, 19–23 seats</li><li>Latvijas Reģionu Apvienība: 3.2–5.3%, 0 seats</li><li>Latvijas Krievu savienība: 2.4–4.3%, 0 seats</li><li>PROGRESĪVIE: 5.4–8.0%, 7–9 seats</li><li>Likums un kārtība: 5.2–7.8%, 7–10 seats</li><li>Latvija pirmajā vietā: 3.5–5.7%, 0–7 seats</li><li>Republika: 1.1–2.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/latvian_polls/2021-12-31-FactumInteractive.html</id>
+    <link href="https://filipvanlaenen.github.io/latvian_polls/2021-12-31-FactumInteractive.html"/>
+    <title>Opinion Poll by Factum Interactive, 1–31 December 2021</title>
+    <updated>2022-01-24T17:29:53.255468+01:00</updated>
+    <dc:date>2022-01-24T17:29:53.255468+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sociāldemokrātiskā partija “Saskaņa”: 10.9–15.3%, 15–21 seats</li><li>Politiskā partija „KPV LV”: 0.4–1.7%, 0 seats</li><li>Jaunā konservatīvā partija: 4.2–7.3%, 0–9 seats</li><li>Attīstībai/Par!: 10.5–15.0%, 12–18 seats</li><li>Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK”: 9.5–13.7%, 10–17 seats</li><li>Zaļo un Zemnieku savienība: 7.6–11.5%, 8–15 seats</li><li>Jaunā VIENOTĪBA: 14.5–19.5%, 17–25 seats</li><li>Latvijas Reģionu Apvienība: 3.6–6.5%, 0–7 seats</li><li>Latvijas Krievu savienība: 2.1–4.4%, 0 seats</li><li>PROGRESĪVIE: 4.5–7.7%, 0–9 seats</li><li>Likums un kārtība: 4.1–7.1%, 0–9 seats</li><li>Latvija pirmajā vietā: 3.4–6.2%, 0–7 seats</li><li>Republika: 1.2–3.1%, 0 seats</li></ul></div></content>
@@ -199,5 +207,5 @@
     <updated>2019-12-31T12:00:05+01:00</updated>
     <dc:date>2019-12-31T12:00:05+01:00</dc:date>
   </entry>
-  <dc:date>2022-01-05T19:20:09.192075+01:00</dc:date>
+  <dc:date>2022-01-24T17:29:53.255468+01:00</dc:date>
 </feed>
