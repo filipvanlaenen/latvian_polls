@@ -10,9 +10,9 @@ Last result: **11.0%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 11.6–14.2% | 11.3–14.6% | 11.0–14.9% | 10.4–15.6% |
+| N/A | [Poll Average](average.html) | 14.2% | 12.0–16.0% | 11.6–16.3% | 11.3–16.7% | 10.7–17.3% |
 | [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 12.8% | 11.6–14.2% | 11.3–14.6% | 11.0–14.9% | 10.4–15.6% |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.2% | N/A | N/A | N/A | N/A |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.2% | 14.2–16.4% | 13.9–16.7% | 13.6–16.9% | 13.2–17.5% |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.2% | N/A | N/A | N/A | N/A |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive | 12.5% | N/A | N/A | N/A | N/A |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.3% | N/A | N/A | N/A | N/A |
@@ -107,14 +107,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.7% | 100% |  |
-| 10.5–11.5% | 8% | 99.3% | Last Result |
-| 11.5–12.5% | 28% | 91% |  |
-| 12.5–13.5% | 38% | 63% | Median |
-| 13.5–14.5% | 20% | 25% |  |
-| 14.5–15.5% | 5% | 5% |  |
-| 15.5–16.5% | 0.5% | 0.6% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.3% | 100% |  |
+| 10.5–11.5% | 4% | 99.7% | Last Result |
+| 11.5–12.5% | 14% | 96% |  |
+| 12.5–13.5% | 20% | 82% |  |
+| 13.5–14.5% | 19% | 62% | Median |
+| 14.5–15.5% | 24% | 42% |  |
+| 15.5–16.5% | 15% | 18% |  |
+| 16.5–17.5% | 3% | 3% |  |
+| 17.5–18.5% | 0.2% | 0.2% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -125,9 +127,9 @@ Last result: **13** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 14–17 | 13–17 | 13–17 | 13–17 |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 14 | 14–17 | 13–17 | 13–17 | 13–17 |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 13–20 | 13–23 |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 17 | 13–18 | 13–18 | 13–18 | 13–18 |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 16–19 | 16–20 | 16–23 | 15–23 |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
@@ -223,13 +225,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 7% | 100% | Last Result |
-| 14 | 65% | 93% | Median |
-| 15 | 4% | 28% |  |
-| 16 | 3% | 23% |  |
-| 17 | 19% | 20% |  |
-| 18 | 0.3% | 0.5% |  |
-| 19 | 0.2% | 0.2% |  |
-| 20 | 0% | 0% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 6% | 99.8% | Last Result |
+| 14 | 13% | 94% |  |
+| 15 | 4% | 81% |  |
+| 16 | 39% | 78% | Median |
+| 17 | 5% | 39% |  |
+| 18 | 25% | 34% |  |
+| 19 | 5% | 9% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.4% | 2% |  |
+| 22 | 0.2% | 1.5% |  |
+| 23 | 1.3% | 1.3% |  |
+| 24 | 0% | 0% |  |
 
 
