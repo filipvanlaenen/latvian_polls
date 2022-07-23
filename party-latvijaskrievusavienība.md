@@ -10,9 +10,9 @@ Last result: **3.2%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.3% | 3.2–5.7% |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 7.1% | N/A | N/A | N/A | N/A |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.3% | 3.2–5.7% |
+| N/A | [Poll Average](average.html) | 7.2% | 6.2–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 7.1% | 6.2–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.3% | N/A | N/A | N/A | N/A |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 4.8% | N/A | N/A | N/A | N/A |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive | 5.2% | N/A | N/A | N/A | N/A |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 5.4% | N/A | N/A | N/A | N/A |
@@ -106,12 +106,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% | Last Result |
-| 3.5–4.5% | 64% | 96% | Median |
-| 4.5–5.5% | 31% | 32% |  |
-| 5.5–6.5% | 0.9% | 0.9% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% | Last Result |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 1.1% | 100% |  |
+| 5.5–6.5% | 19% | 98.9% |  |
+| 6.5–7.5% | 48% | 80% | Median |
+| 7.5–8.5% | 27% | 32% |  |
+| 8.5–9.5% | 4% | 5% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -122,9 +125,9 @@ Last result: **0** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–8 | 0–8 | 0–8 | 0–8 |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0–8 | 0–8 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 10 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 10 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
@@ -220,15 +223,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 0% | 26% |  |
-| 2 | 0% | 26% |  |
-| 3 | 0% | 26% |  |
-| 4 | 0% | 26% |  |
-| 5 | 0% | 26% |  |
-| 6 | 0.2% | 26% |  |
-| 7 | 0.5% | 26% |  |
-| 8 | 25% | 25% |  |
-| 9 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 0% | 99.9% |  |
+| 7 | 0.2% | 99.9% |  |
+| 8 | 36% | 99.8% |  |
+| 9 | 4% | 63% |  |
+| 10 | 60% | 60% | Median |
+| 11 | 0.2% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 

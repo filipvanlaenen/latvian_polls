@@ -10,9 +10,9 @@ Last result: **6.7%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 16.5–18.8% | 16.2–19.2% | 16.0–19.5% | 15.4–20.1% |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 20.0% | N/A | N/A | N/A | N/A |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 17.6% | 16.5–18.8% | 16.2–19.2% | 16.0–19.5% | 15.4–20.1% |
+| N/A | [Poll Average](average.html) | 20.0% | 18.5–21.6% | 18.1–22.0% | 17.7–22.4% | 17.0–23.2% |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 20.0% | 18.5–21.6% | 18.1–22.0% | 17.7–22.4% | 17.0–23.2% |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 17.6% | N/A | N/A | N/A | N/A |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 18.0% | N/A | N/A | N/A | N/A |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive | 19.2% | N/A | N/A | N/A | N/A |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 16.2% | N/A | N/A | N/A | N/A |
@@ -114,14 +114,17 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.7% | 100% |  |
-| 15.5–16.5% | 10% | 99.3% |  |
-| 16.5–17.5% | 34% | 90% |  |
-| 17.5–18.5% | 39% | 55% | Median |
-| 18.5–19.5% | 14% | 16% |  |
-| 19.5–20.5% | 2% | 2% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 2% | 99.9% |  |
+| 17.5–18.5% | 9% | 98% |  |
+| 18.5–19.5% | 25% | 89% |  |
+| 19.5–20.5% | 32% | 65% | Median |
+| 20.5–21.5% | 22% | 32% |  |
+| 21.5–22.5% | 8% | 10% |  |
+| 22.5–23.5% | 2% | 2% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -132,9 +135,9 @@ Last result: **8** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–24 | 19–25 | 18–27 |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
-| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 22 | 20–24 | 19–24 | 19–25 | 18–27 |
+| N/A | [Poll Average](average.html) | 24 | 21–24 | 21–25 | 20–27 | 20–27 |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 24 | 21–24 | 21–25 | 20–27 | 20–27 |
+| [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
@@ -239,17 +242,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 2% | 99.9% |  |
-| 19 | 6% | 98% |  |
-| 20 | 12% | 93% |  |
-| 21 | 2% | 80% |  |
-| 22 | 31% | 78% | Median |
-| 23 | 6% | 47% |  |
-| 24 | 39% | 41% |  |
-| 25 | 0.7% | 3% |  |
-| 26 | 1.2% | 2% |  |
-| 27 | 0.6% | 0.6% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 4% | 99.7% |  |
+| 21 | 16% | 96% |  |
+| 22 | 6% | 80% |  |
+| 23 | 0.5% | 74% |  |
+| 24 | 64% | 74% | Median |
+| 25 | 6% | 10% |  |
+| 26 | 2% | 4% |  |
+| 27 | 2% | 3% |  |
 | 28 | 0% | 0% |  |
 
 
