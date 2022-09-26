@@ -10,19 +10,21 @@ Last result: **11.0%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 9.5–13.3% | 9.2–13.6% | 8.9–13.9% | 8.4–14.5% |
-| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive | 10.2% | 9.2–11.3% | 8.9–11.6% | 8.7–11.9% | 8.2–12.4% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.8–11.9% | 8.5–12.3% | 8.3–12.6% | 7.9–13.1% |
+| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 11.3% | 10.4–12.3% | 10.1–12.6% | 9.9–12.8% | 9.5–13.3% |
+| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.6% | 7.8–11.0% |
+| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 10.2% | 9.2–11.3% | 8.9–11.6% | 8.7–11.9% | 8.2–12.4% |
 | [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.6% | 11.7–13.7% | 11.4–13.9% | 11.2–14.2% | 10.7–14.7% |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 10.8% | 9.7–12.1% | 9.4–12.5% | 9.1–12.8% | 8.6–13.5% |
-| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive | 10.5% | N/A | N/A | N/A | N/A |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV | 10.8% | 9.7–12.1% | 9.4–12.5% | 9.1–12.8% | 8.6–13.5% |
+| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive <br> ReTV | 10.5% | N/A | N/A | N/A | N/A |
 | [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 13.3% | 12.3–14.4% | 12.1–14.7% | 11.8–15.0% | 11.4–15.5% |
-| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.6–13.3% | 9.1–13.9% |
-| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive | 12.2% | 10.9–13.8% | 10.5–14.2% | 10.2–14.6% | 9.6–15.4% |
+| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.6–13.3% | 9.1–13.9% |
+| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV | 12.2% | 10.9–13.8% | 10.5–14.2% | 10.2–14.6% | 9.6–15.4% |
 | [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.2% | 11.2–13.2% | 11.0–13.5% | 10.8–13.8% | 10.3–14.3% |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 12.8% | 11.6–14.2% | 11.3–14.6% | 11.0–14.9% | 10.4–15.6% |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV | 12.8% | 11.6–14.2% | 11.3–14.6% | 11.0–14.9% | 10.4–15.6% |
 | [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 15.2% | 14.2–16.4% | 13.9–16.7% | 13.6–16.9% | 13.2–17.5% |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 14.2% | N/A | N/A | N/A | N/A |
-| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive | 12.5% | N/A | N/A | N/A | N/A |
+| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive <br> ReTV | 12.5% | N/A | N/A | N/A | N/A |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.3% | N/A | N/A | N/A | N/A |
 | [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 11.9% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.6% | 10.2–14.1% |
@@ -114,16 +116,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.7% | 100% |  |
-| 8.5–9.5% | 9% | 99.2% |  |
-| 9.5–10.5% | 23% | 90% |  |
-| 10.5–11.5% | 18% | 67% | Last Result, Median |
-| 11.5–12.5% | 21% | 49% |  |
-| 12.5–13.5% | 21% | 28% |  |
-| 13.5–14.5% | 6% | 6% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 5% | 99.9% |  |
+| 8.5–9.5% | 27% | 95% |  |
+| 9.5–10.5% | 23% | 67% | Median |
+| 10.5–11.5% | 25% | 44% | Last Result |
+| 11.5–12.5% | 16% | 19% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -134,19 +135,21 @@ Last result: **13** seats (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 13–16 | 13–16 | 11–17 | 10–17 |
-| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive | 13 | 13 | 11–13 | 10–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 13 | 10–14 | 10–14 | 10–15 | 9–17 |
+| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 14 | 14–15 | 13–16 | 13–17 |
+| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
+| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 13 | 13 | 11–13 | 10–13 | 10–13 |
 | [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 16 | 15–16 | 14–17 | 13–17 | 13–17 |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 13 | 13 | 12–15 | 11–15 | 11–15 |
-| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV | 13 | 13 | 12–15 | 11–15 | 11–15 |
+| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
 | [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 17 | 17 | 14–17 | 13–18 | 13–19 |
-| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive | 13 | 13–14 | 13–15 | 12–17 | 12–18 |
-| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive | 15 | 13–17 | 13–17 | 13–17 | 12–19 |
+| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV | 13 | 13–14 | 13–15 | 12–17 | 12–18 |
+| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV | 15 | 13–17 | 13–17 | 13–17 | 12–19 |
 | [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 13–16 | 13–16 | 13–17 | 13–18 |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 17 | 13–18 | 13–18 | 13–18 | 13–18 |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV | 17 | 13–18 | 13–18 | 13–18 | 13–18 |
 | [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 18 | 16–20 | 16–23 | 16–24 | 15–24 |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
+| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 14 | 13–15 | 13–16 | 13–17 | 13–17 |
@@ -240,17 +243,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 2% | 100% |  |
-| 11 | 1.3% | 98% |  |
-| 12 | 0.1% | 97% |  |
-| 13 | 49% | 97% | Last Result, Median |
-| 14 | 2% | 48% |  |
-| 15 | 2% | 45% |  |
-| 16 | 40% | 43% |  |
-| 17 | 3% | 4% |  |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 0% | 99.8% |  |
+| 9 | 1.1% | 99.8% |  |
+| 10 | 10% | 98.7% |  |
+| 11 | 14% | 89% |  |
+| 12 | 23% | 75% |  |
+| 13 | 4% | 52% | Last Result, Median |
+| 14 | 43% | 48% |  |
+| 15 | 4% | 5% |  |
+| 16 | 0.4% | 1.4% |  |
+| 17 | 1.0% | 1.1% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

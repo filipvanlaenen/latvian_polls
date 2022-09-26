@@ -10,19 +10,21 @@ Last result: **14.2%** (General Election of 6 October 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.6% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
-| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.7% | 0.1–0.9% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
+| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 0.4% | 0.2–0.7% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% |
-| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive | 0.2% | N/A | N/A | N/A | N/A |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.4% | 0.2–0.7% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% |
+| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.2% | N/A | N/A | N/A | N/A |
 | [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
-| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive | 0.0% | N/A | N/A | N/A | N/A |
+| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
+| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV | 0.1% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.7% | 0.5–1.1% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.7% | N/A | N/A | N/A | N/A |
-| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive | 1.0% | N/A | N/A | N/A | N/A |
+| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive <br> ReTV | 1.0% | N/A | N/A | N/A | N/A |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.5% | N/A | N/A | N/A | N/A |
 | [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive | 1.6% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija | 0.0% | N/A | N/A | N/A | N/A |
@@ -114,8 +116,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 88% | 100% | Median |
-| 0.5–1.5% | 12% | 12% |  |
+| 0.0–0.5% | 95% | 100% | Median |
+| 0.5–1.5% | 5% | 5% |  |
 | 1.5–2.5% | 0% | 0% |  |
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -140,18 +142,20 @@ Last result: **16** seats (General Election of 6 October 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
+| [1–30 September 2022](2022-09-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
+| [15–20 September 2022](2022-09-20-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0 | 0 | 0 | 0 |
+| [4–6 September 2022](2022-09-06-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0 | 0 | 0 | 0 |
 | [1–31 August 2022](2022-08-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
-| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
+| [16–21 August 2022](2022-08-21-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0 | 0 | 0 | 0 |
+| [3–7 August 2022](2022-08-07-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
 | [1–31 July 2022](2022-07-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
-| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
+| [20–24 July 2022](2022-07-24-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
+| [6–10 July 2022](2022-07-10-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
 | [1–30 June 2022](2022-06-30-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive | 0 | 0 | 0 | 0 | 0 |
+| [27–31 May 2022](2022-05-31-FactumInteractive.html) | Factum Interactive <br> ReTV | 0 | 0 | 0 | 0 | 0 |
 | [13–24 May 2022](2022-05-24-SKDS.html) | SKDS <br> Latvijas Televīzija | 0 | 0 | 0 | 0 | 0 |
 | [22 April–2 May 2022](2022-05-02-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
-| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
+| [26–29 April 2022](2022-04-29-FactumInteractive.html) | Factum Interactive <br> ReTV |  |  |  |  |  |
 | [1–31 March 2022](2022-03-31-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
 | [29–31 March 2022](2022-03-31-FactumInteractive.html) | Factum Interactive |  |  |  |  |  |
 | [1–28 February 2022](2022-02-28-SKDS.html) | SKDS <br> Latvijas Televīzija |  |  |  |  |  |
